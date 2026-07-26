@@ -300,7 +300,7 @@ Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand So
 
 Divine Staff of Archangel reduced from taking up 5 slots to 4 slots in inventory.<sup>51</sup>
 
-**0.97b (0.97.2 aka 97b)** **AND 0.97d (0.97.4 aka 97d)**: the first versions almost all private servers used back in 2004. The second most popular pServer version is **0.99B+ (0.99.28 aka 99B+).**
+### **0.97b (0.97.2 aka 97b)** **AND 0.97d (0.97.4 aka 97d)**: the first versions almost all private servers used back in 2004. The second most popular pServer version is **0.99B+ (0.99.28 aka 99B+).**
 
 **0.97p aka 0.97.16 (11.12.2003):**
 
@@ -557,6 +557,7 @@ Additional update #6 for Season 2 (11.07.2007):
 
 # **Season 3 (06.12.2007 - 26.02.2008):**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
+
 - Introduction of Master Level and Master Skill Tree system. Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
@@ -571,7 +572,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Added map Swamp of Calmness.<sup>146</sup>
 - Minor User Interface (UI) changes.<sup>148</sup>
 
-**Season 4 (26.08.2008 - 02.04.2009):**
+# **Season 4 (26.08.2008 - 02.04.2009):**
 
 - Introduction of Socket Items (lvl 380).<sup>151</sup>
 - Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup>152</sup>
@@ -582,13 +583,14 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup>155</sup>
 - Additional update for Season 4 (22.01.2009): Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup>156</sup>
 
-**Season 4.5 (02.04.2009 - 20.08.2009):** MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup>187, 188, 189</sup>
+# **Season 4.5 (02.04.2009 - 20.08.2009):**
+MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup>187, 188, 189</sup>
 
 - Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup>158</sup>
 - Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff).<sup>157</sup>
 - Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup>157</sup>
 
-**Season 5 Part 1 (20.08.2009 - 27.10.2009):**
+# **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
 
 - Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup>162</sup>
 - Added map Varka and Fortress of Imperial Guardian event.<sup>159</sup>
@@ -596,20 +598,21 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup>161</sup>
 - Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>161</sup>
 
-**Season 5 Part 2 (27.10.2009 - 04.02.2010):**
+# **Season 5 Part 2 (27.10.2009 - 04.02.2010):**
 
 - Introduction of Gens System.<sup>163</sup>
 - Introduction of MU Item Shop and Goblin Points (GP), which replace PC bang point system.<sup>165</sup>
 - Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>164</sup>
 
-**Season 5 Part 3 (04.02.2010 - 27.04.2010):**
+# **Season 5 Part 3 (04.02.2010 - 27.04.2010):**
 
 - Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup>167</sup>
 - Maximum item level raised from +13 to +15.<sup>166</sup>
 - Added map Loren Market.<sup>166</sup>
 - Updated graphics for various skill icons.<sup>166</sup>
 
-**Season 5 Part 4 (27.04.2010 - 16.09.2010):** This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. Since Season 5 (officially named this way) was released on 20.08.2009. and only two updates were released in between Season 5 Part 4 and the initial Season 5 release, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially.
+# **Season 5 Part 4 (27.04.2010 - 16.09.2010):**
+This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. Since Season 5 (officially named this way) was released on 20.08.2009. and only two updates were released in between Season 5 Part 4 and the initial Season 5 release, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially.
 
 - Introduction of Master Skill Tree system for Summoner.<sup>169</sup>
 - Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup>169</sup>
@@ -617,14 +620,14 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>168</sup>
 - Addition of new quests.<sup>168</sup>
 
-**Season 6 Part 1 (16.09.2010 - 03.03.2011):**
+# **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup>170</sup>
 - Added map Karutan 1 & 2.<sup>171</sup>
 - Addition of new daily quests.<sup>172</sup>
 - Additional update for Season 6 Part 1 (04.11.2010): Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup>173</sup>
 
-**Season 6 Part 2 (03.03.2011 - 25.08.2011):**
+# **Season 6 Part 2 (03.03.2011 - 25.08.2011):**
 
 - Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup>174</sup>
 - Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup>175</sup>
@@ -636,11 +639,12 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Additional update for Season 6 Part 2 (14.07.2011): Introduction of MU Helper.<sup>176, 177</sup>
 - Additional update for Season 6 Part 2 (28.07.2011): Re-work of Doppelganger (Double Goer) event.<sup>178</sup>
 
-**Season 6 Part 3 (25.08.2011 - 17.11.2011):** MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup>206, 207</sup>
+# **Season 6 Part 3 (25.08.2011 - 17.11.2011):**
+MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup>206, 207</sup>
 
 - Introduction of Master Skill Tree system for Rage Fighter.<sup>179</sup>
 
-**eX700 (17.11.2011 - 29.03.2012):**
+# **eX700 (17.11.2011 - 29.03.2012):**
 
 - Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup>180</sup>
 - Maximum level cap raised from 600 to 700 (Master Level 300).<sup>180, 211</sup>
@@ -648,21 +652,21 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Added map Acheron. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup>180</sup>
 - User Interface (UI) changes to the Login screen and Character selection screen (last updated on Season 1). Major User Interface (UI) changes in-game.<sup>180</sup>
 
-**eX701 (29.03.2012 - 13.06.2012):**
+# **eX701 (29.03.2012 - 13.06.2012):**
 
 - Introduction of Mastery Socket Items (lvl 400) for 3<sup>rd</sup> class characters. Mastery Socket Weapons (lvl 400) added: Sonic Blade, Cyclone Sword, Blast Break, Magmus Peer, Horn of Steal, Angelic Bow, Devil Crossbow, Spite Staff, Asura, Thunderbolt. Ingredient drops added from monsters in LaCleon (Raklion).<sup>183</sup>
 - Addition of Monster Wings (level 2.5 wings): Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup>184</sup>
 - Changes to Arka War mini-game.<sup>182</sup>
 - Additional User Interface (UI) changes in-game.<sup>181</sup>
 
-**eX702 (13.06.2012 - 27.11.2012):**
+# **eX702 (13.06.2012 - 27.11.2012):**
 
 - Maximum level cap raised from 700 to 702 (Master Level 302).<sup>213, 214</sup>
 - New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup>186</sup>
 - New Mastery Socket Armor (lvl 400) added: Stormwing set, Dark Devil set, Magic Knight set, Hell Knight set, Succubus set, Ambition set, Light Lord set, Sticky set, Lazy Wind set.<sup>186</sup>
 - Additional User Interface (UI) changes in-game.<sup>185</sup>
 
-**Season 8 Part 1 (27.11.2012 - 16.04.2013):**
+# **Season 8 Part 1 (27.11.2012 - 16.04.2013):**
 
 - Maximum level cap raised from 702 to 730 (Master Level 330).<sup>212</sup>
 - Introduction of new Pentagram items.<sup>192</sup>
@@ -673,21 +677,21 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Chaos Castle (CC) Survival of the Fittest.<sup>194</sup>
 - Additional update for Season 8 Part 1 (04.12.2012): Introduction of SNS (Social Networking Sites) system.<sup>197</sup>
 
-**Season 8 Part 2 (16.04.2013 - 30.07.2013):**
+# **Season 8 Part 2 (16.04.2013 - 30.07.2013):**
 
 - Introduction of MU Roomy game.<sup>199</sup>
 - Adjustments to Personal Store.<sup>198</sup>
 - Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protection Ring).<sup>196, 200</sup>
 - User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup>201</sup>
 
-**Season 8 Part 3 (30.07.2013 - 10.12.2013):**
+# **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
 
 - Introduction of Muun System and Items, including Evolution Stone. <sup>203</sup>
 - Illusion Temple rework.<sup>202</sup>
 - User Interface (UI) changes.<sup>204</sup>
 - Additional update for Season 8 Part 3 (08.10.2013): another Illusion Temple rework.<sup>205</sup>
 
-**Season 9 Part 1 (10.12.2013 - 03.04.2014):**
+# **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
 - Added area-zone Uruk Mountain in map Archeron and boss Lord Silvester.<sup>217</sup>
 - Expansion of Muun System. Introduction of Wizardry Stone. <sup>215</sup>
@@ -697,7 +701,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Tormented Square event.<sup>218</sup>
 - Introduction of Battle Core realm-system.<sup>219</sup>
 
-**Season 9 Part 2 (03.04.2014 - 19.08.2014):**
+# **Season 9 Part 2 (03.04.2014 - 19.08.2014):**
 
 - Introduction of Evomon Evolves event.<sup>221</sup>
 - Additional update for Season 9 Part 2 (22.04.2014):
@@ -708,7 +712,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
   - Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup>222</sup>
   - Introduction of Chaos Castle (Battle) event winner rewards.<sup>225</sup>
 
-**Season X Part 1 (19.08.2014 - 16.12.2014):**
+# **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup>231</sup>
 - Maximum level cap raised from 730 to 770 (Master Level 370).<sup>232</sup>
@@ -718,7 +722,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Additional update for Season X Part 1 (18.09.2014): Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup>233</sup>
 - Additional update for Season X Part 1 (27.11.2014): Introduction of new items for Grow Lancer.<sup>234</sup>
 
-**Season X Part 2 (16.12.2014 - 21.05.2015):**
+# **Season X Part 2 (16.12.2014 - 21.05.2015):**
 
 - Expansion of Master Skill Tree (rank 9) for Grow Lancer.<sup>236</sup>
 - Added area-zone Nars in map Acheron and boss Core Magriffy.<sup>240</sup>
@@ -728,7 +732,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Increased Solo and Party exp. Minor User Interface (UI) changes. Introduction of mass item combination in addition to existing single item combination system at Chaos Goblin. Introduction of play guide in-game for starters.<sup>235</sup>
 - Additional update for Season X Part 2 (05.02.2015): Introduction of new Muun Items.<sup>241</sup>
 
-**Season X Part 3 (21.05.2015 - 21.10.2015):**
+# **Season X Part 3 (21.05.2015 - 21.10.2015):**
 
 - Introduction of Skill Imprint system.<sup>242</sup>
 - Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup>243, 244</sup>
@@ -736,28 +740,28 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Additional update for Season X Part 3 (04.06.2015): Acheron entry level requirement lowered to level 300.<sup>246</sup>
 - Additional update for Season X Part 3 (11.06.2015): Maximum level cap raised from 770 to 800 (Master Level 400).<sup>247, 248</sup>
 
-**Season 11 Part 1-1 (21.10.2015 - 05.11.2015):**
+# **Season 11 Part 1-1 (21.10.2015 - 05.11.2015):**
 
 - Added map Ferea and bosses Lord Ferea and Ferea General. Entry level requirement of 400.<sup>249</sup>
 - Introduction of 2<sup>nd</sup> Mastery Sets: Darkangel (level 600) for all characters.<sup>250</sup>
 - Addition of new skills for Blade Master, Grand Master, High Elf and Dimension Summoner.<sup>251</sup>
 - Changes to Elemental System.<sup>252</sup>
 
-**Season 11 Part 1-2 (05.11.2015 - 17.05.2016):**
+# **Season 11 Part 1-2 (05.11.2015 - 17.05.2016):**
 
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup>253</sup>
 - Introduction of Blessed Divine Archangel Weapons and their upgrade system (Steel of Heaven, Archangel's Hammer) for all characters.<sup>254</sup>
 - Addition of new skills for Duel Master, Lord Emperor and Fist Master.<sup>255</sup>
 - Additional User Interface (UI) changes.<sup>256</sup>
 
-**Season 11 Part 2-1 (17.05.2016 - 09.06.2016):**
+# **Season 11 Part 2-1 (17.05.2016 - 09.06.2016):**
 
 - Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup>257</sup>
 - Introduction of Find the Bomb event.<sup>258</sup>
 - Introduction of new Pentagram items.<sup>259</sup>
 - Introduction of Hunting Log.<sup>260</sup>
 
-**Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
+# **Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
 
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer. Changes to map LaCleon (Raklion) item drop.<sup>261</sup>
 - Expansion of Seed Sphere system from Level 4 (Tetra) to Level 10. Changes to Seed Sphere Item Options and expansion of Bonus Socket Options.<sup>262</sup>
@@ -765,14 +769,14 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Changes to Socket System combinations.<sup>262</sup>
 - Improvements to Hunting Log.<sup>263</sup>
 
-**Season 12 Part 1-1 (01.11.2016 - 17.11.2016):**
+# **Season 12 Part 1-1 (01.11.2016 - 17.11.2016):**
 
 - Added map Nixies Lake and boss Nix. Entry level requirement of 700.<sup>264</sup>
 - Introduction of 2<sup>nd</sup> Mastery Weapons: Darkangel (level 600) for all characters.<sup>265</sup>
 - Introduction of 3<sup>rd</sup> Mastery Sets: Holyangel (level 800) for all characters.<sup>266</sup>
 - Maximum level cap raised from 800 to 820 (Master Level 420).<sup>267</sup>
 
-**Season 12 Part 1-2 (17.11.2016 - 23.05.2017):**
+# **Season 12 Part 1-2 (17.11.2016 - 23.05.2017):**
 
 - Changes to map Nixies Lake boss zone Nix area.<sup>268</sup>
 - Added mini-game Maze of Dimensions.<sup>269</sup>
@@ -781,7 +785,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Addition of new Quiver items for Elf character.<sup>270</sup>
 - Dark Lord (DL) can equip Dark Raven by right clicking it.<sup>270</sup>
 
-**Season 12 Part 2 (23.05.2017 - 24.10.2017):**
+# **Season 12 Part 2 (23.05.2017 - 24.10.2017):**
 
 - Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup>274</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Trees.<sup>273</sup>
@@ -792,7 +796,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Maximum Attack Speed. Changes to event entry level requirements. Gaining experience after level 800 is only possible after finishing 4<sup>th</sup> Class Quest. Changes to map movement level requirements. User Interface (UI) changes. Changes to MU Helper.<sup>276</sup>
 - Introduction of mini-game Jewel Bingo.<sup>277</sup>
 
-**Season 13 Part 1-1 (24.10.2017 - 14.11.2017):**
+# **Season 13 Part 1-1 (24.10.2017 - 14.11.2017):**
 
 - Added map Swamp of Darkness. Entry level requirement of 800.<sup>278</sup>
 - Introduction of 3<sup>rd</sup> Mastery Weapons: Holyangel (level 800) for all characters.<sup>279</sup>
@@ -801,26 +805,26 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Various gameplay and User Interface (UI) improvements.<sup>282</sup>
 - Character Selection window expanded from 5 to 8 characters.<sup>283</sup>
 
-**Season 13 Part 1-2 (14.11.2017 - 16.05.2018):**
+# **Season 13 Part 1-2 (14.11.2017 - 16.05.2018):**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Flame God, Wing of Celestial Body, Wings of Elysium, Wings of Other World, Wings of Annihilation) and Capes (Cloak of Dominator, Cloak of Judgment, Cloak of Isolation).<sup>284</sup>
 - Maximum level cap raised from 920 to 1000 (Master Level 600).<sup>285</sup>
 - Addition of Boss zone to map Swamp of Darkness and bosses God of Darkness, Swamp Monster, Water Monster, Swamp Summoned Beast.<sup>286</sup>
 
-**Season 13 Part 2-1 (16.05.2018 - 07.06.2018):**
+# **Season 13 Part 2-1 (16.05.2018 - 07.06.2018):**
 
 - Expansion of mini-game Maze of Dimensions from 7 floors to 41 floors.<sup>287</sup>
 - Introduction of 1<sup>st</sup> Mastery Earrings: Earring of Wrath (L) (level 300) and Earring of Wrath (R) (level 700). Introduction of Lapidary Stone.<sup>288</sup>
 - Maximum level cap raised from 1000 to 1050 (Master Level 650).<sup>289</sup>
 - Various User Interface (UI) improvements. Expansion of Master Skill Tree. Map movement level requirements changed.<sup>289</sup>
 
-**Season 13 Part 2-2 (07.06.2018 - 16.10.2018):**
+# **Season 13 Part 2-2 (07.06.2018 - 16.10.2018):**
 
 - Addition of Archangel Absolute Claws and Blessed Divine Claw of Archangel for Rage Fighter.<sup>290</sup>
 - New rules and clasification of buffs.<sup>291</sup>
 - Introduction of MU Lite.<sup>292</sup>
 
-**Season 14 Part 1-1 (16.10.2018 - 29.11.2018):**
+# **Season 14 Part 1-1 (16.10.2018 - 29.11.2018):**
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup>293</sup>
 - New skills added for Rune Mage.<sup>294</sup>
@@ -829,7 +833,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Switch Mode System. Improvements to MU Helper.<sup>295</sup>
 - Changes to Quest User Interface (UI). Introduction of damage limit to the Errtel of Radiance. Now Talisman of Chaos Assembly and Talisman of Luck can be sold in Personal Store.<sup>295</sup>
 
-**Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
+# **Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Destiny) for Rune Mage.<sup>296</sup>
 - Introduction of 3<sup>rd</sup> Mastery Sets and Weapons: Holyangel (level 800) for Rune Mage.<sup>296</sup>
@@ -841,7 +845,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Maximum level cap raised from 1050 to 1100 (Master Level 700).<sup>301</sup>
 - Addition of Archangel's Absolute Lance and Blessed Archangel's Absolute Lance for Grow Lancer.<sup>299</sup>
 
-**Season 14 Part 2-1 (21.05.2019 - 11.06.2019):**
+# **Season 14 Part 2-1 (21.05.2019 - 11.06.2019):**
 
 - Introduction of 2<sup>nd</sup> Mastery Earrings: Earrings of Forefathers (L) (level 700) and Earrings of Forefathers (R) (level 750).<sup>302</sup>
 - Maximum level cap raised from 1100 to 1150 (Master Level 750).<sup>303</sup>
@@ -851,17 +855,17 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Rune Mage.<sup>305</sup>
 - Introduction of Monster Soul Conversion system.<sup>306</sup>
 
-**Season 14 Part 2-2 (11.06.2019 - 24.09.2019):**
+# **Season 14 Part 2-2 (11.06.2019 - 24.09.2019):**
 
 - Major re-work of character Summoner.<sup>307</sup>
 - Introduction of 1<sup>st</sup> Guardian Mount: Phantasmal Steed (level 800).<sup>308</sup>
 - Added Elite Zone in map Atlans (Abyss) 3 and Elite monsters Bahamut Abyss & Lizard King.<sup>308</sup>
 
-**Season 15 Part 1-1 (24.09.2019 - 17.10.2019):**
+# **Season 15 Part 1-1 (24.09.2019 - 17.10.2019):**
 
 - Introduction of 10<sup>th</sup> character: Slayer.<sup>309</sup>
 
-**Season 15 Part 1-2 (17.10.2019 - 05.11.2019):**
+# **Season 15 Part 1-2 (17.10.2019 - 05.11.2019):**
 
 - New skills added for Slayer.<sup>310</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Silence) for Slayer.<sup>310</sup>
@@ -875,7 +879,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Maximum level cap raised from 1150 to 1200 (Master Level 800).<sup>314</sup>
 - Various User Interface (UI) improvements.<sup>314</sup>
 
-**Season 15 Part 1-3 (05.11.2019 - 21.04.2020):**
+# **Season 15 Part 1-3 (05.11.2019 - 21.04.2020):**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Condemnation) for Slayer.<sup>315</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Slayer.<sup>315</sup>
@@ -885,7 +889,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Added Elite Zone in map Scorched Canyon and Elite monsters Scorched Warrior, Scorched Wizard, Scorched Assasin.<sup>317</sup>
 - Expansion of Skill Enhancement Trees. Changes to skills.<sup>318</sup>
 
-**Season 15 Part 2-1 (21.04.2020 - 11.05.2020):**
+# **Season 15 Part 2-1 (21.04.2020 - 11.05.2020):**
 
 - Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup>320</sup>
 - Maximum level cap raised from 1200 to 1250 (Master Level 850).<sup>321</sup>
@@ -893,7 +897,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of four Excellent Socket Necklaces (level 850): Lapis Lazuli Necklace, Jasper Necklace, Battle Jasper Necklace, Battle Lapis Lazuli Necklace.<sup>319</sup>
 - Minor User Interface (UI) improvements.<sup>321</sup>
 
-**Season 15 Part 2-2 (11.05.2020 - 15.09.2020):**
+# **Season 15 Part 2-2 (11.05.2020 - 15.09.2020):**
 
 - Introduction of 2<sup>nd</sup> Guardian Mount: Ice Dragon (level 900).<sup>323</sup>
 - Added Elite Zone in map Crimson Flame's Icarus and Elite monsters Great Drakan, Phoenix of Darkness.<sup>323</sup>
@@ -903,11 +907,11 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Re-work of character Dark Knight (DK).<sup>327</sup>
 - Changes to Party and Party Matching system. Introduction of MU Helper plus.<sup>328</sup>
 
-**Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
+# **Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
 
 - Introduction of 11<sup>th</sup> character: Gun Crusher.<sup>329</sup>
 
-**Season 16 Part 1-2 (06.10.2020 - 27.10.2020):**
+# **Season 16 Part 1-2 (06.10.2020 - 27.10.2020):**
 
 - Added map Temple of Arnil. Entry level requirement of 1100.<sup>331</sup>
 - Maximum level cap raised from 1250 to 1300 (Master Level 900).<sup>330</sup>
@@ -919,7 +923,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Accuracy) for Gun Crusher.<sup>332</sup>
 - New skills added for Gun Crusher.<sup>332</sup>
 
-**Season 16 Part 1-3 (27.10.2020 - 13.04.2021):**
+# **Season 16 Part 1-3 (27.10.2020 - 13.04.2021):**
 
 - Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup>335</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Bloodshed) for Gun Crusher.<sup>334</sup>
@@ -931,13 +935,13 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Update to NPC Moss the Gambler in Elveland its items.<sup>339</sup>
 - Introduction of item sort function.<sup>339</sup>
 
-**Season 16 Part 2-1 (13.04.2021 - 04.05.2021):**
+# **Season 16 Part 2-1 (13.04.2021 - 04.05.2021):**
 
 - Maximum level cap raised from 1300 to 1350 (Master Level 950).<sup>340</sup>
 - Added map Gray Aida. Entry level requirement of 1130.<sup>341</sup>
 - Introduction of 4<sup>th</sup> Mastery Earrings: Earrings of Blood (L) (level 800) and Earrings of Blood (R) (level 850).<sup>342</sup>
 
-**Season 16 Part 2-2 (04.05.2021 - 28.09.2021):**
+# **Season 16 Part 2-2 (04.05.2021 - 28.09.2021):**
 
 - Introduction of 3<sup>rd</sup> Guardian Mount: Fierce Lion (level 1000).<sup>345</sup>
 - Added Elite Zone in map Gray Aida and Elite monsters Golem Gray, Bloody Witch Queen Gray.<sup>345</sup>
@@ -945,12 +949,12 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Added skill Fixed Fire for Gun Crusher.<sup>344</sup>
 - Update to Guardian Mount pets.<sup>346</sup>
 
-**Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
+# **Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
 
 - Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup>347</sup>
 - Minor User Interface (UI) improvements.<sup>348</sup>
 
-**Season 17 Part 1-2 (19.10.2021 - 09.11.2021):**
+# **Season 17 Part 1-2 (19.10.2021 - 09.11.2021):**
 
 - Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup>349</sup>
 - Introduction of map Burning Kethotum. Entry level requirement of 1160.<sup>350</sup>
@@ -960,7 +964,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Addition of sets and weapons for White Wizard and Mage.<sup>351</sup>
 - Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for all characters except White Wizard and Mage. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for all characters except White Wizard and Mage.<sup>352</sup>
 
-**Season 17 Part 1-3 (09.11.2021 - 19.04.2022):**
+# **Season 17 Part 1-3 (09.11.2021 - 19.04.2022):**
 
 - Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup>353</sup>
 - Changes to map Nixies Lake and map Cubera Mine.<sup>353</sup>
@@ -971,24 +975,24 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for White Wizard. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for White Wizard.<sup>354</sup>
 - Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Mage. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Mage.<sup>354</sup>
 
-**Season 17 Part 2-1 (19.04.2022 - 10.05.2022):**
+# **Season 17 Part 2-1 (19.04.2022 - 10.05.2022):**
 
 - Introduction of map Kanturu Underground. Entry level requirement of 1190.<sup>355</sup>
 - Introduction of 5<sup>th</sup> Mastery Earrings: Allurement Earring (L) (level 850) and Allurement Earring (R) (level 900).<sup>356</sup>
 - Maximum level cap raised from 1400 to 1450 (Master Level 1050).<sup>357</sup>
 
-**Season 17 Part 2-2 (10.05.2022 - 27.09.2022):**
+# **Season 17 Part 2-2 (10.05.2022 - 27.09.2022):**
 
 - 4<sup>th</sup> Level Wings combination update: In case of successful combination, one gets the wings according to his character class.<sup>358</sup>
 - Introduction of 4<sup>th</sup> Guardian Mount: Shining Tail (level 1100).<sup>359</sup>
 - Added Elite Zone in map Kanturu Underground and Elite monsters Underground Persona, Underground Twin Tail, Underground Dread Fear.<sup>359</sup>
 - Re-work of character Fairy Elf (FE).<sup>360</sup>
 
-**Season 18 Part 1-1 (27.09.2022 - 20.10.2022):**
+# **Season 18 Part 1-1 (27.09.2022 - 20.10.2022):**
 
 - Introduction of 14<sup>th</sup> character: Illusion Knight.<sup>361</sup>
 
-**Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
+# **Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
 
 - Introduction of map Ignis Volcano. Entry level requirement of 1220.<sup>363</sup>
 - Maximum level cap raised from 1450 to 1500 (Master Level 1100).<sup>362</sup>
@@ -998,7 +1002,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Illusion Knight. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Illusion Knight.<sup>365</sup>
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Illusion Knight. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Illusion Knight. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Illusion Knight. Introduction of Blessed Archangel's Absolute Blade for Illusion Knight.<sup>365</sup>
 
-**Season 18 Part 1-3 (08.11.2022 - 18.04.2023):**
+# **Season 18 Part 1-3 (08.11.2022 - 18.04.2023):**
 
 - Added Elite Zone in map Ignis Volcano and Elite monsters Magma Gladiator, Magma Hook, Magma Shaman.<sup>366</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Cloak of Hatred) for Illusion Knight.<sup>367</sup>
@@ -1008,7 +1012,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Artifact System.<sup>369</sup>
 - Introduction of Boss Battle Together event. Entry level requirement of 1000.<sup>370</sup>
 
-**Season 18 Part 2-1 (18.04.2023 - 18.05.2023):**
+# **Season 18 Part 2-1 (18.04.2023 - 18.05.2023):**
 
 - Introduction of map Bloody Tarkan. Entry level requirement of 1250.<sup>372</sup>
 - Maximum level cap raised from 1500 to 1550 (Master Level 1150).<sup>373</sup>
@@ -1017,23 +1021,23 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Expansion of Muun System. Introduction of Muun Tempest.<sup>374</sup>
 - Introduction of Horn Mastery Crystal buff.<sup>375</sup>
 
-**Season 18 Part 2-2 (18.05.2023 - 19.09.2023):**
+# **Season 18 Part 2-2 (18.05.2023 - 19.09.2023):**
 
 - Introduction of 5<sup>th</sup> Guardian Mount: Ur (level 1200).<sup>377</sup>
 - Re-work of character Dark Knight (DK), Magic Gladiator (MG), Rage Fighter (RF), Slayer.<sup>378</sup>
 - Added Elite Zone in map Bloody Tarkan and Elite monsters Bloody Wolf, Bloody Beam Knight, Bloody Tantalus.<sup>379</sup>
 
-**Season 19 Part 1-1 (19.09.2023 - 12.10.2023):**
+# **Season 19 Part 1-1 (19.09.2023 - 12.10.2023):**
 
 - Re-work of character Grow Lancer.<sup>380</sup>
 
-**Season 19 Part 1-2 (12.10.2023 - 01.11.2023):**
+# **Season 19 Part 1-2 (12.10.2023 - 01.11.2023):**
 
 - Introduction of map Tormenta Island. Entry level requirement of 1400.<sup>381</sup>
 - Maximum level cap raised from 1550 to 1600 (Master Level 1200).<sup>382</sup>
 - Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for all characters. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for all characters.<sup>383</sup>
 
-**Season 19 Part 1-3 (01.11.2023 - 30.04.2024):**
+# **Season 19 Part 1-3 (01.11.2023 - 30.04.2024):**
 
 - Introduction of 5<sup>th</sup> Class Quests for all characters.<sup>384</sup>
 - Introduction of 5<sup>th</sup> Level Wings (Wings of Destruction, Wings of Virtue, Wings of Fantasy, Wings of Punishment, Wings of Barrier, Wings of Inevitability, Wings of Jaan, Wings of Crimson, Wings of Eternity) and Capes (Cloak Spirit, Cloak of Oath, Cloak of Discipline, Cloak of Deterioration, Cloak of Resolution) for all characters.<sup>385</sup>
@@ -1041,18 +1045,18 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Ability Cards-Enhancement System.<sup>387</sup>
 - Introduction of Greater Spirit Stone. Changes to map entry level requirements.<sup>388</sup>
 
-**Season 19 Part 2-1 (30.04.2024 - 14.05.2024):**
+# **Season 19 Part 2-1 (30.04.2024 - 14.05.2024):**
 
 - Re-work of character Dark Lord (DL).<sup>389</sup>
 
-**Season 19 Part 2-2 (14.05.2024 - 04.06.2024):**
+# **Season 19 Part 2-2 (14.05.2024 - 04.06.2024):**
 
 - Introduction of map Twisted Karutan. Entry level requirement of 1450.<sup>391</sup>
 - Introduction of 7<sup>th</sup> Mastery Earrings: Foliage Earring (L) (level 950) and Foliage Earring (R) (level 1000).<sup>392</sup>
 - Maximum level cap raised from 1600 to 1650 (Master Level 1250).<sup>390</sup>
 - Adjustments to Ability Cards-Enhancement System.<sup>393</sup>
 
-**Season 19 Part 2-3 (04.06.2024 - 24.09.2024):**
+# **Season 19 Part 2-3 (04.06.2024 - 24.09.2024):**
 
 - Introduction of 6<sup>th</sup> Guardian Mount: Leviathan (level 1300).<sup>394</sup>
 - Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup>395</sup>
@@ -1060,11 +1064,11 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Changes to Skill Enhancement Trees.<sup>397</sup>
 - Additional update for Season 19 Part 2-3 (08.08.2024): Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
 
-**Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
+# **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
 - Introduction of 15<sup>th</sup> character: Alchemist.<sup>399</sup>
 
-**Season 20 Part 1-2 (15.10.2024 - 05.11.2024):**
+# **Season 20 Part 1-2 (15.10.2024 - 05.11.2024):**
 
 - Introduction of map Kardamahal Underground Temple. Entry level requirement of 1500.<sup>401</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of the Lake) for Alchemist. Introduction of 4<sup>th</sup> Level Wings (Wings of Purity) for Alchemist. Introduction of 5<sup>th</sup> Level Wings (Wings of Hyean) for Alchemist. Introduction of Pure Wing Core of Hyean for Alchemist.<sup>402</sup>
@@ -1073,35 +1077,35 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Alchemist. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Alchemist. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Alchemist.<sup>402</sup>
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Alchemist. Introduction of Blessed Archangel's Absolute Wand for Alchemist.<sup>402</sup>
 
-**Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
+# **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
 
 - Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup>404</sup>
 - Introduction of 1<sup>st</sup> Legendary Weapons and Shield: Temple Guard (level 1500) for all characters.<sup>405</sup>
 - Introduction of 1<sup>st</sup> Legendary Armors set: Sanctuary Temple Guard (level 1500) for all characters.<sup>405</sup>
 - Guild Matching User Interface (UI) and Combination User Interface (UI) improvements.<sup>403</sup>
 
-**Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
+# **Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
 
 - Re-work of character Rune Mage.<sup>406</sup>
 
-**Season 20 Part 2-2 (13.05.2025 - 29.05.2025):**
+# **Season 20 Part 2-2 (13.05.2025 - 29.05.2025):**
 
 - Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup>407</sup>
 - Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Cold (L) (level 1000) and Earring of Cold (R) (level 1050).<sup>408</sup>
 - Various gameplay improvements. Introduction of Monster Soul Converter. Changes to Boss Battle Together event. Changes to exp necessary for levels. Increased exp gained from map Kardamahal Underground Temple monsters. Added Blessing of Eunice.<sup>409</sup>
 
-**Season 20 Part 2-3 (29.05.2025 - 30.09.2025):**
+# **Season 20 Part 2-3 (29.05.2025 - 30.09.2025):**
 
 - Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup>410</sup>
 - Introduction of 7<sup>th</sup> Guardian Mount: Tauros (level 1400).<sup>411</sup>
 - Various gameplay improvements. Introduction of Experience Recovery Potion that recovers lost experience on death. Changes to event entry tickets. Introduction of 10 daily entrance limits to mini-game Maze of Dimensions.<sup>412</sup>
 
-**Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
+# **Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
 
 - Introduction of 16<sup>th</sup> character: Crusader.<sup>414</sup>
 - Changes to map Deep Dungeon 1-5 entry level requirements, changes to monster stats.<sup>413</sup>
 
-**Season 21 Part 1-2 (21.10.2025 - 11.11.2025):**
+# **Season 21 Part 1-2 (21.10.2025 - 11.11.2025):**
 
 - Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup>417</sup>
 - Maximum level cap raised from 1700 to 1750 (Master Level 1350).<sup>416</sup>
@@ -1113,18 +1117,18 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Armor set: Sanctuary Temple Guard (level 1500) for Crusader.<sup>415</sup>
 - Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stat. Changes to Monster Soul Converter level brackets and requirements. Legendary Weapons/Armors set User Interface (UI) improvements. Changes to Fairy Elf (FE) buff stats.<sup>419</sup>
 
-**Season 21 Part 1-3 (11.11.2025 - 21.04.2026):**
+# **Season 21 Part 1-3 (11.11.2025 - 21.04.2026):**
 
 - Added Elite Zone in map Aquilas Temple and Elite monsters Aquila Warrior, Aquila Gunner, Aquila Mage. Removal of Elite Zone and its monsters in map Swamp of Destruction.<sup>420</sup>
 - Adding Jewel of Bless or Jewel of Soul to items in inventory is not possible anymore. Increased Zen costs for item enhancements in Chaos Machine.<sup>421</sup>
 - Changes to Crywolf event.<sup>421</sup>
 
-**Season 21 Part 2-1 (21.04.2026 - 12.05.2026):**
+# **Season 21 Part 2-1 (21.04.2026 - 12.05.2026):**
 
 - Changes to stat requirements for items depending on their enhancement (plus) level. Stat requirements do not increase depending on item enhancement level. Jewel of Life (JoL) enhancements do require higher stats. Minor adjustments to stat requirements for all items.<sup>422</sup>
 - Minor re-work of Fairy Elf (FE), Magic Gladiator (MG), Gun Crusher, Illusion Knight, Rune Mage.<sup>423</sup>
 
-**Season 21 Part 2-2 (12.05.2026 - 09.06.2026):**
+# **Season 21 Part 2-2 (12.05.2026 - 09.06.2026):**
 
 - Introduction of map LaCleon of Oblivion (Raklion of Oblivion). Entry level requirement of 1650.<sup>424</sup>
 - Maximum level cap raised from 1750 to 1800 (Master Level 1400).<sup>425</sup>
@@ -1132,14 +1136,14 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Increased Socket Item enhancement probability rates.<sup>427</sup>
 - Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stats. Changes to Monster Soul Converter level brackets and requirements. Horn of Uniria, Satan and Guardian Angel are removed as monster drops and quest rewards.<sup>428</sup>
 
-**Season 21 Part 2-3 (09.06.2026 - …):**
+# **Season 21 Part 2-3 (09.06.2026 - …):**
 
 - Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup>429</sup>
 - Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup>430</sup>
 - Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for Crusader.<sup>431</sup>
 - Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for Crusader.<sup>431</sup>
 
-**REFERENCES:**
+# **REFERENCES:**
 
 1\. <https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm>
 
