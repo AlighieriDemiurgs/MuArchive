@@ -1,4 +1,4 @@
-**Season 0**
+# **Season 0**
 
 **12.02.2001:** Closed ALPHA test in South Korea.<sup>1</sup>
 
