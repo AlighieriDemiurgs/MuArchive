@@ -661,7 +661,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **eX701 (29.03.2012 - 13.06.2012):**
 
 - Introduction of Mastery Socket Items (lvl 400) for 3<sup>rd</sup> class characters. Mastery Socket Weapons (lvl 400) added: Sonic Blade, Cyclone Sword, Blast Break, Magmus Peer, Horn of Steal, Angelic Bow, Devil Crossbow, Spite Staff, Asura, Thunderbolt. Ingredient drops added from monsters in LaCleon (Raklion).<sup>183</sup>
-- Addition of Monster Wings (level 2.5 wings): Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup>184</sup>
+- Addition of 2.5 Level Wings (Monster Wings: Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup>184</sup>
 - Changes to Arka War mini-game.<sup>182</sup>
 - Additional User Interface (UI) changes in-game.<sup>181</sup>
 
