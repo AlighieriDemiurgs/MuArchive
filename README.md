@@ -702,7 +702,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
 - Added area-zone Uruk Mountain in map Archeron and boss Lord Silvester.<sup>217</sup>
-- Expansion of Muun System. Introduction of Wizardry Stone. <sup>215</sup>
+- Expansion of Muun System. Introduction of Wizardry Stone.<sup>215</sup>
 - Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup>216</sup>
 - Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup>220</sup>
 - Changes to PK system.<sup>220</sup>
