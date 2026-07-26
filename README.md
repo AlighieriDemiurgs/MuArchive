@@ -1161,21 +1161,15 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 6\. <https://web.archive.org/web/20011115120557/http://www.muonline.co.kr/news/news/read.asp?ann__guid=27&f_keyWord=&f_sekey=>
 
--
+7\. <https://web.archive.org/web/20030828124643/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=99&f_keyWord=&f_sekey=>
 
-<https://web.archive.org/web/20030828124643/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=99&f_keyWord=&f_sekey=>
-
--
-
-<https://web.archive.org/web/20040308214658/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=122&f_keyWord=&f_sekey=>
+8\. <https://web.archive.org/web/20040308214658/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=122&f_keyWord=&f_sekey=>
 
 9\. <https://web.archive.org/web/20030820040557/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=162&f_keyWord=&f_sekey=>
 
 10\. <https://web.archive.org/web/20020213121629/http://www.muonline.co.kr/news/news/read.asp?ann__guid=231&f_keyWord=&f_sekey=>
 
--
-
-<https://web.archive.org/web/20020208024846/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=350&f_keyWord=&f_sekey=>
+11\. <https://web.archive.org/web/20020208024846/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=350&f_keyWord=&f_sekey=>
 
 12\. <https://web.archive.org/web/20020414150334/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=450&f_keyWord=&f_sekey=>
 
@@ -1376,11 +1370,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 105\. <https://web.archive.org/web/20051104084654/http://www.muonline.co.kr/News/Notice/readNotice.asp?intBoardSeq=400&strNoticeCode=0&intCurrentPage=1&strSearchText=%2D>
 
-106\. [https://web.archive.org/web/20040301225043/http://www.muonline.co.kr/news/update_patch/read.asp?ann_\_guid=209&f_keyWord=&f_sekey=](https://web.archive.org/web/20040301225043/http:/www.muonline.co.kr/news/update_patch/read.asp?ann__guid=209&f_keyWord=&f_sekey=)
+106\. <https://web.archive.org/web/20040301225043/http:/www.muonline.co.kr/news/update_patch/read.asp?ann__guid=209&f_keyWord=&f_sekey=>
 
 107\. <https://web.archive.org/web/20011119051039/http://www.muonline.co.kr/news/news/read.asp?ann__guid=6&f_keyWord=&f_sekey=>
 
-108\. [https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6024?page=62&category=1701&\_x_tr_sl=ko&\_x_tr_tl=en&\_x_tr_hl=en&\_x_t_pto=wapp](https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6024?page=62&category=1701&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+108\. <https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6024?page=62&category=1701&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
 109\. <https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6025?page=62&category=1701&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
