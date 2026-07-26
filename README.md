@@ -508,7 +508,7 @@ Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Sto
 - Changes to PK levels and entry restrictions to events like Blood Castle (BC), Devil Square (DS) and Chaos Castle (CC).<sup>129</sup>
 - NPC shop added in Kalima.<sup>129</sup>
 
-**Season 2 (29.08.2006 - 06.12.2007):**
+# **Season 2 (29.08.2006 - 06.12.2007):**
 
 - Introduction of level 380 Item Options.<sup>131</sup>
 - Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup>132, 131</sup>
@@ -559,7 +559,7 @@ Additional update #6 for Season 2 (11.07.2007):
 
 - Introduction of Illusion Temple event.<sup>141</sup>
 
-**Season 3 (06.12.2007 - 26.02.2008):** Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
+# **Season 3 (06.12.2007 - 26.02.2008):** Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
 - Introduction of Master Level and Master Skill Tree system. Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
