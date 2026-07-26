@@ -606,7 +606,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 - Introduction of Gens System.<sup>163</sup>
 - Introduction of MU Item Shop and Goblin Points (GP), which replace PC bang point system.<sup>165</sup>
 - Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mistery).<sup>165</sup>
-  - MU Korea (muonline.co.kr) did not announce Small Wings update-patch separately. MU Item Shop was introduced on Season 5 Part 2. Although this update does not mention Small Wings separately, it includes photos of Small Wings in the Item Shop. In addition, Small Wings were initially obtainable from Item Shop, not in-game. All in all, it is safe to assume that Small Wings were introduced on Season 5 Part 2.
+  - MU Korea (muonline.co.kr) did not announce Small Wings update-patch separately. MU Item Shop was introduced on Season 5 Part 2. Although this update does not mention Small Wings, it includes photos of Small Wings in the Item Shop. In addition, Small Wings were initially obtainable from Item Shop, not in-game. All in all, it is safe to assume that Small Wings were introduced on Season 5 Part 2 together with Item Shop, not before that.
 - Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>164</sup>
 
 # **Season 5 Part 3 (04.02.2010 - 27.04.2010):**
