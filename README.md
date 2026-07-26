@@ -940,7 +940,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup>335</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Bloodshed) for Gun Crusher.<sup>334</sup>
-- Introduction of Blessed Divine Magic Gun of Archangel. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Gun Crusher. <sup>334</sup>
+- Introduction of Blessed Divine Magic Gun of Archangel. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Gun Crusher.<sup>334</sup>
 - Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Gun Crusher. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Gun Crusher.<sup>334</sup>
 - Re-work of mini-game Maze of Dimensions.<sup>336</sup>
 - Re-work of Jewel of Harmony (JoH).<sup>337</sup>
