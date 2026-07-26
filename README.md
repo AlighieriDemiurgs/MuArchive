@@ -461,32 +461,32 @@ Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand So
 - Introduction of map Kalima 7 with a level requirement of 380.<sup>105, 72, 121, 112</sup>
 - Introduction of Castle Siege skills.<sup>105, 72, 113</sup>
 
-Additional update #1 for Season 1 (30.08.2005):
+**Additional update #1 for Season 1 (30.08.2005):**
 
 - Introduction of level 380 Items: Bone Blade, Dragon Knight (Baphomet) set, Grand Viper Staff, Venom Mist set, Sylph Wind Bow, Sylphid Ray set, Explosion Blade, Volcano set, Soleil Scepter, Sunlight set.<sup>122</sup>
 - Changes to stat Fruit system.<sup>122</sup>
 
-Additional update #2 for Season 1 (17.10.2005):
+**Additional update #2 for Season 1 (17.10.2005):**
 
 - Monster levels adjusted for the level 380 Items.<sup>123</sup>
 - Adjustments to Aida, Crywolf and Kalima 6 entry requirements.<sup>123</sup>
 - Adjustments to Kalima 6 monster level.<sup>123</sup>
 - Items added to Crywolf NPC Wandering Merchant.<sup>123</sup>
 
-Additional update #3 for Season 1 (08.11.2005):
+**Additional update #3 for Season 1 (08.11.2005):**
 
 - Adjustments to Castle Siege.<sup>124</sup>
 
-Additional update #4 for Season 1 (06.12.2005):
+**Additional update #4 for Season 1 (06.12.2005):**
 
 - Introduction of Horn of Fenrir.<sup>125</sup>
 - User Interface (UI) changes to the Login screen and Character selection screen.<sup>125</sup>
 
-Additional update #5 for Season 1 (10.01.2006):
+**Additional update #5 for Season 1 (10.01.2006):**
 
 - Introduction of Crywolf event.<sup>126</sup>
 
-Additional update #6 for Season 1 (14.02.2006):
+**Additional update #6 for Season 1 (14.02.2006):**
 
 - Complete removal of party level gap 130.<sup>127</sup>
 - Elf Soldier (Shadow Phantom Soldier) buff level limit increased from 100 to 180.<sup>127</sup>
@@ -494,11 +494,11 @@ Additional update #6 for Season 1 (14.02.2006):
 - Symbol of Kundun +7 now drops from monster level 115 and higher.<sup>127</sup>
 - Minor changes to NPC selling stocks.<sup>127</sup>
 
-Additional update #7 for Season 1 (04.04.2006):
+**Additional update #7 for Season 1 (04.04.2006):**
 
 - PC bang (Korean internet café) exclusive Chaos Castle (CC) event times added.<sup>128</sup>
 
-Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Story':
+**Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Story':**
 
 - Introduction of Shield Gage (SD) bar, Complex Potions and SD Potion.<sup>129</sup>
 - Added Infinity Arrow skill for Muse Elf (ME).<sup>129</sup>
@@ -517,13 +517,13 @@ Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Sto
 - Introduction of Window Mode.<sup>131</sup>
 - Changed entry and /move level requirements for various maps.<sup>131</sup>
 
-Additional update #1 for Season 2 (05.12.2006):
+**Additional update #1 for Season 2 (05.12.2006):**
 
 - Expansion of Land of Trials.<sup>133</sup>
 - Adjustments to Castle Siege.<sup>133</sup>
 - Changes to NPC Senior item combination list in Valley of Loren.<sup>133</sup>
 
-Additional update #2 for Season 2 (30.01.2007):
+**Additional update #2 for Season 2 (30.01.2007):**
 
 - Elf Soldier (Shadow Phantom Soldier) buffs can be received in addition to having been buffed with Orb of Greater Damage and Orb of Greater Defense. The strongest buff applies in that case.<sup>134, 135</sup>
 - Minor game adjustments for low level characters.<sup>134</sup>
@@ -532,7 +532,7 @@ Additional update #2 for Season 2 (30.01.2007):
 - Modifications to map Kalima.<sup>135</sup>
 - Introduction of NPC Pamela the Supplier and NPC Angela the Supplier in Valley of Loren.<sup>135</sup>
 
-Additional update #3 for Season 2 (27.03.2007):
+**Additional update #3 for Season 2 (27.03.2007):**
 
 - Introduction of wedding hall in Devias 2.<sup>136</sup>
 - Elf Soldier (Shadow Phantom Soldier) buff limit increased from level 180 to 220.<sup>137</sup>
@@ -543,17 +543,17 @@ Additional update #3 for Season 2 (27.03.2007):
 - Changes to Chaos Castle (CC) entry locations.<sup>137</sup>
 - Changes to Aida map location on the 'M' Teleport Window.<sup>137</sup>
 
-Additional update #4 for Season 2 (03.04.2007):
+**Additional update #4 for Season 2 (03.04.2007):**
 
 - Introduction of PC bang (Korean internet café) point system and shop.<sup>138</sup>
 
-Additional update #5 for Season 2 (28.06.2007):
+**Additional update #5 for Season 2 (28.06.2007):**
 
 - Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup>139</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup>140</sup>
 - Introduction of Balgass Barracks and Refuge of Balgass.<sup>139</sup>
 
-Additional update #6 for Season 2 (11.07.2007):
+**Additional update #6 for Season 2 (11.07.2007):**
 
 - Introduction of Illusion Temple event.<sup>141</sup>
 
