@@ -563,7 +563,8 @@ Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.
 - Added map Elveland.<sup>144</sup>
 - Major User Interface (UI) changes.<sup>145</sup>
 
-**Season 3.0+ (26.02.2008 - 26.08.2008):** Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
+# **Season 3.0+ (26.02.2008 - 26.08.2008):**
+Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
 - Expansion of Master Skill Tree (rank 3). Addition of skills Weakness and Innovation for Summoner. Addition of Wings of Dimension for Summoner.<sup>147</sup>
 - Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup>149</sup>
