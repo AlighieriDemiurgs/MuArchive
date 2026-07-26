@@ -693,7 +693,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
 
-- Introduction of Muun System and Items, including Evolution Stone. <sup>203</sup>
+- Introduction of Muun System and Items, including Evolution Stone.<sup>203</sup>
 - Illusion Temple rework.<sup>202</sup>
 - User Interface (UI) changes.<sup>204</sup>
 - **Additional update for Season 8 Part 3 (08.10.2013):**
