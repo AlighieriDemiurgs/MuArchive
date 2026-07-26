@@ -294,11 +294,11 @@
 
 **06.10.2003:**
 
-Global MU Online (GMO) launched for Europe and the Americas. Version 0.95.0. First server Maya was launched on 6<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup>27, 76</sup>
+- Global MU Online (GMO) launched for Europe and the Americas. Version 0.95.0. First server Maya was launched on 6<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup>27, 76</sup>
 
 **0.96y aka 0.96.25 (27.10.2003):**
 
-Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand Soul Shield.<sup>50</sup>
+- Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand Soul Shield.<sup>50</sup>
 
 **0.97 aka 0.97.0 (30.10.2003):**
 
