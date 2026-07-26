@@ -452,8 +452,6 @@ Introduction of Elf Soldier (Shadow Phantom Soldier). Buff available till level 
 
 Minor game adjustments for low level characters.<sup>111</sup>
 
-**Season 1 - Season 21**
-
 **Season 1 (17.08.2005 - 29.08.2006):**
 
 - Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup>105, 72, 75, 121</sup>
