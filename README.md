@@ -304,7 +304,7 @@ Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand So
 
 - Divine Staff of Archangel reduced from taking up 5 slots to 4 slots in inventory.<sup>51</sup>
 
-### **0.97b (0.97.2 aka 97b)** **AND 0.97d (0.97.4 aka 97d)**: the first versions almost all private servers used back in 2004. The second most popular pServer version is **0.99B+ (0.99.28 aka 99B+).**
+### **0.97b (0.97.2 aka 97b) AND 0.97d (0.97.4 aka 97d)**: the first versions almost all private servers used back in 2004. The second most popular pServer version is **0.99B+ (0.99.28 aka 99B+).**
 
 **0.97p aka 0.97.16 (11.12.2003):**
 
