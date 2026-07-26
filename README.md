@@ -6,287 +6,287 @@
 
 **0.29 aka 0.29.0 (??.??.2001):**
 
-First known MU Online version with a numerical number.<sup>3</sup>
+- First known MU Online version with a numerical number.<sup>3</sup>
 
 **0.32 aka 0.32.0 (20.07.2001):**
 
-Adjustments to Agility based Defense and Defense rate for the upcoming Fairy Elf (FE) release. Consequently, major balancing issues can be avoided since Fairy Elf (FE) is Agility based.<sup>4, 107</sup>
+- Adjustments to Agility based Defense and Defense rate for the upcoming Fairy Elf (FE) release. Consequently, major balancing issues can be avoided since Fairy Elf (FE) is Agility based.<sup>4, 107</sup>
 
 **0.34 aka 0.34.0 (03.08.2001):**
 
-Introduction of 3<sup>rd</sup> character: Fairy Elf (FE) in addition to Dark Knight (DK) and Dark Wizard (DW).<sup>5</sup>
+- Introduction of 3<sup>rd</sup> character: Fairy Elf (FE) in addition to Dark Knight (DK) and Dark Wizard (DW).<sup>5</sup>
 
-Added map Noria.<sup>5</sup>
+- Added map Noria.<sup>5</sup>
 
-Added Healing Orb, Orb of Greater Damage and Orb of Greater Defense.<sup>5</sup>
+- Added Healing Orb, Orb of Greater Damage and Orb of Greater Defense.<sup>5</sup>
 
 **0.35 aka 0.35.0 (10.08.2001):**
 
-Added semi-automatic reload for bows and crossbows by pressing the 'E' key. Previously you had to insert the arrows/bolts in the inventory 'I' view each time.<sup>6</sup>
+- Added semi-automatic reload for bows and crossbows by pressing the 'E' key. Previously you had to insert the arrows/bolts in the inventory 'I' view each time.<sup>6</sup>
 
-Added different colored glow to +7 items. Maximum item level is +7 at this point.<sup>6</sup>
+- Added different colored glow to +7 items. Maximum item level is +7 at this point.<sup>6</sup>
 
 **0.36 aka 0.36.0 (19.08.2001):**
 
-Bug fixes, QoL improvements, anti-hack upgrades.<sup>77</sup>
+- Bug fixes, QoL improvements, anti-hack upgrades.<sup>77</sup>
 
 **0.37 aka 0.37.0 (21.08.2001):**
 
-Minor adjustments.<sup>78</sup>
+- Minor adjustments.<sup>78</sup>
 
 **0.43 aka 0.43.0 (02.11.2001):**
 
-Introduction of Guilds.<sup>7</sup>
+- Introduction of Guilds.<sup>7</sup>
 
-Added background music.<sup>7</sup>
+- Added background music.<sup>7</sup>
 
-Maximum item level increased to +9.<sup>7</sup>
+- Maximum item level increased to +9.<sup>7</sup>
 
-Introduction of Item Options.<sup>7</sup>
+- Introduction of Item Options.<sup>7</sup>
 
-Added Switch Character option at 'Esc'.<sup>81</sup>
+- Added Switch Character option at 'Esc'.<sup>81</sup>
 
 **0.44 aka 0.44.0 (04.11.2001):**
 
-Bug fixes.<sup>82</sup>
+- Bug fixes.<sup>82</sup>
 
 **0.45 aka 0.45.0 (14.11.2001):**
 
-Added map Losttower.<sup>8</sup>
+- Added map Losttower.<sup>8</sup>
 
-Added Bill of Balrog, Lightning Sword, Legendary Staff, Legendary Shield, Heliacal Sword, Silver Bow, Great Scythe, Crescent Axe, Legendary Armor, Dragon Shield, Dragon Helmet, Dragon Armor, Dragon Pants, Guardian Helmet, Guardian Armor, Guardian Pants.<sup>43</sup>
+- Added Bill of Balrog, Lightning Sword, Legendary Staff, Legendary Shield, Heliacal Sword, Silver Bow, Great Scythe, Crescent Axe, Legendary Armor, Dragon Shield, Dragon Helmet, Dragon Armor, Dragon Pants, Guardian Helmet, Guardian Armor, Guardian Pants.<sup>43</sup>
 
-Added Scroll of Hellfire.<sup>43</sup>
+- Added Scroll of Hellfire.<sup>43</sup>
 
-Introduction of in-game currency Zen.<sup>79</sup>
+- Introduction of in-game currency Zen.<sup>79</sup>
 
 **0.47 aka 0.47.0 (11.12.2001):**
 
-Introduction of 4<sup>th</sup> character: Magic Gladiator (MG).<sup>9</sup>
+- Introduction of 4<sup>th</sup> character: Magic Gladiator (MG).<sup>9</sup>
 
-Introduction of /item name and # functions.<sup>44</sup>
+- Introduction of /item name and # functions.<sup>44</sup>
 
 **0.48 aka 0.48.0 (18.12.2001):**
 
-Added Red Dragon Invasion event.<sup>10</sup>
+- Added Red Dragon Invasion event.<sup>10</sup>
 
-Added Golden Budge Dragons (Box of Luck) event.<sup>10</sup>
+- Added Golden Budge Dragons (Box of Luck) event.<sup>10</sup>
 
 **0.52 aka 0.52.0 (22.12.2001):**
 
-Potion stacks increased to 3 potions.<sup>83</sup>
+- Potion stacks increased to 3 potions.<sup>83</sup>
 
-Arrow and bolt stacking allowed (max 255).<sup>83</sup>
+- Arrow and bolt stacking allowed (max 255).<sup>83</sup>
 
-Arrows and bolts reduced to taking up 2 slots in inventory.<sup>83</sup>
+- Arrows and bolts reduced to taking up 2 slots in inventory.<sup>83</sup>
 
 **0.5? (05.02.2002):**
 
-Added Vault (Warehouse) to the game. Gold limit in the bank is 100kk.<sup>11</sup>
+- Added Vault (Warehouse) to the game. Gold limit in the bank is 100kk.<sup>11</sup>
 
-Changed the name of the currency used in MU Online to Zen.<sup>11</sup>
+- Changed the name of the currency used in MU Online to Zen.<sup>11</sup>
 
-Introduction of inability to use /move command with Murder status (PK count 2).<sup>11</sup>
+- Introduction of inability to use /move command with Murder status (PK count 2).<sup>11</sup>
 
 **0.60 aka 0.60.0 (12.03.2002):**
 
-Magic Gladiator (MG) now can teleport to different maps having 2/3 level of the existing requirements for the rest of the characters.<sup>88</sup>
+- Magic Gladiator (MG) now can teleport to different maps having 2/3 level of the existing requirements for the rest of the characters.<sup>88</sup>
 
 **0.6? (26.03.2002):**
 
-Introduction of Summon Orbs for Fairy Elf (FE).<sup>12</sup>
+- Introduction of Summon Orbs for Fairy Elf (FE).<sup>12</sup>
 
-Introduction of Transformation (Disguise) Rings.<sup>12</sup>
+- Introduction of Transformation (Disguise) Rings.<sup>12</sup>
 
 **0.64 aka 0.64.0 (14.05.2002):**
 
-Added map Atlans.<sup>13</sup>
+- Added map Atlans.<sup>13</sup>
 
-Added Crystal Sword, Crystal Morning Star, Aquagold Crossbow, Bluewing Crossbow (Legend Crossbow), Staff of Resurrection.<sup>13</sup>
+- Added Crystal Sword, Crystal Morning Star, Aquagold Crossbow, Bluewing Crossbow (Legend Crossbow), Staff of Resurrection.<sup>13</sup>
 
-Added Scroll of Aqua Beam.<sup>13</sup>
+- Added Scroll of Aqua Beam.<sup>13</sup>
 
-Added Unicorn (Storm Crow) Gloves, Unicorn (Storm Crow) Boots. Unicorn (Storm Crow) Pants and Unicorn (Storm Crow) Armor were not a part of the initial release. A likely explanation is that Unicorn (Storm Crow) Armor has Item level 80, Unicorn (Storm Crow) Pants have Item level 74. The strongest monster in Atlans is Hydra with Monster level 74.<sup>13</sup> However, on test server and test patch Hydra was level 72.<sup>106</sup> Therefore, it could not drop Unicorn (Storm Crow) pants with an Item level 74. Likely Hydra's drop table was not adjusted initially even though it was released as a level 74 monster on the main server.
+- Added Unicorn (Storm Crow) Gloves, Unicorn (Storm Crow) Boots. Unicorn (Storm Crow) Pants and Unicorn (Storm Crow) Armor were not a part of the initial release. A likely explanation is that Unicorn (Storm Crow) Armor has Item level 80, Unicorn (Storm Crow) Pants have Item level 74. The strongest monster in Atlans is Hydra with Monster level 74.<sup>13</sup> However, on test server and test patch Hydra was level 72.<sup>106</sup> Therefore, it could not drop Unicorn (Storm Crow) pants with an Item level 74. Likely Hydra's drop table was not adjusted initially even though it was released as a level 74 monster on the main server.
 
-Maximum level limit increased from 255 to 298.<sup>13</sup> Discrepancy exists since live evidence does not support the claim. The publicly available 0.75 KOR protocol client, while running on OpenMU server, still has the maximum level of 255.
+- Maximum level limit increased from 255 to 298.<sup>13</sup> Discrepancy exists since live evidence does not support the claim. The publicly available 0.75 KOR protocol client, while running on OpenMU server, still has the maximum level of 255.
 
 **0.65 aka 0.65.0 (21.05.2002):**
 
-Bug fixes.<sup>80</sup>
+- Bug fixes.<sup>80</sup>
 
 **0.66 aka 0.66.0 (09.07.2002):**
 
-Added map Arena and Battle Soccer stadium.<sup>38</sup>
+- Added map Arena and Battle Soccer stadium.<sup>38</sup>
 
-Added macro function /1 /….<sup>38</sup>
+- Added macro function /1 /….<sup>38</sup>
 
-Added /request on and /request off.<sup>38</sup>
+- Added /request on and /request off.<sup>38</sup>
 
 **0.66c aka 0.66.3 (15.07.2002):**
 
-Bug fixes.<sup>85</sup>
+- Bug fixes.<sup>85</sup>
 
 **0.66d aka 0.66.4 (18.07.2002):**
 
-Bug fixes.<sup>84</sup>
+- Bug fixes.<sup>84</sup>
 
 **0.67 aka 0.67.0 (01.08.2002):**
 
-Introduction of Chaos Machine.<sup>14, 15</sup>
+- Introduction of Chaos Machine.<sup>14, 15</sup>
 
-Added Chaos Lightning Staff, Chaos Nature Bow, Chaos Dragon Axe.<sup>14, 15</sup>
+- Added Chaos Lightning Staff, Chaos Nature Bow, Chaos Dragon Axe.<sup>14, 15</sup>
 
-Introduction of 1<sup>st</sup> Level Wings (Satan Wings, Angel Wings, Fairy Wings).<sup>14, 15</sup>
+- Introduction of 1<sup>st</sup> Level Wings (Satan Wings, Angel Wings, Fairy Wings).<sup>14, 15</sup>
 
 **0.68 aka 0.68.0 (08.08.2002):**
 
-Obtaining Jewel of Chaos becomes easier.<sup>86</sup>
+- Obtaining Jewel of Chaos becomes easier.<sup>86</sup>
 
 **0.68b aka 0.68.2 (09.08.2002):**
 
-Bug fixes.<sup>87</sup>
+- Bug fixes.<sup>87</sup>
 
 **0.69 aka 0.69.0 (19.09.2002):**
 
-Added Skeleton King (Death King) Invasion event.<sup>60, 61</sup>
+- Added Skeleton King (Death King) Invasion event.<sup>60, 61</sup>
 
 **0.71 aka 0.71.0 (24.09.2002):**
 
-Minor adjustments.<sup>89</sup>
+- Minor adjustments.<sup>89</sup>
 
 **0.73 aka 0.73.0 (10.10.2002):**
 
-Anti-hack adjustments.<sup>90</sup>
+- Anti-hack adjustments.<sup>90</sup>
 
 **0.74 aka 0.74.0 (22.10.2002):**
 
-Improvements to trade and chat system.<sup>91</sup>
+- Improvements to trade and chat system.<sup>91</sup>
 
 **0.7? (05.11.2002):**
 
-Maximum level limit increased from 299 to 350.<sup>92</sup>
+- Maximum level limit increased from 299 to 350.<sup>92</sup>
 
 **0.7? (16.11.2002):**
 
-Increased respawn time for monsters.<sup>95</sup>
+- Increased respawn time for monsters.<sup>95</sup>
 
-Added /move command to various Losttower floors, not just LT1.<sup>95</sup>
+- Added /move command to various Losttower floors, not just LT1.<sup>95</sup>
 
 **0.77 aka 0.77.0 (21.11.2002):**
 
-Party level gap increased from 80 to 120 in test server. Introduced in main server shortly after.<sup>45</sup>
+- Party level gap increased from 80 to 120 in test server. Introduced in main server shortly after.<sup>45</sup>
 
 **0.?? (03.12.2002):**
 
-Added Orb of Twisting Slash for Dark Knight (DK).<sup>46</sup>
+- Added Orb of Twisting Slash for Dark Knight (DK).<sup>46</sup>
 
 **0.84 aka 0.84.0 (07.01.2003):**
 
-Added map Tarkan.<sup>16</sup>
+- Added map Tarkan.<sup>16</sup>
 
-Introduction of Excellent items. Maximum 2 options.<sup>16</sup>
+- Introduction of Excellent items. Maximum 2 options.<sup>16</sup>
 
-Added Scroll of Inferno, Scroll of Comet Fall (Scroll of Blast) and Summon Soldier Orb.<sup>16</sup>
+- Added Scroll of Inferno, Scroll of Comet Fall (Scroll of Blast) and Summon Soldier Orb.<sup>16</sup>
 
-Introduction of Jewel of Life (JoL).<sup>16</sup>
+- Introduction of Jewel of Life (JoL).<sup>16</sup>
 
-Increased Guild limit from 25 to 35 members.<sup>16</sup>
+- Increased Guild limit from 25 to 35 members.<sup>16</sup>
 
-Added Black Dragon set, Sword of Destruction, Staff of Destruction (Unicorn Staff), Saint Crossbow.<sup>16</sup>
+- Added Black Dragon set, Sword of Destruction, Staff of Destruction (Unicorn Staff), Saint Crossbow.<sup>16</sup>
 
 **0.8? (28.01.2003):**
 
-Added Firecracker. Introduced as a part of an event that ran from 28<sup>th</sup> January 2003 to 3<sup>rd</sup> February 2003.<sup>40</sup>
+- Added Firecracker. Introduced as a part of an event that ran from 28<sup>th</sup> January 2003 to 3<sup>rd</sup> February 2003.<sup>40</sup>
 
 **0.89c aka 0.89.3 (11.02.2003):**
 
-Introduction of Devil Square (DS) 1-4.<sup>17, 93</sup>
+- Introduction of Devil Square (DS) 1-4.<sup>17, 93</sup>
 
-Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> December 2003 to 16<sup>th</sup> December 2003.<sup>17, 93</sup>
+- Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> December 2003 to 16<sup>th</sup> December 2003.<sup>17, 93</sup>
 
 **0.?? (14.02.2003):**
 
-Introduction of Gold Party bonus. Each party member gets aditional experience if the party contains a DK/BK + DW/SM + FE/ME. No mention of Magic Gladiator (MG). It was not referred to as Gold Party by Webzen though.<sup>47</sup>
+- Introduction of Gold Party bonus. Each party member gets aditional experience if the party contains a DK/BK + DW/SM + FE/ME. No mention of Magic Gladiator (MG). It was not referred to as Gold Party by Webzen though.<sup>47</sup>
 
 **0.91 aka 0.91.0 (05.03.2003):**
 
-Bug fixes and anti-hack improvement.<sup>94</sup>
+- Bug fixes and anti-hack improvement.<sup>94</sup>
 
 **0.94 aka 0.94.0 (22.04.2003):**
 
-Maximum item level raised from +9 to +11.<sup>18</sup>
+- Maximum item level raised from +9 to +11.<sup>18</sup>
 
-Introduction of item repair system. Adjustments to durability system. Items were not repairable beforehand.<sup>18</sup>
+- Introduction of item repair system. Adjustments to durability system. Items were not repairable beforehand.<sup>18</sup>
 
 **0.94a aka 0.94.1 (??.04.2003):**
 
-Added Silver medal.<sup>37</sup>
+- Added Silver medal.<sup>37</sup>
 
-Added Gold medal.<sup>37</sup>
+- Added Gold medal.<sup>37</sup>
 
 **0.94b aka 0.94.2 (06.06.2003):**
 
-Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup>20, 73, 74, 19</sup>
+- Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup>20, 73, 74, 19</sup>
 
-Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup>20, 73, 74, 19</sup>
+- Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup>20, 73, 74, 19</sup>
 
-Added map Icarus.<sup>19, 20, 62</sup>
+- Added map Icarus.<sup>19, 20, 62</sup>
 
-Introduction of Jewel of Creation (JoC).<sup>36, 62</sup>
+- Introduction of Jewel of Creation (JoC).<sup>36, 62</sup>
 
-Introduction of Horn of Dinorant.<sup>39, 62</sup>
+- Introduction of Horn of Dinorant.<sup>39, 62</sup>
 
 **0.94k aka 0.94.11 (17.06.2003):**
 
-Added Vault (Warehouse) lock function.<sup>48</sup>
+- Added Vault (Warehouse) lock function.<sup>48</sup>
 
 **0.9? (20.06.2003):**
 
-Added Tama-chan (Seal) event for Japanese MU only.<sup>28, 37</sup>
+- Added Tama-chan (Seal) event for Japanese MU only.<sup>28, 37</sup>
 
 **0.95.? (06.08.2003):**
 
-Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup>49, 59</sup>
+- Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup>49, 59</sup>
 
-Party level gap increased from 120 to 130.<sup>49, 59</sup>
+- Party level gap increased from 120 to 130.<sup>49, 59</sup>
 
 **0.95k aka 0.95.11 (26.08.2003):**
 
-Introduction of stat Fruits.<sup>23, 63</sup>
+- Introduction of stat Fruits.<sup>23, 63</sup>
 
-Introduction of AG (Stamina) system.<sup>23, 63</sup>
+- Introduction of AG (Stamina) system.<sup>23, 63</sup>
 
-Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf).<sup>21</sup>
+- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf).<sup>21</sup>
 
-Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Spirit, Wings of Soul, Cape of Lord).<sup>21, 63</sup>
+- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Spirit, Wings of Soul, Cape of Lord).<sup>21, 63</sup>
 
-Added Dark Phoenix set, Spirit Sword (Dark Breaker), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup>39</sup>
+- Added Dark Phoenix set, Spirit Sword (Dark Breaker), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup>39</sup>
 
-Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup>23</sup>
+- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup>23</sup>
 
-Added Fire Breath skill (Horn of Dinorant skill).<sup>23</sup>
+- Added Fire Breath skill (Horn of Dinorant skill).<sup>23</sup>
 
-Added Orb of Greater Fortitude (Orb of Swell Life).<sup>23</sup>
+- Added Orb of Greater Fortitude (Orb of Swell Life).<sup>23</sup>
 
-Added Orb of Rageful Blow.<sup>23</sup>
+- Added Orb of Rageful Blow.<sup>23</sup>
 
-Added Orb of Death Stab.<sup>23</sup>
+- Added Orb of Death Stab.<sup>23</sup>
 
-Added Scroll of Teleport Ally (Mass Teleport).<sup>23</sup>
+- Added Scroll of Teleport Ally (Mass Teleport).<sup>23</sup>
 
-Added Scroll of Soul Barrier (Mana Shield aka MS).<sup>23</sup>
+- Added Scroll of Soul Barrier (Mana Shield aka MS).<sup>23</sup>
 
-Added Orb of Penetration.<sup>23</sup>
+- Added Orb of Penetration.<sup>23</sup>
 
-Added Orb of Ice Arrow.<sup>23</sup>
+- Added Orb of Ice Arrow.<sup>23</sup>
 
-Added Orb of Fire Slash.<sup>23</sup>
+- Added Orb of Fire Slash.<sup>23</sup>
 
 **0.96.? (04.09.2003):**
 
-Introduction of Blood Castle (BC) 1-6.<sup>24, 25, 26, 37</sup>
+- Introduction of Blood Castle (BC) 1-6.<sup>24, 25, 26, 37</sup>
 
-Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and ivine Crossbow of Archangel.<sup>24, 25, 26</sup>
+- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and ivine Crossbow of Archangel.<sup>24, 25, 26</sup>
 
 **06.10.2003:**
 
@@ -298,159 +298,159 @@ Addition of Dragon Spear, Elemental Mace, Rune Blade, Elemental Shield, Grand So
 
 **0.97 aka 0.97.0 (30.10.2003):**
 
-Divine Staff of Archangel reduced from taking up 5 slots to 4 slots in inventory.<sup>51</sup>
+- Divine Staff of Archangel reduced from taking up 5 slots to 4 slots in inventory.<sup>51</sup>
 
 ### **0.97b (0.97.2 aka 97b)** **AND 0.97d (0.97.4 aka 97d)**: the first versions almost all private servers used back in 2004. The second most popular pServer version is **0.99B+ (0.99.28 aka 99B+).**
 
 **0.97p aka 0.97.16 (11.12.2003):**
 
-Introduction of Marlon's Quest.<sup>52, 64</sup>
+- Introduction of Marlon's Quest.<sup>52, 64</sup>
 
-Added Duel System.<sup>52, 64</sup>
+- Added Duel System.<sup>52, 64</sup>
 
-Added Combo Skill System for Blade Knight (BK).<sup>52, 64</sup>
+- Added Combo Skill System for Blade Knight (BK).<sup>52, 64</sup>
 
-Added Scroll of Nova for Soul Master (SM).<sup>52</sup>
+- Added Scroll of Nova for Soul Master (SM).<sup>52</sup>
 
-Added Scroll of Decay for Soul Master (SM).<sup>52, 64</sup>
+- Added Scroll of Decay for Soul Master (SM).<sup>52, 64</sup>
 
-Added Scroll of Ice Storm for Soul Master (SM).<sup>52, 64</sup>
+- Added Scroll of Ice Storm for Soul Master (SM).<sup>52, 64</sup>
 
-Maximum level limit raised from 350 to 400.<sup>52</sup>
+- Maximum level limit raised from 350 to 400.<sup>52</sup>
 
-Added pick-up function of 'Spacebar'.<sup>52</sup>
+- Added pick-up function of 'Spacebar'.<sup>52</sup>
 
-Added Great Reign Crossbow.<sup>52</sup>
+- Added Great Reign Crossbow.<sup>52</sup>
 
-Updated graphics of original Divine set, Grand Soul set and Wings of Dragon (Devil Wings).<sup>52</sup>
+- Updated graphics of original Divine set, Grand Soul set and Wings of Dragon (Devil Wings).<sup>52</sup>
 
 **0.97r aka 0.97.18 (16.12.2003):**
 
-Added Ring of Warrior (level 40).<sup>53, 29, 30, 65</sup>
+- Added Ring of Warrior (level 40).<sup>53, 29, 30, 65</sup>
 
-Introduction of White Wizard Invasion event.<sup>53, 29, 30, 65</sup>
+- Introduction of White Wizard Invasion event.<sup>53, 29, 30, 65</sup>
 
 **0.97v aka 0.97.22 (24.12.2003):**
 
-Added Star of Sacred Birth. It was a part of a Christmas event from 24<sup>th</sup> December 2003 to 30<sup>th</sup> December 2003 in MU Korea (muonline.co.kr). Global MU Online (GMO) was running 0.95d version at the time. However, it being a Christmas event introduced for the first time in MU, it was also introduced in GMO at the same time despite it being a 0.95d version.<sup>54, 41</sup>
+- Added Star of Sacred Birth. It was a part of a Christmas event from 24<sup>th</sup> December 2003 to 30<sup>th</sup> December 2003 in MU Korea (muonline.co.kr). Global MU Online (GMO) was running 0.95d version at the time. However, it being a Christmas event introduced for the first time in MU, it was also introduced in GMO at the same time despite it being a 0.95d version.<sup>54, 41</sup>
 
-Added sound volume control function.<sup>54</sup>
+- Added sound volume control function.<sup>54</sup>
 
 **0.98c aka 0.98.3 (05.02.2004):**
 
-User Interface (UI) changes: 'F' Command Window including Mussenger and 'M' Teleport Window.<sup>55, 31, 37, 66</sup>
+- User Interface (UI) changes: 'F' Command Window including Mussenger and 'M' Teleport Window.<sup>55, 31, 37, 66</sup>
 
-Loch's Feather (Blue Feather) now drops only in Icarus, not in Tarkan or Blood Castle (BC) anymore.<sup>55</sup>
+- Loch's Feather (Blue Feather) now drops only in Icarus, not in Tarkan or Blood Castle (BC) anymore.<sup>55</sup>
 
-Added party member item acquisition notification messages in upper left corner.<sup>55</sup>
+- Added party member item acquisition notification messages in upper left corner.<sup>55</sup>
 
 **0.98h aka 0.98.8 (09.03.2004):**
 
-Added Personal store.<sup>56, 37, 67</sup>
+- Added Personal store.<sup>56, 37, 67</sup>
 
 **0.98r aka 0.98.18 (09.04.2004):**
 
-Addition of Blood Castle (BC) 7.<sup>57</sup>
+- Addition of Blood Castle (BC) 7.<sup>57</sup>
 
 **0.98t aka 0.98.20 (20.04.2004):**
 
-Maximum item level raised from +11 to +13.<sup>58, 32, 68</sup>
+- Maximum item level raised from +11 to +13.<sup>58, 32, 68</sup>
 
-Added Large Healing potion +1.<sup>58, 32, 68</sup>
+- Added Large Healing potion +1.<sup>58, 32, 68</sup>
 
-Added Quest Window 'T'.<sup>58, 32</sup>
+- Added Quest Window 'T'.<sup>58, 32</sup>
 
 **0.99 aka 0.99.0 (11.05.2004):**
 
-Introduction of Ancient Set items.<sup>97, 22, 33, 68, 69</sup>
+- Introduction of Ancient Set items.<sup>97, 22, 33, 68, 69</sup>
 
-Introduction of Chaos Castle (CC) 1-6.<sup>97, 22, 34</sup>
+- Introduction of Chaos Castle (CC) 1-6.<sup>97, 22, 34</sup>
 
 **0.99a aka 0.99.1 (11.05.2004):**
 
-Bug fixes.<sup>210</sup>
+- Bug fixes.<sup>210</sup>
 
 **0.99b aka 0.99.2 (12.05.2004):**
 
-Bug fixes.<sup>209</sup>
+- Bug fixes.<sup>209</sup>
 
 **0.99e aka 0.99.5 (20.05.2004):**
 
-Bug fixes.<sup>208</sup>
+- Bug fixes.<sup>208</sup>
 
 **0.99.? (01.06.2004):**
 
-Adjustments to Blood Castle (BC) reward system.<sup>35</sup>
+- Adjustments to Blood Castle (BC) reward system.<sup>35</sup>
 
 **0.99g aka 0.99.7 (22.06.2004):**
 
-Ancient Set items become undropable.<sup>96</sup>
+- Ancient Set items become undropable.<sup>96</sup>
 
-Bug fixes.<sup>96</sup>
+- Bug fixes.<sup>96</sup>
 
 **0.99i aka 0.99.9 (27.07.2004):**
 
-Bug fix.<sup>98</sup>
+- Bug fix.<sup>98</sup>
 
 **0.99.? (24.08.2004):**
 
-Introduction of 5<sup>th</sup> character: Dark Lord (DL).<sup>99, 100, 70</sup>
+- Introduction of 5<sup>th</sup> character: Dark Lord (DL).<sup>99, 100, 70</sup>
 
-Added Dark Raven and Dark Horse for Dark Lord (DL).<sup>99, 100, 70</sup>
+- Added Dark Raven and Dark Horse for Dark Lord (DL).<sup>99, 100, 70</sup>
 
 **0.99.? (21.09.2004):**
 
-Introduction of Illusion of Kundun event and map Kalima 1~6.<sup>71, 120</sup>
+- Introduction of Illusion of Kundun event and map Kalima 1~6.<sup>71, 120</sup>
 
 **0.99G+ aka 0.99.33 (23.11.2004):**
 
-Introduction of Guild Alliance (Union) system. General update of Guild system.<sup>101, 119</sup>
+- Introduction of Guild Alliance (Union) system. General update of Guild system.<sup>101, 119</sup>
 
 **0.99.? (14.12.2004):**
 
-Golden Archer NPC is removed.<sup>102</sup>
+- Golden Archer NPC is removed.<sup>102</sup>
 
 **0.99W+ aka 0.99.49 (03.02.2005):**
 
-Teleport to each Kalima floor added (/move Kalima 1~6).<sup>103, 116</sup>
+- Teleport to each Kalima floor added (/move Kalima 1~6).<sup>103, 116</sup>
 
-Added Olive of Love.<sup>103, 116</sup>
+- Added Olive of Love.<sup>103, 116</sup>
 
 **1.00s aka 1.00.19 (11.03.2005):**
 
-Bug fixes.<sup>104</sup>
+- Bug fixes.<sup>104</sup>
 
 **1.0? (27.03.2005):**
 
-First edition of Castle Siege held on live server. Previously developed in January on test server.<sup>115, 117, 118</sup>
+- First edition of Castle Siege held on live server. Previously developed in January on test server.<sup>115, 117, 118</sup>
 
 **1.0? (17.05.2005):**
 
-Introduction of Jewel packing and unpacking system at NPC Lahap.<sup>114</sup>
+- Introduction of Jewel packing and unpacking system at NPC Lahap.<sup>114</sup>
 
-Expansion of Land of Trials.<sup>114</sup>
+- Expansion of Land of Trials.<sup>114</sup>
 
-Introduction of Jewel of Guardian (JoG).<sup>114</sup>
+- Introduction of Jewel of Guardian (JoG).<sup>114</sup>
 
-Introduction of Lord's Mix Item Combination and NPC Senior in Valley of Loren.<sup>114</sup>
+- Introduction of Lord's Mix Item Combination and NPC Senior in Valley of Loren.<sup>114</sup>
 
 **1.0? (24.05.2005):**
 
-Introduction of Castle Deep event in Valley of Loren.<sup>108</sup>
+- Introduction of Castle Deep event in Valley of Loren.<sup>108</sup>
 
 **1.0? (13.06.2005):**
 
-Added Devil Square (DS) 5-6.<sup>109</sup>
+- Added Devil Square (DS) 5-6.<sup>109</sup>
 
 **1.0? (13.06.2005):**
 
-Changes to Blood Castle (BC) event.<sup>110</sup>
+- Changes to Blood Castle (BC) event.<sup>110</sup>
 
 **1.0? (16.06.2005):**
 
-Introduction of Elf Soldier (Shadow Phantom Soldier). Buff available till level 100.<sup>111, 127</sup>
+- Introduction of Elf Soldier (Shadow Phantom Soldier). Buff available till level 100.<sup>111, 127</sup>
 
-Minor game adjustments for low level characters.<sup>111</sup>
+- Minor game adjustments for low level characters.<sup>111</sup>
 
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
