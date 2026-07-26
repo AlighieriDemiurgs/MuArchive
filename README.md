@@ -1064,7 +1064,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup>395</sup>
 - Introduction of Artifact Grade System.<sup>396</sup>
 - Changes to Skill Enhancement Trees.<sup>397</sup>
-- Additional update for Season 19 Part 2-3 (08.08.2024): Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
+- **Additional update for Season 19 Part 2-3 (08.08.2024):** Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
 
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
