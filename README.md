@@ -1,12 +1,8 @@
 # **Season 0**
 
-**12.02.2001:** 
+**12.02.2001:** Closed ALPHA test in South Korea.<sup>1</sup>
 
-Closed ALPHA test in South Korea.<sup>1</sup>
-
-**??.05.2001:** 
-
-Open BETA test in South Korea.<sup>2, 42</sup>
+**??.05.2001:** Open BETA test in South Korea.<sup>2, 42</sup>
 
 **0.29 aka 0.29.0 (??.??.2001):**
 
@@ -559,8 +555,8 @@ Additional update #6 for Season 2 (11.07.2007):
 
 - Introduction of Illusion Temple event.<sup>141</sup>
 
-# **Season 3 (06.12.2007 - 26.02.2008):** Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
-
+# **Season 3 (06.12.2007 - 26.02.2008):**
+Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 - Introduction of Master Level and Master Skill Tree system. Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
