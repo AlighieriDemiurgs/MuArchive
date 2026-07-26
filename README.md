@@ -1,8 +1,12 @@
 # **Season 0**
 
-**12.02.2001:** Closed ALPHA test in South Korea.<sup>1</sup>
+**12.02.2001:** 
 
-**??.05.2001:** Open BETA test in South Korea.<sup>2, 42</sup>
+Closed ALPHA test in South Korea.<sup>1</sup>
+
+**??.05.2001:** 
+
+Open BETA test in South Korea.<sup>2, 42</sup>
 
 **0.29 aka 0.29.0 (??.??.2001):**
 
