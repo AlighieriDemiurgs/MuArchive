@@ -467,208 +467,207 @@
 
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
-- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup>105, 72, 75, 121</sup>
-- Introduction of map Aida.<sup>105, 72, 75, 121, 112</sup>
-- Introduction of map Crywolf. Entry level requirement of 300.<sup>105, 72, 75, 121, 112</sup>
-- Introduction of map Kalima 7. Entry level requirement of 380.<sup>105, 72, 121, 112</sup>
-- Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup>113, 105, 72</sup>
-
+- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121)</sup>
+- Introduction of map Aida.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
+- Introduction of map Crywolf. Entry level requirement of 300.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
+- Introduction of map Kalima 7. Entry level requirement of 380.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
+- Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup><a id="cite113"></a>[[113]](#ref113), <a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72)</sup>
 **Additional update #1 for Season 1 (30.08.2005):**
 
-- Introduction of level 380 Items: Bone Blade, Dragon Knight (Baphomet) set, Grand Viper Staff, Venom Mist set, Sylph Wind Bow, Sylphid Ray set, Explosion Blade, Volcano set, Soleil Scepter, Sunlight set.<sup>122</sup>
-- Changes to stat Fruit system.<sup>122</sup>
+- Introduction of level 380 Items: Bone Blade, Dragon Knight (Baphomet) set, Grand Viper Staff, Venom Mist set, Sylph Wind Bow, Sylphid Ray set, Explosion Blade, Volcano set, Soleil Scepter, Sunlight set.<sup><a id="cite122"></a>[[122]](#ref122)</sup>
+- Changes to stat Fruit system.<sup><a id="cite122"></a>[[122]](#ref122)</sup>
 
 **Additional update #2 for Season 1 (17.10.2005):**
 
-- Monster levels adjusted for the level 380 Items.<sup>123</sup>
-- Adjustments to Aida, Crywolf and Kalima 6 entry level requirements.<sup>123</sup>
-- Adjustments to Kalima 6 monster level.<sup>123</sup>
-- Items added to Crywolf NPC Wandering Merchant.<sup>123</sup>
+- Monster levels adjusted for the level 380 Items.<sup><a id="cite123"></a>[[123]](#ref123)</sup>
+- Adjustments to Aida, Crywolf and Kalima 6 entry level requirements.<sup><a id="cite123"></a>[[123]](#ref123)</sup>
+- Adjustments to Kalima 6 monster level.<sup><a id="cite123"></a>[[123]](#ref123)</sup>
+- Items added to Crywolf NPC Wandering Merchant.<sup><a id="cite123"></a>[[123]](#ref123)</sup>
 
 **Additional update #3 for Season 1 (08.11.2005):**
 
-- Adjustments to Castle Siege.<sup>124</sup>
+- Adjustments to Castle Siege.<sup><a id="cite124"></a>[[124]](#ref124)</sup>
 
 **Additional update #4 for Season 1 (06.12.2005):**
 
-- Introduction of Horn of Fenrir.<sup>125</sup>
-- User Interface (UI) changes to the Login screen and Character selection screen.<sup>125</sup>
+- Introduction of Horn of Fenrir.<sup><a id="cite125"></a>[[125]](#ref125)</sup>
+- User Interface (UI) changes to the Login screen and Character selection screen.<sup><a id="cite125"></a>[[125]](#ref125)</sup>
 
 **Additional update #5 for Season 1 (10.01.2006):**
 
-- Introduction of Crywolf event.<sup>126</sup>
+- Introduction of Crywolf event.<sup><a id="cite126"></a>[[126]](#ref126)</sup>
 
 **Additional update #6 for Season 1 (14.02.2006):**
 
-- Complete removal of party level gap 130.<sup>127</sup>
-- Elf Soldier (Shadow Phantom Soldier) buff level limit increased from 100 to 180.<sup>127</sup>
-- Kalima 7 entry level decreased from 380 to 350.<sup>127</sup>
-- Symbol of Kundun +7 now drops from monster level 115 and higher.<sup>127</sup>
-- Minor changes to NPC selling stocks.<sup>127</sup>
+- Complete removal of party level gap 130.<sup><a id="cite127"></a>[[127]](#ref127)</sup>
+- Elf Soldier (Shadow Phantom Soldier) buff level limit increased from 100 to 180.<sup><a id="cite127"></a>[[127]](#ref127)</sup>
+- Kalima 7 entry level decreased from 380 to 350.<sup><a id="cite127"></a>[[127]](#ref127)</sup>
+- Symbol of Kundun +7 now drops from monster level 115 and higher.<sup><a id="cite127"></a>[[127]](#ref127)</sup>
+- Minor changes to NPC selling stocks.<sup><a id="cite127"></a>[[127]](#ref127)</sup>
 
 **Additional update #7 for Season 1 (04.04.2006):**
 
-- PC bang (Korean internet café) exclusive Chaos Castle (CC) event times added.<sup>128</sup>
+- PC bang (Korean internet café) exclusive Chaos Castle (CC) event times added.<sup><a id="cite128"></a>[[128]](#ref128)</sup>
 
 **Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Story':**
 
-- Introduction of Shield Gage (SD) bar, Complex Potions and SD Potion.<sup>129</sup>
-- Added Infinity Arrow skill for Muse Elf (ME).<sup>129</sup>
-- Adjustments to Crywolf event.<sup>129</sup>
-- Changes to PK levels and entry restrictions to events like Blood Castle (BC), Devil Square (DS) and Chaos Castle (CC).<sup>129</sup>
-- NPC shop added in Kalima.<sup>129</sup>
+- Introduction of Shield Gage (SD) bar, Complex Potions and SD Potion.<sup><a id="cite129"></a>[[129]](#ref129)</sup>
+- Added Infinity Arrow skill for Muse Elf (ME).<sup><a id="cite129"></a>[[129]](#ref129)</sup>
+- Adjustments to Crywolf event.<sup><a id="cite129"></a>[[129]](#ref129)</sup>
+- Changes to PK levels and entry restrictions to events like Blood Castle (BC), Devil Square (DS) and Chaos Castle (CC).<sup><a id="cite129"></a>[[129]](#ref129)</sup>
+- NPC shop added in Kalima.<sup><a id="cite129"></a>[[129]](#ref129)</sup>
 
 # **Season 2 (29.08.2006 - 06.12.2007):**
 
-- Introduction of level 380 Item Options.<sup>131</sup>
-- Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup>132, 131</sup>
-- Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup>132</sup>
+- Introduction of level 380 Item Options.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
+- Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite131"></a>[[131]](#ref131)</sup>
+- Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup><a id="cite132"></a>[[132]](#ref132)</sup>
 - Introduction of new items: Daybreak, Platina Staff, Albatross Bow, Sword Dancer, Shining Scepter, Ashcrow set, Eclipse set, Iris set, Valiant set, Glorious set.<sup>131</sup>
-- Added Scroll of Fire Scream for Dark Lord (DL).<sup>131</sup>
-- Adjustments to stat Fruit system.<sup>131</sup>
-- Introduction of Window Mode.<sup>131</sup>
-- Changed entry and /move level requirements for various maps.<sup>131</sup>
+- Added Scroll of Fire Scream for Dark Lord (DL).<sup><a id="cite131"></a>[[131]](#ref131)</sup>
+- Adjustments to stat Fruit system.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
+- Introduction of Window Mode.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
+- Changed entry and /move level requirements for various maps.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 
 **Additional update #1 for Season 2 (05.12.2006):**
 
-- Expansion of Land of Trials.<sup>133</sup>
-- Adjustments to Castle Siege.<sup>133</sup>
-- Changes to NPC Senior item combination list in Valley of Loren.<sup>133</sup>
+- Expansion of Land of Trials.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
+- Adjustments to Castle Siege.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
+- Changes to NPC Senior item combination list in Valley of Loren.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
 
 **Additional update #2 for Season 2 (30.01.2007):**
 
-- Elf Soldier (Shadow Phantom Soldier) buffs can be received in addition to having been buffed with Orb of Greater Damage and Orb of Greater Defense. The strongest buffs apply in that case.<sup>134, 135</sup>
-- Minor game adjustments for low level characters.<sup>134</sup>
-- Changed drop table for Ring of Warrior (level 40 and 80).<sup>134</sup>
-- Complex Potion drop rate decreased.<sup>135</sup>
-- Modifications to map Kalima.<sup>135</sup>
-- Introduction of NPC Pamela the Supplier and NPC Angela the Supplier in Valley of Loren.<sup>135</sup>
+- Elf Soldier (Shadow Phantom Soldier) buffs can be received in addition to having been buffed with Orb of Greater Damage and Orb of Greater Defense. The strongest buffs apply in that case.<sup><a id="cite134"></a>[[134]](#ref134), <a id="cite135"></a>[[135]](#ref135)</sup>
+- Minor game adjustments for low level characters.<sup><a id="cite134"></a>[[134]](#ref134)</sup>
+- Changed drop table for Ring of Warrior (level 40 and 80).<sup><a id="cite134"></a>[[134]](#ref134)</sup>
+- Complex Potion drop rate decreased.<sup><a id="cite135"></a>[[135]](#ref135)</sup>
+- Modifications to map Kalima.<sup><a id="cite135"></a>[[135]](#ref135)</sup>
+- Introduction of NPC Pamela the Supplier and NPC Angela the Supplier in Valley of Loren.<sup><a id="cite135"></a>[[135]](#ref135)</sup>
 
 **Additional update #3 for Season 2 (27.03.2007):**
 
-- Introduction of wedding hall in Devias 2.<sup>136</sup>
-- Elf Soldier (Shadow Phantom Soldier) buff limit increased from level 180 to 220.<sup>137</sup>
-- Changes to experience (exp) loss system after death to monsters.<sup>137</sup>
-- Changes to high-value item sale list to NPCs.<sup>137</sup>
-- Self-defense status increased from 30 to 90 seconds. Changes to self-defense system for party members.<sup>137</sup>
-- Introduction of visually unique looking Game Master (GM) character. Likely achievable by equipping the item 'Ring of GM'. Introduction of Game Master (GM) Gift Box for event winners. Introduction of a separate map known as 'GM summon zone', accessible only to the Game Master (GM). Players can be summoned to this map.<sup>136</sup>
-- Changes to Chaos Castle (CC) entry locations.<sup>137</sup>
-- Changes to Aida map location on the 'M' Teleport Window.<sup>137</sup>
+- Introduction of wedding hall in Devias 2.<sup><a id="cite136"></a>[[136]](#ref136)</sup>
+- Elf Soldier (Shadow Phantom Soldier) buff limit increased from level 180 to 220.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
+- Changes to experience (exp) loss system after death to monsters.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
+- Changes to high-value item sale list to NPCs.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
+- Self-defense status increased from 30 to 90 seconds. Changes to self-defense system for party members.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
+- Introduction of visually unique looking Game Master (GM) character. Likely achievable by equipping the item 'Ring of GM'. Introduction of Game Master (GM) Gift Box for event winners. Introduction of a separate map known as 'GM summon zone', accessible only to the Game Master (GM). Players can be summoned to this map.<sup><a id="cite136"></a>[[136]](#ref136)</sup>
+- Changes to Chaos Castle (CC) entry locations.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
+- Changes to Aida map location on the 'M' Teleport Window.<sup><a id="cite137"></a>[[137]](#ref137)</sup>
 
 **Additional update #4 for Season 2 (03.04.2007):**
 
-- Introduction of PC bang (Korean internet café) point system and shop.<sup>138</sup>
+- Introduction of PC bang (Korean internet café) point system and shop.<sup><a id="cite138"></a>[[138]](#ref138)</sup>
 
 **Additional update #5 for Season 2 (28.06.2007):**
 
-- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup>139</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup>140</sup>
-- Introduction of Balgass Barracks and Refuge of Balgass.<sup>139</sup>
+- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup><a id="cite139"></a>[[139]](#ref139)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup><a id="cite140"></a>[[140]](#ref140)</sup>
+- Introduction of Balgass Barracks and Refuge of Balgass.<sup><a id="cite139"></a>[[139]](#ref139)</sup>
 
 **Additional update #6 for Season 2 (11.07.2007):**
 
-- Introduction of Illusion Temple event.<sup>141</sup>
+- Introduction of Illusion Temple event.<sup><a id="cite141"></a>[[141]](#ref141)</sup>
 
 # **Season 3 (06.12.2007 - 26.02.2008):**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
-- Introduction of Master Level and Master Skill Tree system.<sup>142</sup>
-- Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
-- Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
-- Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
-- Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup>143</sup>
+- Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
+- Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
+- Maximum level cap raised from 400 to 600 (Master Level 200).<sup><a id="cite211"></a>[[211]](#ref211)</sup>
+- Introduction of 6<sup>th</sup> character: Summoner.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
+- Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
   - Small Wings of Curse (0 Level Wings) for Summoner are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
-- Added map Elveland.<sup>144</sup>
-- Major User Interface (UI) changes.<sup>145</sup>
+- Added map Elveland.<sup><a id="cite144"></a>[[144]](#ref144)</sup>
+- Major User Interface (UI) changes.<sup><a id="cite145"></a>[[145]](#ref145)</sup>
 
 # **Season 3.0+ (26.02.2008 - 26.08.2008):**
 Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
-- Expansion of Master Skill Tree (rank 3).<sup>147</sup>
-- Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup>147</sup>
-- Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup>149</sup>
-- Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup>146</sup>
-- Minor User Interface (UI) changes.<sup>148</sup>
+- Expansion of Master Skill Tree (rank 3).<sup><a id="cite147"></a>[[147]](#ref147)</sup>
+- Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup><a id="cite147"></a>[[147]](#ref147)</sup>
+- Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup><a id="cite149"></a>[[149]](#ref149)</sup>
+- Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup><a id="cite146"></a>[[146]](#ref146)</sup>
+- Minor User Interface (UI) changes.<sup><a id="cite148"></a>[[148]](#ref148)</sup>
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
 
 - Introduction of Socket Items (lvl 380): Flameberge, Sword Breaker, Rune Bastard Sword, Deadly Staff, Frost Mace, Dark Stinger Bow, Absolute Scepter, Inberial Staff, Crimson Glory, Frost Barrier, Guardian Shield, Salamander Shield, Titan set, Bravery set, Divine set, Seraphim set, Hades set, Phantom set, Destruction set, Royal set.<sup>151</sup>
-- Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup>152</sup>
-- Expansion of Master Skill Tree (rank 4).<sup>154</sup>
-- Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup>150</sup>
-- Addition of new skills (Strike of Destruction, Expansion of Wizardry, Multi-Shot, Recovery, Flame Strike, Gigantic Storm, Chaotic Diseier).<sup>153</sup>
-- Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup>153</sup>
-- Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup>155</sup>
+- Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup><a id="cite152"></a>[[152]](#ref152)</sup>
+- Expansion of Master Skill Tree (rank 4).<sup><a id="cite154"></a>[[154]](#ref154)</sup>
+- Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup><a id="cite150"></a>[[150]](#ref150)</sup>
+- Addition of new skills (Strike of Destruction, Expansion of Wizardry, Multi-Shot, Recovery, Flame Strike, Gigantic Storm, Chaotic Diseier).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
+- Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
+- Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup><a id="cite155"></a>[[155]](#ref155)</sup>
 - **Additional update for Season 4 (22.01.2009):**
-  - Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup>156</sup>
+  - Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup><a id="cite156"></a>[[156]](#ref156)</sup>
 
 # **Season 4.5 (02.04.2009 - 20.08.2009):**
-MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup>187, 188, 189</sup>
+MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup><a id="cite187"></a>[[187]](#ref187), <a id="cite188"></a>[[188]](#ref188), <a id="cite189"></a>[[189]](#ref189)</sup>
 
-- Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup>158</sup>
-- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup>157</sup>
-- Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup>157</sup>
+- Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158)</sup>
+- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
+- Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
 
 # **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
 
-- Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup>162</sup>
-- Added Fortress of Imperial Guardian: Varka event.<sup>159</sup>
-- Added Doppelganger (Double Goer) event.<sup>160</sup>
-- Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup>161</sup>
-- Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>161</sup>
+- Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup><a id="cite162"></a>[[162]](#ref162)</sup>
+- Added Fortress of Imperial Guardian: Varka event.<sup><a id="cite159"></a>[[159]](#ref159)</sup>
+- Added Doppelganger (Double Goer) event.<sup><a id="cite160"></a>[[160]](#ref160)</sup>
+- Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup><a id="cite161"></a>[[161]](#ref161)</sup>
+- Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite161"></a>[[161]](#ref161)</sup>
 
 # **Season 5 Part 2 (27.10.2009 - 04.02.2010):**
 
-- Introduction of Gens System.<sup>163</sup>
-- Introduction of MU Item Shop and Goblin Points (GP), which replace PC bang point system.<sup>165</sup>
-- Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mistery).<sup>165</sup>
+- Introduction of Gens System.<sup><a id="cite163"></a>[[163]](#ref163)</sup>
+- Introduction of MU Item Shop and Goblin Points (GP), which replace PC bang point system.<sup><a id="cite165"></a>[[165]](#ref165)</sup>
+- Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mistery).<sup><a id="cite165"></a>[[165]](#ref165)</sup>
   - MU Korea (muonline.co.kr) did not announce Small Wings update-patch separately. MU Item Shop was introduced on Season 5 Part 2. Although this update does not mention Small Wings, it includes photos of Small Wings in the Item Shop. In addition, Small Wings were initially obtainable from Item Shop, not in-game. All in all, it is safe to assume that Small Wings were introduced on Season 5 Part 2 together with Item Shop, not before that.
-- Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>164</sup>
+- Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite164"></a>[[164]](#ref164)</sup>
 
 # **Season 5 Part 3 (04.02.2010 - 27.04.2010):**
 
-- Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup>167</sup>
-- Maximum item level raised from +13 to +15.<sup>166</sup>
-- Added map Loren Market.<sup>166</sup>
-- Updated graphics for various skill icons.<sup>166</sup>
+- Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup><a id="cite167"></a>[[167]](#ref167)</sup>
+- Maximum item level raised from +13 to +15.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
+- Added map Loren Market.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
+- Updated graphics for various skill icons.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
 
 # **Season 5 Part 4 (27.04.2010 - 16.09.2010):**
 This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. Since Season 5 (officially named this way) was released on 20.08.2009. and only two updates were released in between Season 5 Part 4 and the initial Season 5 release, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially.
 
-- Introduction of Master Skill Tree system for Summoner.<sup>169</sup>
-- Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup>169</sup>
-- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Peace (Swamp of Calmness), LaCleon (Raklion).<sup>168</sup>
-- Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>168</sup>
-- Addition of new quests.<sup>168</sup>
+- Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
+- Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
+- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Peace (Swamp of Calmness), LaCleon (Raklion).<sup><a id="cite168"></a>[[168]](#ref168)</sup>
+- Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite168"></a>[[168]](#ref168)</sup>
+- Addition of new quests.<sup><a id="cite168"></a>[[168]](#ref168)</sup>
 
 # **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
-- Introduction of 7<sup>th</sup> character: Rage Fighter.<sup>170</sup>
-- Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>nd</sup> Level Wings (Reigning Cloak).<sup>170</sup>
+- Introduction of 7<sup>th</sup> character: Rage Fighter.<sup><a id="cite170"></a>[[170]](#ref170)</sup>
+- Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>nd</sup> Level Wings (Reigning Cloak).<sup><a id="cite170"></a>[[170]](#ref170)</sup>
   - Little Warrior's Cloak (0 Level Wings) for Rage Fighter is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Added map Karutan 1 & 2. Entry level requirement of 160.<sup>171</sup>
-- Addition of new daily quests.<sup>172</sup>
+- Added map Karutan 1 & 2. Entry level requirement of 160.<sup><a id="cite171"></a>[[171]](#ref171)</sup>
+- Addition of new daily quests.<sup><a id="cite172"></a>[[172]](#ref172)</sup>
 - **Additional update for Season 6 Part 1 (04.11.2010):**
-  - Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup>173</sup>
+  - Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup><a id="cite173"></a>[[173]](#ref173)</sup>
 
 # **Season 6 Part 2 (03.03.2011 - 25.08.2011):**
 
-- Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup>174</sup>
-- Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup>175</sup>
-- Introduction of Weapon skill for Rage Fighter called Phoenix Shot.<sup>175</sup>
-- Introduction of Inventory and Vault (Warehouse) expansion quests.<sup>175</sup>
-- Introduction of weekly quests.<sup>175</sup>
-- Minor User Interface (UI) update.<sup>175</sup>
-- Introduction of Party reconnect system (Auto Party System).<sup>175</sup>
+- Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup><a id="cite174"></a>[[174]](#ref174)</sup>
+- Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Introduction of Weapon skill for Rage Fighter called Phoenix Shot.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Introduction of Inventory and Vault (Warehouse) expansion quests.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Introduction of weekly quests.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Minor User Interface (UI) update.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Introduction of Party reconnect system (Auto Party System).<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - **Additional update for Season 6 Part 2 (14.07.2011):**
-  - Introduction of MU Helper.<sup>176, 177</sup>
+  - Introduction of MU Helper.<sup><a id="cite176"></a>[[176]](#ref176), <a id="cite177"></a>[[177]](#ref177)</sup>
 - **Additional update for Season 6 Part 2 (28.07.2011):**
-  - Re-work of Doppelganger (Double Goer) event.<sup>178</sup>
+  - Re-work of Doppelganger (Double Goer) event.<sup><a id="cite178"></a>[[178]](#ref178)</sup>
 
 # **Season 6 Part 3 (25.08.2011 - 17.11.2011):**
-MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup>206, 207</sup>
+MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup><a id="cite206"></a>[[206]](#ref206), <a id="cite207"></a>[[207]](#ref207)</sup>
 
-- Introduction of Master Skill Tree system for Rage Fighter.<sup>179</sup>
+- Introduction of Master Skill Tree system for Rage Fighter.<sup><a id="cite179"></a>[[179]](#ref179)</sup>
 
 # **eX700 (17.11.2011 - 29.03.2012):**
 
