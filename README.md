@@ -640,6 +640,8 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 # **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup>170</sup>
+- Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>nd</sup> Level Wings (Reigning Cloak).<sup>170</sup>
+  - Little Warrior's Cloak (0 Level Wings) for Rage Fighter are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
 - Added map Karutan 1 & 2. Entry level requirement of 160.<sup>171</sup>
 - Addition of new daily quests.<sup>172</sup>
 - **Additional update for Season 6 Part 1 (04.11.2010):**
