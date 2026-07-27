@@ -461,7 +461,7 @@
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
 - Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup>105, 72, 75, 121</sup>
-- Introduction of map Aida. .<sup>105, 72, 75, 121, 112</sup>
+- Introduction of map Aida.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Crywolf. Entry level requirement of 300.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Kalima 7 with an entry level requirement of 380.<sup>105, 72, 121, 112</sup>
 - Introduction of Castle Siege skills.<sup>105, 72, 113</sup>
