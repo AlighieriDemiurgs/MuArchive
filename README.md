@@ -588,7 +588,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
 
-- Introduction of Socket Items (lvl 380).<sup>151</sup>
+- Introduction of Socket Items (lvl 380): Flameberge, Sword Breaker, Rune Bastard Sword, Deadly Staff, Frost Mace, Dark Stinger Bow, Absolute Scepter, Inberial Staff, Crimson Glory, Frost Barrier, Guardian Shield, Salamander Shield, Titan set, Bravery set, Divine set, Seraphim set, Hades set, Phantom set, Destruction set, Royal set.<sup>151</sup>
 - Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup>152</sup>
 - Expansion of Master Skill Tree (rank 4).<sup>154</sup>
 - Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup>150</sup>
