@@ -20,6 +20,8 @@
 
 - Introduction of 3<sup>rd</sup> character: Fairy Elf (FE) in addition to Dark Knight (DK) and Dark Wizard (DW).<sup>5</sup>
 
+- Introduction of Fairy Elf (FE) items: Vine set, Silk set, Wind set, Spirit set, Short Bow, Crossbow, Bow, Golden Crossbow, Elven Bow, Arquebus, Battle Bow, Light Crossbow, Tiger Bow, Serpent Crossbow.<sup>5</sup>
+
 - Added map Noria.<sup>5</sup>
 
 - Added Healing Orb, Orb of Greater Damage and Orb of Greater Defense.<sup>5</sup>
@@ -464,7 +466,7 @@
 - Introduction of map Aida.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Crywolf. Entry level requirement of 300.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Kalima 7. Entry level requirement of 380.<sup>105, 72, 121, 112</sup>
-- Introduction of Castle Siege skills.<sup>105, 72, 113</sup>
+- Introduction of Castle Siege skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup>113, 105, 72</sup>
 
 **Additional update #1 for Season 1 (30.08.2005):**
 
