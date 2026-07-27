@@ -100,7 +100,7 @@
 
 - Introduction of Summon Orbs for Fairy Elf (FE).<sup>12</sup>
 
-- Introduction of Transformation (Disguise) Rings.<sup>12</sup>
+- Introduction of Transformation (Disguise) Rings: Budge Dragon Transformation Ring, Giant Transformation Ring, Skeleton Warrior Transformation Ring, Poison Bull Fighter Transformation Ring, Thunder Lich Transformation Ring, Death Cow Transformation Ring.<sup>12</sup>
 
 **0.64 aka 0.64.0 (14.05.2002):**
 
