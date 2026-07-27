@@ -681,7 +681,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of new Pentagram items.<sup>192</sup>
 - Introduction of Matching System for parties.<sup>195</sup>
 - Introduction of Pandora's Jewel System and Mining System.<sup>190</sup>
-- Introduction of Protectors of Archeron event.<sup>191</sup>
+- Introduction of Protectors of Acheron event.<sup>191</sup>
 - Added area-zone Debenter in map Acheron.<sup>193</sup>
 - Introduction of Chaos Castle (CC) Survival of the Fittest.<sup>194</sup>
 - **Additional update for Season 8 Part 1 (04.12.2012):**
@@ -704,7 +704,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
-- Added area-zone Uruk Mountain in map Archeron and boss Lord Silvester.<sup>217</sup>
+- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester.<sup>217</sup>
 - Expansion of Muun System. Introduction of Wizardry Stone.<sup>215</sup>
 - Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup>216</sup>
 - Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup>220</sup>
