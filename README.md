@@ -472,6 +472,7 @@
 - Introduction of map Crywolf. Entry level requirement of 300.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
 - Introduction of map Kalima 7. Entry level requirement of 380.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
 - Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup><a id="cite113"></a>[[113]](#ref113), <a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72)</sup>
+
 **Additional update #1 for Season 1 (30.08.2005):**
 
 - Introduction of level 380 Items: Bone Blade, Dragon Knight (Baphomet) set, Grand Viper Staff, Venom Mist set, Sylph Wind Bow, Sylphid Ray set, Explosion Blade, Volcano set, Soleil Scepter, Sunlight set.<sup><a id="cite122"></a>[[122]](#ref122)</sup>
@@ -522,7 +523,7 @@
 - Introduction of level 380 Item Options.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite131"></a>[[131]](#ref131)</sup>
 - Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup><a id="cite132"></a>[[132]](#ref132)</sup>
-- Introduction of new items: Daybreak, Platina Staff, Albatross Bow, Sword Dancer, Shining Scepter, Ashcrow set, Eclipse set, Iris set, Valiant set, Glorious set.<sup>131</sup>
+- Introduction of new items: Daybreak, Platina Staff, Albatross Bow, Sword Dancer, Shining Scepter, Ashcrow set, Eclipse set, Iris set, Valiant set, Glorious set.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Added Scroll of Fire Scream for Dark Lord (DL).<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Adjustments to stat Fruit system.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Introduction of Window Mode.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
