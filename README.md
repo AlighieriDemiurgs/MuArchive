@@ -572,6 +572,7 @@ Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.
 - Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
+- Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup>143</sup>
 - Added map Elveland.<sup>144</sup>
 - Major User Interface (UI) changes.<sup>145</sup>
 
