@@ -738,7 +738,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - **Additional update for Season X Part 1 (18.09.2014):**
   - Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup>233</sup>
 - **Additional update for Season X Part 1 (27.11.2014):**
-  - Introduction of new items for Grow Lancer.<sup>234</sup>
+  - Introduction of new items for Grow Lancer: Alacran Shield, Vis Shield, Hirat set, Sate set, Anas Hirat set, Akhir Hirat set, Camill Sate set, Carthy Sate set.<sup>234</sup>
 
 # **Season X Part 2 (16.12.2014 - 21.05.2015):**
 
