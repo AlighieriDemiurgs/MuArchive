@@ -235,11 +235,11 @@
 
 **0.94b aka 0.94.2 (06.06.2003):**
 
-- Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73)</sup>, <a id="cite74"></a>[[74]](#ref74)</sup>, <a id="cite19"></a>[[19]](#ref19)</sup>
+- Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
 
-- Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73)</sup>, <a id="cite74"></a>[[74]](#ref74)</sup>, <a id="cite19"></a>[[19]](#ref19)</sup>
+- Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
 
-- Added map Icarus.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20)</sup>, <a id="cite62"></a>[[62]](#ref62)</sup>
+- Added map Icarus.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62)</sup>
 
 - Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
 
@@ -247,7 +247,7 @@
 
 **0.94k aka 0.94.11 (17.06.2003):**
 
-- Added Vault (Warehouse) lock function.<a id="cite48"></a>[[48]](#ref48)</sup>
+- Added Vault (Warehouse) lock function.<sup><a id="cite48"></a>[[48]](#ref48)</sup>
 
 **0.9? (20.06.2003):**
 
@@ -295,7 +295,7 @@
 
 - Introduction of Blood Castle (BC) 1-6.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26), <a id="cite37"></a>[[37]](#ref37)</sup>
 
-- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and ivine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25)</sup>, <a id="cite26"></a>[[26]](#ref26)</sup>
+- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and ivine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26)</sup>
 
 **06.10.2003:**
 
