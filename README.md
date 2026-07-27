@@ -573,12 +573,12 @@
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
 - Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
-- Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
-- Maximum level cap raised from 400 to 600 (Master Level 200).<sup><a id="cite211"></a>[[211]](#ref211)</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
 - Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
   - Small Wings of Curse (0 Level Wings) for Summoner are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
+- Maximum level cap raised from 400 to 600 (Master Level 200).<sup><a id="cite211"></a>[[211]](#ref211)</sup>
 - Added map Elveland.<sup><a id="cite144"></a>[[144]](#ref144)</sup>
+- Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
 - Major User Interface (UI) changes.<sup><a id="cite145"></a>[[145]](#ref145)</sup>
 
 # **Season 3.0+ (26.02.2008 - 26.08.2008):**
@@ -599,8 +599,9 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Addition of new skills (Strike of Destruction, Expansion of Wizardry, Multi-Shot, Recovery, Flame Strike, Gigantic Storm, Chaotic Diseier).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
 - Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
 - Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup><a id="cite155"></a>[[155]](#ref155)</sup>
-- **Additional update for Season 4 (22.01.2009):**
-  - Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup><a id="cite156"></a>[[156]](#ref156)</sup>
+
+**Additional update for Season 4 (22.01.2009):**
+- Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup><a id="cite156"></a>[[156]](#ref156)</sup>
 
 # **Season 4.5 (02.04.2009 - 20.08.2009):**
 MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup><a id="cite187"></a>[[187]](#ref187), <a id="cite188"></a>[[188]](#ref188), <a id="cite189"></a>[[189]](#ref189)</sup>
@@ -648,8 +649,9 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
   - Little Warrior's Cloak (0 Level Wings) for Rage Fighter is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Added map Karutan 1 & 2. Entry level requirement of 160.<sup><a id="cite171"></a>[[171]](#ref171)</sup>
 - Addition of new daily quests.<sup><a id="cite172"></a>[[172]](#ref172)</sup>
-- **Additional update for Season 6 Part 1 (04.11.2010):**
-  - Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup><a id="cite173"></a>[[173]](#ref173)</sup>
+
+**Additional update for Season 6 Part 1 (04.11.2010):**
+- Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup><a id="cite173"></a>[[173]](#ref173)</sup>
 
 # **Season 6 Part 2 (03.03.2011 - 25.08.2011):**
 
@@ -660,10 +662,12 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 - Introduction of weekly quests.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Minor User Interface (UI) update.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Introduction of Party reconnect system (Auto Party System).<sup><a id="cite175"></a>[[175]](#ref175)</sup>
-- **Additional update for Season 6 Part 2 (14.07.2011):**
-  - Introduction of MU Helper.<sup><a id="cite176"></a>[[176]](#ref176), <a id="cite177"></a>[[177]](#ref177)</sup>
-- **Additional update for Season 6 Part 2 (28.07.2011):**
-  - Re-work of Doppelganger (Double Goer) event.<sup><a id="cite178"></a>[[178]](#ref178)</sup>
+
+**Additional update for Season 6 Part 2 (14.07.2011):**
+- Introduction of MU Helper.<sup><a id="cite176"></a>[[176]](#ref176), <a id="cite177"></a>[[177]](#ref177)</sup>
+
+**Additional update for Season 6 Part 2 (28.07.2011):**
+- Re-work of Doppelganger (Double Goer) event.<sup><a id="cite178"></a>[[178]](#ref178)</sup>
 
 # **Season 6 Part 3 (25.08.2011 - 17.11.2011):**
 MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup><a id="cite206"></a>[[206]](#ref206), <a id="cite207"></a>[[207]](#ref207)</sup>
@@ -701,8 +705,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of Protectors of Acheron event.<sup>191</sup>
 - Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup>193</sup>
 - Introduction of Chaos Castle (CC) Survival of the Fittest.<sup>194</sup>
-- **Additional update for Season 8 Part 1 (04.12.2012):**
-  - Introduction of SNS (Social Networking Sites) system.<sup>197</sup>
+
+**Additional update for Season 8 Part 1 (04.12.2012):**
+- Introduction of SNS (Social Networking Sites) system.<sup>197</sup>
 
 # **Season 8 Part 2 (16.04.2013 - 30.07.2013):**
 
@@ -717,8 +722,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
   - Specific Muun Item names are not announced by MU Korea (muonline.co.kr).
 - Illusion Temple rework.<sup>202</sup>
 - User Interface (UI) changes.<sup>204</sup>
-- **Additional update for Season 8 Part 3 (08.10.2013):**
-  - Another Illusion Temple rework.<sup>205</sup>
+
+**Additional update for Season 8 Part 3 (08.10.2013):**
+- Another Illusion Temple rework.<sup>205</sup>
 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
@@ -734,13 +740,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 9 Part 2 (03.04.2014 - 19.08.2014):**
 
 - Introduction of Evomon Evolves event.<sup>221</sup>
-- **Additional update for Season 9 Part 2 (22.04.2014):**
-  - Expansion of Master Skill Tree (rank 9) for Fist Master.<sup>226</sup>
-  - Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup>227</sup>
-  - Introduction of Gremory Case reward vault.<sup>223</sup>
-  - Sold items to an NPC shop now can be bought back. Additional User Interface (UI) changes.<sup>224</sup>
-  - Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup>222</sup>
-  - Introduction of Chaos Castle (Battle) event winner rewards.<sup>225</sup>
+
+**Additional update for Season 9 Part 2 (22.04.2014):**
+- Expansion of Master Skill Tree (rank 9) for Fist Master.<sup>226</sup>
+- Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup>227</sup>
+- Introduction of Gremory Case reward vault.<sup>223</sup>
+- Sold items to an NPC shop now can be bought back. Additional User Interface (UI) changes.<sup>224</sup>
+- Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup>222</sup>
+- Introduction of Chaos Castle (Battle) event winner rewards.<sup>225</sup>
 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
@@ -751,10 +758,12 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup>229</sup>
 - Introduction of Summon Evomon and Evomon Summoning Scroll.<sup>230</sup>
 - Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup>228</sup>
-- **Additional update for Season X Part 1 (18.09.2014):**
-  - Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup>233</sup>
-- **Additional update for Season X Part 1 (27.11.2014):**
-  - Introduction of new items for Grow Lancer: Alacran Shield, Vis Shield, Hirat set, Sate set, Anas Hirat set, Akhir Hirat set, Camill Sate set, Carthy Sate set.<sup>234</sup>
+
+**Additional update for Season X Part 1 (18.09.2014):**
+- Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup>233</sup>
+
+**Additional update for Season X Part 1 (27.11.2014):**
+- Introduction of new items for Grow Lancer: Alacran Shield, Vis Shield, Hirat set, Sate set, Anas Hirat set, Akhir Hirat set, Camill Sate set, Carthy Sate set.<sup>234</sup>
 
 # **Season X Part 2 (16.12.2014 - 21.05.2015):**
 
@@ -764,18 +773,21 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of in-game currency Ruud, obtainable from Mastery Boxes. Introduction of NPC Priest James (Ruud Shop) in map Elveland and map Event Square.<sup>238</sup>
 - Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for all characters.<sup>239</sup>
 - Increased Solo and Party exp. Minor User Interface (UI) changes. Introduction of mass item combination in addition to existing single item combination system at Chaos Goblin. Introduction of play guide in-game for starters.<sup>235</sup>
-- **Additional update for Season X Part 2 (05.02.2015):**
-  - Introduction of 3 new Muun Items: Mutation, Muty, Pider.<sup>241</sup>
+
+**Additional update for Season X Part 2 (05.02.2015):**
+- Introduction of 3 new Muun Items: Mutation, Muty, Pider.<sup>241</sup>
 
 # **Season X Part 3 (21.05.2015 - 21.10.2015):**
 
 - Introduction of Skill Imprint system.<sup>242</sup>
 - Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup>243, 244</sup>
 - Overhaul to item drop locations and monsters accross most maps.<sup>245</sup>
-- **Additional update for Season X Part 3 (04.06.2015):**
-  - Acheron entry level requirement lowered to level 300.<sup>246</sup>
-- **Additional update for Season X Part 3 (11.06.2015):**
-  - Maximum level cap raised from 770 to 800 (Master Level 400).<sup>247, 248</sup>
+
+**Additional update for Season X Part 3 (04.06.2015):**
+- Acheron entry level requirement lowered to level 300.<sup>246</sup>
+
+**Additional update for Season X Part 3 (11.06.2015):**
+- Maximum level cap raised from 770 to 800 (Master Level 400).<sup>247, 248</sup>
 
 # **Season 11 Part 1-1 (21.10.2015 - 05.11.2015):**
 
@@ -1099,8 +1111,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup>395</sup>
 - Introduction of Artifact Grade System.<sup>396</sup>
 - Changes to Skill Enhancement Trees.<sup>397</sup>
-- **Additional update for Season 19 Part 2-3 (08.08.2024):**
-  - Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
+
+**Additional update for Season 19 Part 2-3 (08.08.2024):**
+- Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
 
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
