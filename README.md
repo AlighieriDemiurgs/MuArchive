@@ -573,7 +573,7 @@ Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
 - Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup>143</sup>
- - Small Wings of Curse (0 Level Wings) for Summoner are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
+  - Small Wings of Curse (0 Level Wings) for Summoner are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
 - Added map Elveland.<sup>144</sup>
 - Major User Interface (UI) changes.<sup>145</sup>
 
