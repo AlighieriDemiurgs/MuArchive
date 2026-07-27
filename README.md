@@ -364,7 +364,7 @@
 
 **0.99 aka 0.99.0 (11.05.2004):**
 
-- Introduction of Ancient Set items (Warrior Leather set, Hyperion Bronze set, Eplete Scale set, Garuda Brass set, Kantata Plate set, Hyon Dragon set, Apollo Pad set, Evis Bone set, Heras Sphinx set, Anubis Legendary set, Ceto Vine set, Gaia Silk set, Odin Wind set, Argo Spirit set, Gywen Guardian set, Gaion Atlans set.<sup>97, 22, 33, 68, 69</sup>
+- Introduction of Ancient Set items: Warrior Leather set, Hyperion Bronze set, Eplete Scale set, Garuda Brass set, Kantata Plate set, Hyon Dragon set, Apollo Pad set, Evis Bone set, Heras Sphinx set, Anubis Legendary set, Ceto Vine set, Gaia Silk set, Odin Wind set, Argo Spirit set, Gywen Guardian set, Gaion Atlans set.<sup>97, 22, 33, 68, 69</sup>
 
 - Introduction of Chaos Castle (CC) 1-6.<sup>97, 22, 34</sup>
 
