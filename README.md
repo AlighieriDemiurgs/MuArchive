@@ -641,7 +641,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup>170</sup>
 - Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>nd</sup> Level Wings (Reigning Cloak).<sup>170</sup>
-  - Little Warrior's Cloak (0 Level Wings) for Rage Fighter are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
+  - Little Warrior's Cloak (0 Level Wings) for Rage Fighter is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Added map Karutan 1 & 2. Entry level requirement of 160.<sup>171</sup>
 - Addition of new daily quests.<sup>172</sup>
 - **Additional update for Season 6 Part 1 (04.11.2010):**
@@ -741,6 +741,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup>231</sup>
+- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>nd</sup> Level Wings (Cloak of Transcendence).<sup>231</sup>
+  - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Maximum level cap raised from 730 to 770 (Master Level 370).<sup>232</sup>
 - Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup>229</sup>
 - Introduction of Summon Evomon and Evomon Summoning Scroll.<sup>230</sup>
