@@ -431,6 +431,7 @@
 **1.0? (27.03.2005):**
 
 - First edition of Castle Siege held on live server. Previously developed in January on test server.<sup>115, 117, 118</sup>
+- Introduction of Castle Siege skills: Crescent Moon Slash (DK), Mana Glaive (DW), Starfall (FE), Spiral Slash (MG), Mana Rays (MG), Fire Blast (DL).<sup>118</sup>
 
 **1.0? (17.05.2005):**
 
