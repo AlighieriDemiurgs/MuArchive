@@ -572,7 +572,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 
 - Expansion of Master Skill Tree (rank 3). Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup>147</sup>
 - Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup>149</sup>
-- Added map Swamp of Calmness.<sup>146</sup>
+- Added map Swamp of Peace (Swamp of Calmness).<sup>146</sup>
 - Minor User Interface (UI) changes.<sup>148</sup>
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
@@ -597,7 +597,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 # **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
 
 - Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup>162</sup>
-- Added map Varka and Fortress of Imperial Guardian event.<sup>159</sup>
+- Added Fortress of Imperial Guardian: Varka event.<sup>159</sup>
 - Added Doppelganger (Double Goer) event.<sup>160</sup>
 - Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup>161</sup>
 - Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>161</sup>
@@ -622,7 +622,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 
 - Introduction of Master Skill Tree system for Summoner.<sup>169</sup>
 - Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup>169</sup>
-- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Calmness, LaCleon (Raklion).<sup>168</sup>
+- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Peace (Swamp of Calmness), LaCleon (Raklion).<sup>168</sup>
 - Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>168</sup>
 - Addition of new quests.<sup>168</sup>
 
@@ -1010,7 +1010,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
 
-- Introduction of map Ignis Volcano. Entry level requirement of 1220.<sup>363</sup>
+- Introduction of map Ignis Vulcanus. Entry level requirement of 1220.<sup>363</sup>
 - Maximum level cap raised from 1450 to 1500 (Master Level 1100).<sup>362</sup>
 - Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for all characters except Illusion Knight. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for all characters except Illusion Knight.<sup>364</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Cloak of Sacrifice) for Illusion Knight.<sup>365</sup>
