@@ -710,6 +710,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
 
 - Introduction of Muun System and Items, including Evolution Stone.<sup>203</sup>
+  - Specific Muun Item names are not announced by MU Korea (muonline.co.kr).
 - Illusion Temple rework.<sup>202</sup>
 - User Interface (UI) changes.<sup>204</sup>
 - **Additional update for Season 8 Part 3 (08.10.2013):**
@@ -719,6 +720,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup>217</sup>
 - Expansion of Muun System. Introduction of Wizardry Stone.<sup>215</sup>
+- Introduction of Widescreen support.<sup>215</sup>
 - Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup>216</sup>
 - Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup>220</sup>
 - Changes to PK system.<sup>220</sup>
@@ -757,7 +759,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for all characters.<sup>239</sup>
 - Increased Solo and Party exp. Minor User Interface (UI) changes. Introduction of mass item combination in addition to existing single item combination system at Chaos Goblin. Introduction of play guide in-game for starters.<sup>235</sup>
 - **Additional update for Season X Part 2 (05.02.2015):**
-  - Introduction of new Muun Items.<sup>241</sup>
+  - Introduction of 3 new Muun Items: Mutation, Muty, Pider.<sup>241</sup>
 
 # **Season X Part 3 (21.05.2015 - 21.10.2015):**
 
