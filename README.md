@@ -431,7 +431,7 @@
 **1.0? (27.03.2005):**
 
 - First edition of Castle Siege held on live server. Previously developed in January on test server.<sup>115, 117, 118</sup>
-- Introduction of Castle Siege skills: Crescent Moon Slash (DK), Mana Glaive (DW), Starfall (FE), Spiral Slash (MG), Mana Rays (MG), Fire Blast (DL).<sup>118</sup>
+- Introduction of character-specific Castle Siege Skills: Crescent Moon Slash (DK), Mana Glaive (DW), Starfall (FE), Spiral Slash (MG), Mana Rays (MG), Fire Blast (DL).<sup>118</sup>
 
 **1.0? (17.05.2005):**
 
@@ -467,7 +467,7 @@
 - Introduction of map Aida.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Crywolf. Entry level requirement of 300.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Kalima 7. Entry level requirement of 380.<sup>105, 72, 121, 112</sup>
-- Introduction of Castle Siege skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup>113, 105, 72</sup>
+- Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup>113, 105, 72</sup>
 
 **Additional update #1 for Season 1 (30.08.2005):**
 
