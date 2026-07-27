@@ -6,7 +6,7 @@
 
 **??.05.2001:** 
 
-- Open BETA test in South Korea.<sup>2, 42</sup>
+- Open BETA test in South Korea.<sup><a id="cite2"></a>[[2]](#ref2), <a id="cite42"></a>[[42]](#ref42)</sup>
 
 **0.29 aka 0.29.0 (??.??.2001):**
 
@@ -1179,9 +1179,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for Crusader.<sup>431</sup>
 
 # **REFERENCES:**
-1. <a id="ref1"></a>[^](#cite1) https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm
+1\. <a id="ref1"></a>[^](#cite1) https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm
 
-2\. <https://web.archive.org/web/20260410171331/https://company.webzen.com/en/about/history>
+2\. <a id="ref2"></a>[^](#cite2) https://web.archive.org/web/20260410171331/https://company.webzen.com/en/about/history
 
 3\. <https://forum.ragezone.com/threads/release-original-complete-sources-0-65-webzen.1198705/>
 
@@ -1272,7 +1272,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 41\. <https://web.archive.org/web/20040219130652/http://www.muonline.com/s01/s01.asp?Next_Page=1&Munews_Section=0&Munews_Text=>
 
-42\. <https://web.archive.org/web/20011117013141/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=120&f_keyWord=&f_sekey=>
+42\. <a id="ref42"></a>[^](#cite42) https://web.archive.org/web/20011117013141/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=120&f_keyWord=&f_sekey=
 
 43\. <https://web.archive.org/web/20040119010522/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=1135&f_keyWord=&f_sekey=>
 
