@@ -691,7 +691,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 8 Part 1 (27.11.2012 - 16.04.2013):**
 
 - Maximum level cap raised from 702 to 730 (Master Level 330).<sup>212</sup>
-- Introduction of new Pentagram items.<sup>192</sup>
+- Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup>192</sup>
 - Introduction of Matching System for parties.<sup>195</sup>
 - Introduction of Pandora's Jewel System and Mining System.<sup>190</sup>
 - Introduction of Protectors of Acheron event.<sup>191</sup>
