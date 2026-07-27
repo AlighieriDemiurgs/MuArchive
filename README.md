@@ -2,7 +2,7 @@
 
 **12.02.2001:** 
 
-- Closed ALPHA test in South Korea.<sup>1</sup>
+- Closed ALPHA test in South Korea.<sup><a id="cite1"></a>[[1]](#ref1)</sup>
 
 **??.05.2001:** 
 
@@ -1179,8 +1179,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for Crusader.<sup>431</sup>
 
 # **REFERENCES:**
-
-1\. <https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm>
+1. <a id="ref1"></a>[^](#cite1) Some Source, "Article Title," Publisher, 2001. [Link]([https://example.com](https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm))
 
 2\. <https://web.archive.org/web/20260410171331/https://company.webzen.com/en/about/history>
 
