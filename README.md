@@ -458,7 +458,7 @@
 
 - Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup>105, 72, 75, 121</sup>
 - Introduction of map Aida and map Crywolf.<sup>105, 72, 75, 121, 112</sup>
-- Introduction of map Kalima 7 with a level requirement of 380.<sup>105, 72, 121, 112</sup>
+- Introduction of map Kalima 7 with an entry level requirement of 380.<sup>105, 72, 121, 112</sup>
 - Introduction of Castle Siege skills.<sup>105, 72, 113</sup>
 
 **Additional update #1 for Season 1 (30.08.2005):**
@@ -469,7 +469,7 @@
 **Additional update #2 for Season 1 (17.10.2005):**
 
 - Monster levels adjusted for the level 380 Items.<sup>123</sup>
-- Adjustments to Aida, Crywolf and Kalima 6 entry requirements.<sup>123</sup>
+- Adjustments to Aida, Crywolf and Kalima 6 entry level requirements.<sup>123</sup>
 - Adjustments to Kalima 6 monster level.<sup>123</sup>
 - Items added to Crywolf NPC Wandering Merchant.<sup>123</sup>
 
@@ -525,7 +525,7 @@
 
 **Additional update #2 for Season 2 (30.01.2007):**
 
-- Elf Soldier (Shadow Phantom Soldier) buffs can be received in addition to having been buffed with Orb of Greater Damage and Orb of Greater Defense. The strongest buff applies in that case.<sup>134, 135</sup>
+- Elf Soldier (Shadow Phantom Soldier) buffs can be received in addition to having been buffed with Orb of Greater Damage and Orb of Greater Defense. The strongest buffs apply in that case.<sup>134, 135</sup>
 - Minor game adjustments for low level characters.<sup>134</sup>
 - Changed drop table for Ring of Warrior (level 40 and 80).<sup>134</sup>
 - Complex Potion drop rate decreased.<sup>135</sup>
@@ -560,7 +560,8 @@
 # **Season 3 (06.12.2007 - 26.02.2008):**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
 
-- Introduction of Master Level and Master Skill Tree system. Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
+- Introduction of Master Level and Master Skill Tree system.<sup>142</sup>
+- Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup>142</sup>
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup>211</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup>143</sup>
 - Added map Elveland.<sup>144</sup>
@@ -597,7 +598,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 
 - Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup>162</sup>
 - Added map Varka and Fortress of Imperial Guardian event.<sup>159</sup>
-- Added map Doppelganger (Double Goer) event.<sup>160</sup>
+- Added Doppelganger (Double Goer) event.<sup>160</sup>
 - Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup>161</sup>
 - Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup>161</sup>
 
