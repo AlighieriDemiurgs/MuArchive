@@ -461,7 +461,8 @@
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
 - Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup>105, 72, 75, 121</sup>
-- Introduction of map Aida and map Crywolf.<sup>105, 72, 75, 121, 112</sup>
+- Introduction of map Aida. .<sup>105, 72, 75, 121, 112</sup>
+- Introduction of map Crywolf. Entry level requirement of 300.<sup>105, 72, 75, 121, 112</sup>
 - Introduction of map Kalima 7 with an entry level requirement of 380.<sup>105, 72, 121, 112</sup>
 - Introduction of Castle Siege skills.<sup>105, 72, 113</sup>
 
@@ -514,7 +515,7 @@
 
 - Introduction of level 380 Item Options.<sup>131</sup>
 - Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup>132, 131</sup>
-- Introduction of map Kanturu and Kanturu event.<sup>132</sup>
+- Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup>132</sup>
 - Introduction of new items: Daybreak, Platina Staff, Albatross Bow, Sword Dancer, Shining Scepter, Ashcrow set, Eclipse set, Iris set, Valiant set, Glorious set.<sup>131</sup>
 - Added Scroll of Fire Scream for Dark Lord (DL).<sup>131</sup>
 - Adjustments to stat Fruit system.<sup>131</sup>
@@ -576,7 +577,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 
 - Expansion of Master Skill Tree (rank 3). Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup>147</sup>
 - Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup>149</sup>
-- Added map Swamp of Peace (Swamp of Calmness).<sup>146</sup>
+- Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup>146</sup>
 - Minor User Interface (UI) changes.<sup>148</sup>
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
@@ -584,7 +585,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 - Introduction of Socket Items (lvl 380).<sup>151</sup>
 - Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup>152</sup>
 - Expansion of Master Skill Tree (rank 4).<sup>154</sup>
-- Added map LaCleon (Raklion) and boss Selupan.<sup>150</sup>
+- Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup>150</sup>
 - Addition of new skills (Strike of Destruction, Expansion of Wizardry, Multi-Shot, Recovery, Flame Strike, Gigantic Storm, Chaotic Diseier).<sup>153</sup>
 - Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup>153</sup>
 - Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup>155</sup>
@@ -595,7 +596,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup>187, 188, 189</sup>
 
 - Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup>158</sup>
-- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff).<sup>157</sup>
+- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup>157</sup>
 - Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup>157</sup>
 
 # **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
@@ -633,7 +634,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 # **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup>170</sup>
-- Added map Karutan 1 & 2.<sup>171</sup>
+- Added map Karutan 1 & 2. Entry level requirement of 160.<sup>171</sup>
 - Addition of new daily quests.<sup>172</sup>
 - **Additional update for Season 6 Part 1 (04.11.2010):**
   - Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup>173</sup>
@@ -662,7 +663,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup>180</sup>
 - Maximum level cap raised from 600 to 700 (Master Level 300).<sup>180, 211</sup>
 - Introduction of Pentagram System with four slots (Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity) and their five elements (Fire, Water, Earth, Wind, Darkness) for PvP and PvM.<sup>180</sup>
-- Added map Acheron. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup>180</sup>
+- Added map Acheron. Entry level requirement of 300. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup>180</sup>
 - User Interface (UI) changes to the Login screen and Character selection screen (last updated on Season 1). Major User Interface (UI) changes in-game.<sup>180</sup>
 
 # **eX701 (29.03.2012 - 13.06.2012):**
@@ -686,7 +687,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of Matching System for parties.<sup>195</sup>
 - Introduction of Pandora's Jewel System and Mining System.<sup>190</sup>
 - Introduction of Protectors of Acheron event.<sup>191</sup>
-- Added area-zone Debenter in map Acheron.<sup>193</sup>
+- Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup>193</sup>
 - Introduction of Chaos Castle (CC) Survival of the Fittest.<sup>194</sup>
 - **Additional update for Season 8 Part 1 (04.12.2012):**
   - Introduction of SNS (Social Networking Sites) system.<sup>197</sup>
@@ -708,7 +709,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
-- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester.<sup>217</sup>
+- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup>217</sup>
 - Expansion of Muun System. Introduction of Wizardry Stone.<sup>215</sup>
 - Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup>216</sup>
 - Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup>220</sup>
@@ -742,7 +743,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season X Part 2 (16.12.2014 - 21.05.2015):**
 
 - Expansion of Master Skill Tree (rank 9) for Grow Lancer.<sup>236</sup>
-- Added area-zone Nars in map Acheron and boss Core Magriffy.<sup>240</sup>
+- Added area-zone Nars in map Acheron and boss Core Magriffy. Entry level requirement of 400.<sup>240</sup>
 - Introduction of map Event Square. Introduction of Mastery Boxes as rewards for events.<sup>237</sup>
 - Introduction of in-game currency Ruud, obtainable from Mastery Boxes. Introduction of NPC Priest James (Ruud Shop) in map Elveland and map Event Square.<sup>238</sup>
 - Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for all characters.<sup>239</sup>
