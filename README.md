@@ -251,8 +251,9 @@
 
 **0.9? (20.06.2003):**
 
-- Added Tama-chan (Seal) event for Japanese MU only.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
-
+- Added Tama-chan (Seal) event for Japanese MU only. Located in the river-ditch at the Southern bridge of Lorencia<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
+  - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
+  
 **0.95.? (06.08.2003):**
 
 - Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59)</sup>
@@ -1078,121 +1079,121 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 19 Part 1-1 (19.09.2023 - 12.10.2023):**
 
-- Re-work of character Grow Lancer.<sup>380</sup>
+- Re-work of character Grow Lancer.<sup><a id="cite380"></a>[[380]](#ref380)</sup>
 
 # **Season 19 Part 1-2 (12.10.2023 - 01.11.2023):**
 
-- Introduction of map Tormenta Island. Entry level requirement of 1400.<sup>381</sup>
-- Maximum level cap raised from 1550 to 1600 (Master Level 1200).<sup>382</sup>
-- Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for all characters. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for all characters.<sup>383</sup>
+- Introduction of map Tormenta Island. Entry level requirement of 1400.<sup><a id="cite381"></a>[[381]](#ref381)</sup>
+- Maximum level cap raised from 1550 to 1600 (Master Level 1200).<sup><a id="cite382"></a>[[382]](#ref382)</sup>
+- Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for all characters. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for all characters.<sup><a id="cite383"></a>[[383]](#ref383)</sup>
 
 # **Season 19 Part 1-3 (01.11.2023 - 30.04.2024):**
 
-- Introduction of 5<sup>th</sup> Class Quests for all characters.<sup>384</sup>
-- Introduction of 5<sup>th</sup> Level Wings (Wings of Destruction, Wings of Virtue, Wings of Fantasy, Wings of Punishment, Wings of Barrier, Wings of Inevitability, Wings of Jaan, Wings of Crimson, Wings of Eternity) and Capes (Cloak Spirit, Cloak of Oath, Cloak of Discipline, Cloak of Deterioration, Cloak of Resolution) for all characters.<sup>385</sup>
-- Added Elite Zone in map Tormenta Island and Elite monsters Storm Guard, Storm Reaper, Storm Fiend.<sup>386</sup>
-- Introduction of Ability Cards-Enhancement System.<sup>387</sup>
-- Introduction of Greater Spirit Stone. Changes to map entry level requirements.<sup>388</sup>
+- Introduction of 5<sup>th</sup> Class Quests for all characters.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
+- Introduction of 5<sup>th</sup> Level Wings (Wings of Destruction, Wings of Virtue, Wings of Fantasy, Wings of Punishment, Wings of Barrier, Wings of Inevitability, Wings of Jaan, Wings of Crimson, Wings of Eternity) and Capes (Cloak Spirit, Cloak of Oath, Cloak of Discipline, Cloak of Deterioration, Cloak of Resolution) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
+- Added Elite Zone in map Tormenta Island and Elite monsters Storm Guard, Storm Reaper, Storm Fiend.<sup><a id="cite386"></a>[[386]](#ref386)</sup>
+- Introduction of Ability Cards-Enhancement System.<sup><a id="cite387"></a>[[387]](#ref387)</sup>
+- Introduction of Greater Spirit Stone. Changes to map entry level requirements.<sup><a id="cite388"></a>[[388]](#ref388)</sup>
 
 # **Season 19 Part 2-1 (30.04.2024 - 14.05.2024):**
 
-- Re-work of character Dark Lord (DL).<sup>389</sup>
+- Re-work of character Dark Lord (DL).<sup><a id="cite389"></a>[[389]](#ref389)</sup>
 
 # **Season 19 Part 2-2 (14.05.2024 - 04.06.2024):**
 
-- Introduction of map Twisted Karutan. Entry level requirement of 1450.<sup>391</sup>
-- Introduction of 7<sup>th</sup> Mastery Earrings: Foliage Earring (L) (level 950) and Foliage Earring (R) (level 1000).<sup>392</sup>
-- Maximum level cap raised from 1600 to 1650 (Master Level 1250).<sup>390</sup>
-- Adjustments to Ability Cards-Enhancement System.<sup>393</sup>
+- Introduction of map Twisted Karutan. Entry level requirement of 1450.<sup><a id="cite391"></a>[[391]](#ref391)</sup>
+- Introduction of 7<sup>th</sup> Mastery Earrings: Foliage Earring (L) (level 950) and Foliage Earring (R) (level 1000).<sup><a id="cite392"></a>[[392]](#ref392)</sup>
+- Maximum level cap raised from 1600 to 1650 (Master Level 1250).<sup><a id="cite390"></a>[[390]](#ref390)</sup>
+- Adjustments to Ability Cards-Enhancement System.<sup><a id="cite393"></a>[[393]](#ref393)</sup>
 
 # **Season 19 Part 2-3 (04.06.2024 - 24.09.2024):**
 
-- Introduction of 6<sup>th</sup> Guardian Mount: Leviathan (level 1300).<sup>394</sup>
-- Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup>395</sup>
-- Introduction of Artifact Grade System.<sup>396</sup>
-- Changes to Skill Enhancement Trees.<sup>397</sup>
+- Introduction of 6<sup>th</sup> Guardian Mount: Leviathan (level 1300).<sup><a id="cite394"></a>[[394]](#ref394)</sup>
+- Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup><a id="cite395"></a>[[395]](#ref395)</sup>
+- Introduction of Artifact Grade System.<sup><a id="cite396"></a>[[396]](#ref396)</sup>
+- Changes to Skill Enhancement Trees.<sup><a id="cite397"></a>[[397]](#ref397)</sup>
 
 **Additional update for Season 19 Part 2-3 (08.08.2024):**
-- Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup>398</sup>
+- Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup><a id="cite398"></a>[[398]](#ref398)</sup>
 
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
-- Introduction of 15<sup>th</sup> character: Alchemist.<sup>399</sup>
+- Introduction of 15<sup>th</sup> character: Alchemist.<sup><a id="cite399"></a>[[399]](#ref399)</sup>
 
 # **Season 20 Part 1-2 (15.10.2024 - 05.11.2024):**
 
-- Introduction of map Kardamahal Underground Temple. Entry level requirement of 1500.<sup>401</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of the Lake) for Alchemist. Introduction of 4<sup>th</sup> Level Wings (Wings of Purity) for Alchemist. Introduction of 5<sup>th</sup> Level Wings (Wings of Hyean) for Alchemist. Introduction of Pure Wing Core of Hyean for Alchemist.<sup>402</sup>
-- Maximum level cap raised from 1650 to 1700 (Master Level 1300).<sup>400</sup>
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Alchemist.<sup>402</sup>
-- Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Alchemist. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Alchemist. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Alchemist.<sup>402</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Alchemist. Introduction of Blessed Archangel's Absolute Wand for Alchemist.<sup>402</sup>
+- Introduction of map Kardamahal Underground Temple. Entry level requirement of 1500.<sup><a id="cite401"></a>[[401]](#ref401)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of the Lake) for Alchemist. Introduction of 4<sup>th</sup> Level Wings (Wings of Purity) for Alchemist. Introduction of 5<sup>th</sup> Level Wings (Wings of Hyean) for Alchemist. Introduction of Pure Wing Core of Hyean for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
+- Maximum level cap raised from 1650 to 1700 (Master Level 1300).<sup><a id="cite400"></a>[[400]](#ref400)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
+- Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Alchemist. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Alchemist. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Alchemist. Introduction of Blessed Archangel's Absolute Wand for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 
 # **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
 
-- Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup>404</sup>
-- Introduction of 1<sup>st</sup> Legendary Weapons and Shield: Temple Guard (level 1500) for all characters.<sup>405</sup>
-- Introduction of 1<sup>st</sup> Legendary Armors set: Sanctuary Temple Guard (level 1500) for all characters.<sup>405</sup>
-- Guild Matching User Interface (UI) and Combination User Interface (UI) improvements.<sup>403</sup>
+- Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup><a id="cite404"></a>[[404]](#ref404)</sup>
+- Introduction of 1<sup>st</sup> Legendary Weapons and Shield: Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Introduction of 1<sup>st</sup> Legendary Armors set: Sanctuary Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Guild Matching User Interface (UI) and Combination User Interface (UI) improvements.<sup><a id="cite403"></a>[[403]](#ref403)</sup>
 
 # **Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
 
-- Re-work of character Rune Mage.<sup>406</sup>
+- Re-work of character Rune Mage.<sup><a id="cite406"></a>[[406]](#ref406)</sup>
 
 # **Season 20 Part 2-2 (13.05.2025 - 29.05.2025):**
 
-- Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup>407</sup>
-- Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Cold (L) (level 1000) and Earring of Cold (R) (level 1050).<sup>408</sup>
-- Various gameplay improvements. Introduction of Monster Soul Converter. Changes to Boss Battle Together event. Changes to exp necessary for levels. Increased exp gained from map Kardamahal Underground Temple monsters. Added Blessing of Eunice.<sup>409</sup>
+- Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup><a id="cite407"></a>[[407]](#ref407)</sup>
+- Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Cold (L) (level 1000) and Earring of Cold (R) (level 1050).<sup><a id="cite408"></a>[[408]](#ref408)</sup>
+- Various gameplay improvements. Introduction of Monster Soul Converter. Changes to Boss Battle Together event. Changes to exp necessary for levels. Increased exp gained from map Kardamahal Underground Temple monsters. Added Blessing of Eunice.<sup><a id="cite409"></a>[[409]](#ref409)</sup>
 
 # **Season 20 Part 2-3 (29.05.2025 - 30.09.2025):**
 
-- Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup>410</sup>
-- Introduction of 7<sup>th</sup> Guardian Mount: Tauros (level 1400).<sup>411</sup>
-- Various gameplay improvements. Introduction of Experience Recovery Potion that recovers lost experience on death. Changes to event entry tickets. Introduction of 10 daily entrance limits to mini-game Maze of Dimensions.<sup>412</sup>
+- Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup><a id="cite410"></a>[[410]](#ref410)</sup>
+- Introduction of 7<sup>th</sup> Guardian Mount: Tauros (level 1400).<sup><a id="cite411"></a>[[411]](#ref411)</sup>
+- Various gameplay improvements. Introduction of Experience Recovery Potion that recovers lost experience on death. Changes to event entry tickets. Introduction of 10 daily entrance limits to mini-game Maze of Dimensions.<sup><a id="cite412"></a>[[412]](#ref412)</sup>
 
 # **Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
 
-- Introduction of 16<sup>th</sup> character: Crusader.<sup>414</sup>
-- Changes to map Deep Dungeon 1-5 entry level requirements, changes to monster stats.<sup>413</sup>
+- Introduction of 16<sup>th</sup> character: Crusader.<sup><a id="cite414"></a>[[414]](#ref414)</sup>
+- Changes to map Deep Dungeon 1-5 entry level requirements, changes to monster stats.<sup><a id="cite413"></a>[[413]](#ref413)</sup>
 
 # **Season 21 Part 1-2 (21.10.2025 - 11.11.2025):**
 
-- Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup>417</sup>
-- Maximum level cap raised from 1700 to 1750 (Master Level 1350).<sup>416</sup>
-- Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for all characters except Crusader.<sup>418</sup>
-- Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for all characters except Crusader.<sup>418</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Sanctuary Cloak) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup>415</sup>
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Crusader.<sup>415</sup>
-- Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Crusader. Introduction of Blessed Archangel's Absolute Hammer for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for Crusader.<sup>415</sup>
-- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Armor set: Sanctuary Temple Guard (level 1500) for Crusader.<sup>415</sup>
-- Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stat. Changes to Monster Soul Converter level brackets and requirements. Legendary Weapons/Armors set User Interface (UI) improvements. Changes to Fairy Elf (FE) buff stats.<sup>419</sup>
+- Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup><a id="cite417"></a>[[417]](#ref417)</sup>
+- Maximum level cap raised from 1700 to 1750 (Master Level 1350).<sup><a id="cite416"></a>[[416]](#ref416)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Sanctuary Cloak) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Crusader. Introduction of Blessed Archangel's Absolute Hammer for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Armor set: Sanctuary Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stat. Changes to Monster Soul Converter level brackets and requirements. Legendary Weapons/Armors set User Interface (UI) improvements. Changes to Fairy Elf (FE) buff stats.<sup><a id="cite419"></a>[[419]](#ref419)</sup>
 
 # **Season 21 Part 1-3 (11.11.2025 - 21.04.2026):**
 
-- Added Elite Zone in map Aquilas Temple and Elite monsters Aquila Warrior, Aquila Gunner, Aquila Mage. Removal of Elite Zone and its monsters in map Swamp of Destruction.<sup>420</sup>
-- Adding Jewel of Bless or Jewel of Soul to items in inventory is not possible anymore. Increased Zen costs for item enhancements in Chaos Machine.<sup>421</sup>
-- Changes to Crywolf event.<sup>421</sup>
+- Added Elite Zone in map Aquilas Temple and Elite monsters Aquila Warrior, Aquila Gunner, Aquila Mage. Removal of Elite Zone and its monsters in map Swamp of Destruction.<sup><a id="cite420"></a>[[420]](#ref420)</sup>
+- Adding Jewel of Bless or Jewel of Soul to items in inventory is not possible anymore. Increased Zen costs for item enhancements in Chaos Machine.<sup><a id="cite421"></a>[[421]](#ref421)</sup>
+- Changes to Crywolf event.<sup><a id="cite421"></a>[[421]](#ref421)</sup>
 
 # **Season 21 Part 2-1 (21.04.2026 - 12.05.2026):**
 
-- Changes to stat requirements for items depending on their enhancement (plus) level. Stat requirements do not increase depending on item enhancement level. Jewel of Life (JoL) enhancements do require higher stats. Minor adjustments to stat requirements for all items.<sup>422</sup>
-- Minor re-work of Fairy Elf (FE), Magic Gladiator (MG), Gun Crusher, Illusion Knight, Rune Mage.<sup>423</sup>
+- Changes to stat requirements for items depending on their enhancement (plus) level. Stat requirements do not increase depending on item enhancement level. Jewel of Life (JoL) enhancements do require higher stats. Minor adjustments to stat requirements for all items.<sup><a id="cite422"></a>[[422]](#ref422)</sup>
+- Minor re-work of Fairy Elf (FE), Magic Gladiator (MG), Gun Crusher, Illusion Knight, Rune Mage.<sup><a id="cite423"></a>[[423]](#ref423)</sup>
 
 # **Season 21 Part 2-2 (12.05.2026 - 09.06.2026):**
 
-- Introduction of map LaCleon of Oblivion (Raklion of Oblivion). Entry level requirement of 1650.<sup>424</sup>
-- Maximum level cap raised from 1750 to 1800 (Master Level 1400).<sup>425</sup>
-- Introduction of 9<sup>th</sup> Mastery Earrings: Earring of Compassion (L) (level 1050) and Earring of Compassion (R) (level 1100).<sup>426</sup>
-- Increased Socket Item enhancement probability rates.<sup>427</sup>
-- Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stats. Changes to Monster Soul Converter level brackets and requirements. Horn of Uniria, Satan and Guardian Angel are removed as monster drops and quest rewards.<sup>428</sup>
+- Introduction of map LaCleon of Oblivion (Raklion of Oblivion). Entry level requirement of 1650.<sup><a id="cite424"></a>[[424]](#ref424)</sup>
+- Maximum level cap raised from 1750 to 1800 (Master Level 1400).<sup><a id="cite425"></a>[[425]](#ref425)</sup>
+- Introduction of 9<sup>th</sup> Mastery Earrings: Earring of Compassion (L) (level 1050) and Earring of Compassion (R) (level 1100).<sup><a id="cite426"></a>[[426]](#ref426)</sup>
+- Increased Socket Item enhancement probability rates.<sup><a id="cite427"></a>[[427]](#ref427)</sup>
+- Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stats. Changes to Monster Soul Converter level brackets and requirements. Horn of Uniria, Satan and Guardian Angel are removed as monster drops and quest rewards.<sup><a id="cite428"></a>[[428]](#ref428)</sup>
 
 # **Season 21 Part 2-3 (09.06.2026 - …):**
 
-- Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup>429</sup>
-- Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup>430</sup>
-- Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for Crusader.<sup>431</sup>
-- Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for Crusader.<sup>431</sup>
+- Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup><a id="cite429"></a>[[429]](#ref429)</sup>
+- Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup><a id="cite430"></a>[[430]](#ref430)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for Crusader.<sup><a id="cite431"></a>[[431]](#ref431)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for Crusader.<sup><a id="cite431"></a>[[431]](#ref431)</sup>
 
 # **REFERENCES:**
 1. <a id="ref1"></a>[^](#cite1) https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm
