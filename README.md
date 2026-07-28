@@ -820,141 +820,141 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 12 Part 1-1 (01.11.2016 - 17.11.2016):**
 
-- Added map Nixies Lake and boss Nix. Entry level requirement of 700.<sup>264</sup>
-- Introduction of 2<sup>nd</sup> Mastery Weapons: Darkangel (level 600) for all characters.<sup>265</sup>
-- Introduction of 3<sup>rd</sup> Mastery Sets: Holyangel (level 800) for all characters.<sup>266</sup>
-- Maximum level cap raised from 800 to 820 (Master Level 420).<sup>267</sup>
+- Added map Nixies Lake and boss Nix. Entry level requirement of 700.<sup><a id="cite264"></a>[[264]](#ref264)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Weapons: Darkangel (level 600) for all characters.<sup><a id="cite265"></a>[[265]](#ref265)</sup>
+- Introduction of 3<sup>rd</sup> Mastery Sets: Holyangel (level 800) for all characters.<sup><a id="cite266"></a>[[266]](#ref266)</sup>
+- Maximum level cap raised from 800 to 820 (Master Level 420).<sup><a id="cite267"></a>[[267]](#ref267)</sup>
 
 # **Season 12 Part 1-2 (17.11.2016 - 23.05.2017):**
 
-- Changes to map Nixies Lake boss zone Nix area.<sup>268</sup>
-- Added mini-game Maze of Dimensions.<sup>269</sup>
-- Changes to Mastery Sets.<sup>270</sup>
-- Ruud currency overhaul.<sup>270</sup>
-- Addition of new Quiver items for Elf character.<sup>270</sup>
-- Dark Lord (DL) can equip Dark Raven by right clicking it.<sup>270</sup>
+- Changes to map Nixies Lake boss zone Nix area.<sup><a id="cite268"></a>[[268]](#ref268)</sup>
+- Added mini-game Maze of Dimensions.<sup><a id="cite269"></a>[[269]](#ref269)</sup>
+- Changes to Mastery Sets.<sup><a id="cite270"></a>[[270]](#ref270)</sup>
+- Ruud currency overhaul.<sup><a id="cite270"></a>[[270]](#ref270)</sup>
+- Addition of new Quiver items for Elf character.<sup><a id="cite270"></a>[[270]](#ref270)</sup>
+- Dark Lord (DL) can equip Dark Raven by right clicking it.<sup><a id="cite270"></a>[[270]](#ref270)</sup>
 
 # **Season 12 Part 2 (23.05.2017 - 24.10.2017):**
 
-- Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup>274</sup>
-- Introduction of 4<sup>th</sup> Class Skill Enhancement Trees.<sup>273</sup>
-- Added map Deep Dungeon 1-5. Entry level requirement of 770.<sup>271</sup>
-- Maximum level cap raised from 820 to 920 (Master Level 520).<sup>276</sup>
-- Master Skill Tree renewal-changes.<sup>272</sup>
-- Introduction of Quest Guides.<sup>275</sup>
-- Introduction of Maximum Attack Speed. Changes to event entry level requirements. Gaining experience after level 800 is only possible after finishing 4<sup>th</sup> Class Quest. Changes to map movement level requirements. User Interface (UI) changes. Changes to MU Helper.<sup>276</sup>
-- Introduction of mini-game Jewel Bingo.<sup>277</sup>
+- Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup><a id="cite274"></a>[[274]](#ref274)</sup>
+- Introduction of 4<sup>th</sup> Class Skill Enhancement Trees.<sup><a id="cite273"></a>[[273]](#ref273)</sup>
+- Added map Deep Dungeon 1-5. Entry level requirement of 770.<sup><a id="cite271"></a>[[271]](#ref271)</sup>
+- Maximum level cap raised from 820 to 920 (Master Level 520).<sup><a id="cite276"></a>[[276]](#ref276)</sup>
+- Master Skill Tree renewal-changes.<sup><a id="cite272"></a>[[272]](#ref272)</sup>
+- Introduction of Quest Guides.<sup><a id="cite275"></a>[[275]](#ref275)</sup>
+- Introduction of Maximum Attack Speed. Changes to event entry level requirements. Gaining experience after level 800 is only possible after finishing 4<sup>th</sup> Class Quest. Changes to map movement level requirements. User Interface (UI) changes. Changes to MU Helper.<sup><a id="cite276"></a>[[276]](#ref276)</sup>
+- Introduction of mini-game Jewel Bingo.<sup><a id="cite277"></a>[[277]](#ref277)</sup>
 
 # **Season 13 Part 1-1 (24.10.2017 - 14.11.2017):**
 
-- Added map Swamp of Darkness. Entry level requirement of 800.<sup>278</sup>
-- Introduction of 3<sup>rd</sup> Mastery Weapons: Holyangel (level 800) for all characters.<sup>279</sup>
-- Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for all characters. New options added to Mastery Sets.<sup>279</sup>
-- Expansion of Skill Enhancement Trees. Changes to skills.<sup>280, 281</sup>
-- Various gameplay and User Interface (UI) improvements.<sup>282</sup>
-- Character Selection window expanded from 5 to 8 characters.<sup>283</sup>
+- Added map Swamp of Darkness. Entry level requirement of 800.<sup><a id="cite278"></a>[[278]](#ref278)</sup>
+- Introduction of 3<sup>rd</sup> Mastery Weapons: Holyangel (level 800) for all characters.<sup><a id="cite279"></a>[[279]](#ref279)</sup>
+- Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for all characters. New options added to Mastery Sets.<sup><a id="cite279"></a>[[279]](#ref279)</sup>
+- Expansion of Skill Enhancement Trees. Changes to skills.<sup><a id="cite280"></a>[[280]](#ref280), <a id="cite281"></a>[[281]](#ref281)</sup>
+- Various gameplay and User Interface (UI) improvements.<sup><a id="cite282"></a>[[282]](#ref282)</sup>
+- Character Selection window expanded from 5 to 8 characters.<sup><a id="cite283"></a>[[283]](#ref283)</sup>
 
 # **Season 13 Part 1-2 (14.11.2017 - 16.05.2018):**
 
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Flame God, Wing of Celestial Body, Wings of Elysium, Wings of Other World, Wings of Annihilation) and Capes (Cloak of Dominator, Cloak of Judgment, Cloak of Isolation).<sup>284</sup>
-- Maximum level cap raised from 920 to 1000 (Master Level 600).<sup>285</sup>
-- Addition of Boss zone to map Swamp of Darkness and bosses God of Darkness, Swamp Monster, Water Monster, Swamp Summoned Beast.<sup>286</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Flame God, Wing of Celestial Body, Wings of Elysium, Wings of Other World, Wings of Annihilation) and Capes (Cloak of Dominator, Cloak of Judgment, Cloak of Isolation).<sup><a id="cite284"></a>[[284]](#ref284)</sup>
+- Maximum level cap raised from 920 to 1000 (Master Level 600).<sup><a id="cite285"></a>[[285]](#ref285)</sup>
+- Addition of Boss zone to map Swamp of Darkness and bosses God of Darkness, Swamp Monster, Water Monster, Swamp Summoned Beast.<sup><a id="cite286"></a>[[286]](#ref286)</sup>
 
 # **Season 13 Part 2-1 (16.05.2018 - 07.06.2018):**
 
-- Expansion of mini-game Maze of Dimensions from 7 floors to 41 floors.<sup>287</sup>
-- Introduction of 1<sup>st</sup> Mastery Earrings: Earring of Wrath (L) (level 300) and Earring of Wrath (R) (level 700). Introduction of Lapidary Stone.<sup>288</sup>
-- Maximum level cap raised from 1000 to 1050 (Master Level 650).<sup>289</sup>
-- Various User Interface (UI) improvements. Expansion of Master Skill Tree. Map movement level requirements changed.<sup>289</sup>
+- Expansion of mini-game Maze of Dimensions from 7 floors to 41 floors.<sup><a id="cite287"></a>[[287]](#ref287)</sup>
+- Introduction of 1<sup>st</sup> Mastery Earrings: Earring of Wrath (L) (level 300) and Earring of Wrath (R) (level 700). Introduction of Lapidary Stone.<sup><a id="cite288"></a>[[288]](#ref288)</sup>
+- Maximum level cap raised from 1000 to 1050 (Master Level 650).<sup><a id="cite289"></a>[[289]](#ref289)</sup>
+- Various User Interface (UI) improvements. Expansion of Master Skill Tree. Map movement level requirements changed.<sup><a id="cite289"></a>[[289]](#ref289)</sup>
 
 # **Season 13 Part 2-2 (07.06.2018 - 16.10.2018):**
 
-- Addition of Archangel Absolute Claws and Blessed Divine Claw of Archangel for Rage Fighter.<sup>290</sup>
-- New rules and clasification of buffs.<sup>291</sup>
-- Introduction of MU Lite.<sup>292</sup>
+- Addition of Archangel Absolute Claws and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
+- New rules and clasification of buffs.<sup><a id="cite291"></a>[[291]](#ref291)</sup>
+- Introduction of MU Lite.<sup><a id="cite292"></a>[[292]](#ref292)</sup>
 
 # **Season 14 Part 1-1 (16.10.2018 - 29.11.2018):**
 
-- Introduction of 9<sup>th</sup> character: Rune Mage.<sup>293</sup>
-- New skills added for Rune Mage.<sup>294</sup>
-- Introduction of simple Jewel stacking and unstacking in your own inventory. Previously the old system introduced during late Season 0 at NPC Lahap existed.<sup>295</sup>
-- Gold withdrawal and deposit limit in the bank is raised from 100kk to 1kkk.<sup>295</sup>
-- Introduction of Switch Mode System. Improvements to MU Helper.<sup>295</sup>
-- Changes to Quest User Interface (UI). Introduction of damage limit to the Errtel of Radiance. Now Talisman of Chaos Assembly and Talisman of Luck can be sold in Personal Store.<sup>295</sup>
+- Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
+- New skills added for Rune Mage.<sup><a id="cite294"></a>[[294]](#ref294)</sup>
+- Introduction of simple Jewel stacking and unstacking in your own inventory. Previously the old system introduced during late Season 0 at NPC Lahap existed.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
+- Gold withdrawal and deposit limit in the bank is raised from 100kk to 1kkk.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
+- Introduction of Switch Mode System. Improvements to MU Helper.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
+- Changes to Quest User Interface (UI). Introduction of damage limit to the Errtel of Radiance. Now Talisman of Chaos Assembly and Talisman of Luck can be sold in Personal Store.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
 
 # **Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
 
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Destiny) for Rune Mage.<sup>296</sup>
-- Introduction of 3<sup>rd</sup> Mastery Sets and Weapons: Holyangel (level 800) for Rune Mage.<sup>296</sup>
-- Introduction of 4<sup>th</sup> Class Quest for Rune Mage (Majestic Rune Wizard).<sup>297</sup>
-- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup>297</sup>
-- Added map Cubera Mine. Entry level requirement of 850.<sup>298</sup>
-- Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) for all characters except Rune Mage.<sup>300</sup>
-- Introduction of 5<sup>th</sup> Mastery Sets: Frosty Blue Eye (level 1000) for all characters except Rune Mage. New options added to Mastery Sets.<sup>300</sup>
-- Maximum level cap raised from 1050 to 1100 (Master Level 700).<sup>301</sup>
-- Addition of Archangel's Absolute Lance and Blessed Archangel's Absolute Lance for Grow Lancer.<sup>299</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Destiny) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
+- Introduction of 3<sup>rd</sup> Mastery Sets and Weapons: Holyangel (level 800) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
+- Introduction of 4<sup>th</sup> Class Quest for Rune Mage (Majestic Rune Wizard).<sup><a id="cite297"></a>[[297]](#ref297)</sup>
+- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup><a id="cite297"></a>[[297]](#ref297)</sup>
+- Added map Cubera Mine. Entry level requirement of 850.<sup><a id="cite298"></a>[[298]](#ref298)</sup>
+- Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) for all characters except Rune Mage.<sup><a id="cite300"></a>[[300]](#ref300)</sup>
+- Introduction of 5<sup>th</sup> Mastery Sets: Frosty Blue Eye (level 1000) for all characters except Rune Mage. New options added to Mastery Sets.<sup><a id="cite300"></a>[[300]](#ref300)</sup>
+- Maximum level cap raised from 1050 to 1100 (Master Level 700).<sup><a id="cite301"></a>[[301]](#ref301)</sup>
+- Addition of Archangel's Absolute Lance and Blessed Archangel's Absolute Lance for Grow Lancer.<sup><a id="cite299"></a>[[299]](#ref299)</sup>
 
 # **Season 14 Part 2-1 (21.05.2019 - 11.06.2019):**
 
-- Introduction of 2<sup>nd</sup> Mastery Earrings: Earrings of Forefathers (L) (level 700) and Earrings of Forefathers (R) (level 750).<sup>302</sup>
-- Maximum level cap raised from 1100 to 1150 (Master Level 750).<sup>303</sup>
-- Added map Atlans (Abyss) 1-3. Entry level requirement of 1000-1020-1030.<sup>304</sup>
-- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Rune Mage.<sup>305</sup>
-- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage.<sup>305</sup>
-- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Rune Mage.<sup>305</sup>
-- Introduction of Monster Soul Conversion system.<sup>306</sup>
+- Introduction of 2<sup>nd</sup> Mastery Earrings: Earrings of Forefathers (L) (level 700) and Earrings of Forefathers (R) (level 750).<sup><a id="cite302"></a>[[302]](#ref302)</sup>
+- Maximum level cap raised from 1100 to 1150 (Master Level 750).<sup><a id="cite303"></a>[[303]](#ref303)</sup>
+- Added map Atlans (Abyss) 1-3. Entry level requirement of 1000-1020-1030.<sup><a id="cite304"></a>[[304]](#ref304)</sup>
+- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Rune Mage.<sup><a id="cite305"></a>[[305]](#ref305)</sup>
+- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage.<sup><a id="cite305"></a>[[305]](#ref305)</sup>
+- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Rune Mage.<sup><a id="cite305"></a>[[305]](#ref305)</sup>
+- Introduction of Monster Soul Conversion system.<sup><a id="cite306"></a>[[306]](#ref306)</sup>
 
 # **Season 14 Part 2-2 (11.06.2019 - 24.09.2019):**
 
-- Major re-work of character Summoner.<sup>307</sup>
-- Introduction of 1<sup>st</sup> Guardian Mount: Phantasmal Steed (level 800).<sup>308</sup>
-- Added Elite Zone in map Atlans (Abyss) 3 and Elite monsters Bahamut Abyss & Lizard King.<sup>308</sup>
+- Major re-work of character Summoner.<sup><a id="cite307"></a>[[307]](#ref307)</sup>
+- Introduction of 1<sup>st</sup> Guardian Mount: Phantasmal Steed (level 800).<sup><a id="cite308"></a>[[308]](#ref308)</sup>
+- Added Elite Zone in map Atlans (Abyss) 3 and Elite monsters Bahamut Abyss & Lizard King.<sup><a id="cite308"></a>[[308]](#ref308)</sup>
 
 # **Season 15 Part 1-1 (24.09.2019 - 17.10.2019):**
 
-- Introduction of 10<sup>th</sup> character: Slayer.<sup>309</sup>
+- Introduction of 10<sup>th</sup> character: Slayer.<sup><a id="cite309"></a>[[309]](#ref309)</sup>
 
 # **Season 15 Part 1-2 (17.10.2019 - 05.11.2019):**
 
-- New skills added for Slayer.<sup>310</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of Silence) for Slayer.<sup>310</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Slayer. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Slayer. Introduction of Blessed Divine Short Sword of Archangel for Slayer.<sup>310</sup>
-- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Slayer.<sup>310</sup>
-- Introduction of 4<sup>th</sup> Class Quest for Slayer (Slaughterer).<sup>311</sup>
-- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup>311</sup>
-- Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for all characters except Slayer.<sup>312</sup>
-- Introduction of 6<sup>th</sup> Mastery Sets: Forefather's Silver Heart (level 1100) for all characters except Slayer.<sup>312</sup>
-- Added map Scorched Canyon. Entry level requirement of 1050.<sup>313</sup>
-- Maximum level cap raised from 1150 to 1200 (Master Level 800).<sup>314</sup>
-- Various User Interface (UI) improvements.<sup>314</sup>
+- New skills added for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of Silence) for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Slayer. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Slayer. Introduction of Blessed Divine Short Sword of Archangel for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
+- Introduction of 4<sup>th</sup> Class Quest for Slayer (Slaughterer).<sup><a id="cite311"></a>[[311]](#ref311)</sup>
+- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup><a id="cite311"></a>[[311]](#ref311)</sup>
+- Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for all characters except Slayer.<sup><a id="cite312"></a>[[312]](#ref312)</sup>
+- Introduction of 6<sup>th</sup> Mastery Sets: Forefather's Silver Heart (level 1100) for all characters except Slayer.<sup><a id="cite312"></a>[[312]](#ref312)</sup>
+- Added map Scorched Canyon. Entry level requirement of 1050.<sup><a id="cite313"></a>[[313]](#ref313)</sup>
+- Maximum level cap raised from 1150 to 1200 (Master Level 800).<sup><a id="cite314"></a>[[314]](#ref314)</sup>
+- Various User Interface (UI) improvements.<sup><a id="cite314"></a>[[314]](#ref314)</sup>
 
 # **Season 15 Part 1-3 (05.11.2019 - 21.04.2020):**
 
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Condemnation) for Slayer.<sup>315</sup>
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Slayer.<sup>315</sup>
-- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Slayer. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Slayer.<sup>315</sup>
-- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Slayer.<sup>315</sup>
-- Changes to event entry level requirements and rewards.<sup>316</sup>
-- Added Elite Zone in map Scorched Canyon and Elite monsters Scorched Warrior, Scorched Wizard, Scorched Assasin.<sup>317</sup>
-- Expansion of Skill Enhancement Trees. Changes to skills.<sup>318</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Condemnation) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Slayer. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+- Changes to event entry level requirements and rewards.<sup><a id="cite316"></a>[[316]](#ref316)</sup>
+- Added Elite Zone in map Scorched Canyon and Elite monsters Scorched Warrior, Scorched Wizard, Scorched Assasin.<sup><a id="cite317"></a>[[317]](#ref317)</sup>
+- Expansion of Skill Enhancement Trees. Changes to skills.<sup><a id="cite318"></a>[[318]](#ref318)</sup>
 
 # **Season 15 Part 2-1 (21.04.2020 - 11.05.2020):**
 
-- Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup>320</sup>
-- Maximum level cap raised from 1200 to 1250 (Master Level 850).<sup>321</sup>
-- Introduction of 3<sup>rd</sup> Mastery Earrings: Earring of Glory (L) (level 750) and Earring of Glory (R) (level 800).<sup>322</sup>
-- Introduction of four Excellent Socket Necklaces (level 850): Lapis Lazuli Necklace, Jasper Necklace, Battle Jasper Necklace, Battle Lapis Lazuli Necklace.<sup>319</sup>
-- Minor User Interface (UI) improvements.<sup>321</sup>
+- Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup><a id="cite320"></a>[[320]](#ref320)</sup>
+- Maximum level cap raised from 1200 to 1250 (Master Level 850).<sup><a id="cite321"></a>[[321]](#ref321)</sup>
+- Introduction of 3<sup>rd</sup> Mastery Earrings: Earring of Glory (L) (level 750) and Earring of Glory (R) (level 800).<sup><a id="cite322"></a>[[322]](#ref322)</sup>
+- Introduction of four Excellent Socket Necklaces (level 850): Lapis Lazuli Necklace, Jasper Necklace, Battle Jasper Necklace, Battle Lapis Lazuli Necklace.<sup><a id="cite319"></a>[[319]](#ref319)</sup>
+- Minor User Interface (UI) improvements.<sup><a id="cite321"></a>[[321]](#ref321)</sup>
 
 # **Season 15 Part 2-2 (11.05.2020 - 15.09.2020):**
 
-- Introduction of 2<sup>nd</sup> Guardian Mount: Ice Dragon (level 900).<sup>323</sup>
-- Added Elite Zone in map Crimson Flame's Icarus and Elite monsters Great Drakan, Phoenix of Darkness.<sup>323</sup>
-- Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Slayer.<sup>324</sup>
-- Renewal of Personal Store.<sup>325</sup>
-- Improvements of User Interface (UI) and MU Helper.<sup>326</sup>
-- Re-work of character Dark Knight (DK).<sup>327</sup>
-- Changes to Party and Party Matching system. Introduction of MU Helper plus.<sup>328</sup>
+- Introduction of 2<sup>nd</sup> Guardian Mount: Ice Dragon (level 900).<sup><a id="cite323"></a>[[323]](#ref323)</sup>
+- Added Elite Zone in map Crimson Flame's Icarus and Elite monsters Great Drakan, Phoenix of Darkness.<sup><a id="cite323"></a>[[323]](#ref323)</sup>
+- Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Slayer.<sup><a id="cite324"></a>[[324]](#ref324)</sup>
+- Renewal of Personal Store.<sup><a id="cite325"></a>[[325]](#ref325)</sup>
+- Improvements of User Interface (UI) and MU Helper.<sup><a id="cite326"></a>[[326]](#ref326)</sup>
+- Re-work of character Dark Knight (DK).<sup><a id="cite327"></a>[[327]](#ref327)</sup>
+- Changes to Party and Party Matching system. Introduction of MU Helper plus.<sup><a id="cite328"></a>[[328]](#ref328)</sup>
 
 # **Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
 
