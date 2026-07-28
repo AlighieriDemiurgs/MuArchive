@@ -958,123 +958,123 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
 
-- Introduction of 11<sup>th</sup> character: Gun Crusher.<sup>329</sup>
+- Introduction of 11<sup>th</sup> character: Gun Crusher.<sup><a id="cite329"></a>[[329]](#ref329)</sup>
 
 # **Season 16 Part 1-2 (06.10.2020 - 27.10.2020):**
 
-- Added map Temple of Arnil. Entry level requirement of 1100.<sup>331</sup>
-- Maximum level cap raised from 1250 to 1300 (Master Level 900).<sup>330</sup>
-- Introduction of Talisman of Chaos Assembly (TCA) and Elemental Talisman of Chaos Assembly.<sup>333</sup>
-- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Gun Crusher.<sup>332</sup>
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Gun Crusher.<sup>332</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Gun Crusher. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Gun Crusher. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Gun Crusher.<sup>332</sup>
-- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Gun Crusher. Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for Gun Crusher.<sup>332</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of Accuracy) for Gun Crusher.<sup>332</sup>
-- New skills added for Gun Crusher.<sup>332</sup>
+- Added map Temple of Arnil. Entry level requirement of 1100.<sup><a id="cite331"></a>[[331]](#ref331)</sup>
+- Maximum level cap raised from 1250 to 1300 (Master Level 900).<sup><a id="cite330"></a>[[330]](#ref330)</sup>
+- Introduction of Talisman of Chaos Assembly (TCA) and Elemental Talisman of Chaos Assembly.<sup><a id="cite333"></a>[[333]](#ref333)</sup>
+- Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Gun Crusher. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Gun Crusher. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Gun Crusher. Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of Accuracy) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- New skills added for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 
 # **Season 16 Part 1-3 (27.10.2020 - 13.04.2021):**
 
-- Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup>335</sup>
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Bloodshed) for Gun Crusher.<sup>334</sup>
-- Introduction of Blessed Divine Magic Gun of Archangel. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Gun Crusher.<sup>334</sup>
-- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Gun Crusher. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Gun Crusher.<sup>334</sup>
-- Re-work of mini-game Maze of Dimensions.<sup>336</sup>
-- Re-work of Jewel of Harmony (JoH).<sup>337</sup>
-- Expansion of Pentagram and Elemental system.<sup>338</sup>
-- Update to NPC Moss the Gambler in Elveland its items.<sup>339</sup>
-- Introduction of item sort function.<sup>339</sup>
+- Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup><a id="cite335"></a>[[335]](#ref335)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Bloodshed) for Gun Crusher.<sup><a id="cite334"></a>[[334]](#ref334)</sup>
+- Introduction of Blessed Divine Magic Gun of Archangel. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Gun Crusher.<sup><a id="cite334"></a>[[334]](#ref334)</sup>
+- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Gun Crusher. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Gun Crusher. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Gun Crusher.<sup><a id="cite334"></a>[[334]](#ref334)</sup>
+- Re-work of mini-game Maze of Dimensions.<sup><a id="cite336"></a>[[336]](#ref336)</sup>
+- Re-work of Jewel of Harmony (JoH).<sup><a id="cite337"></a>[[337]](#ref337)</sup>
+- Expansion of Pentagram and Elemental system.<sup><a id="cite338"></a>[[338]](#ref338)</sup>
+- Update to NPC Moss the Gambler in Elveland its items.<sup><a id="cite339"></a>[[339]](#ref339)</sup>
+- Introduction of item sort function.<sup><a id="cite339"></a>[[339]](#ref339)</sup>
 
 # **Season 16 Part 2-1 (13.04.2021 - 04.05.2021):**
 
-- Maximum level cap raised from 1300 to 1350 (Master Level 950).<sup>340</sup>
-- Added map Gray Aida. Entry level requirement of 1130.<sup>341</sup>
-- Introduction of 4<sup>th</sup> Mastery Earrings: Earrings of Blood (L) (level 800) and Earrings of Blood (R) (level 850).<sup>342</sup>
+- Maximum level cap raised from 1300 to 1350 (Master Level 950).<sup><a id="cite340"></a>[[340]](#ref340)</sup>
+- Added map Gray Aida. Entry level requirement of 1130.<sup><a id="cite341"></a>[[341]](#ref341)</sup>
+- Introduction of 4<sup>th</sup> Mastery Earrings: Earrings of Blood (L) (level 800) and Earrings of Blood (R) (level 850).<sup><a id="cite342"></a>[[342]](#ref342)</sup>
 
 # **Season 16 Part 2-2 (04.05.2021 - 28.09.2021):**
 
-- Introduction of 3<sup>rd</sup> Guardian Mount: Fierce Lion (level 1000).<sup>345</sup>
-- Added Elite Zone in map Gray Aida and Elite monsters Golem Gray, Bloody Witch Queen Gray.<sup>345</sup>
-- Re-work of character Magic Gladiator (MG).<sup>343</sup>
-- Added skill Fixed Fire for Gun Crusher.<sup>344</sup>
-- Update to Guardian Mount pets.<sup>346</sup>
+- Introduction of 3<sup>rd</sup> Guardian Mount: Fierce Lion (level 1000).<sup><a id="cite345"></a>[[345]](#ref345)</sup>
+- Added Elite Zone in map Gray Aida and Elite monsters Golem Gray, Bloody Witch Queen Gray.<sup><a id="cite345"></a>[[345]](#ref345)</sup>
+- Re-work of character Magic Gladiator (MG).<sup><a id="cite343"></a>[[343]](#ref343)</sup>
+- Added skill Fixed Fire for Gun Crusher.<sup><a id="cite344"></a>[[344]](#ref344)</sup>
+- Update to Guardian Mount pets.<sup><a id="cite346"></a>[[346]](#ref346)</sup>
 
 # **Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
 
-- Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup>347</sup>
-- Minor User Interface (UI) improvements.<sup>348</sup>
+- Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup><a id="cite347"></a>[[347]](#ref347)</sup>
+- Minor User Interface (UI) improvements.<sup><a id="cite348"></a>[[348]](#ref348)</sup>
 
 # **Season 17 Part 1-2 (19.10.2021 - 09.11.2021):**
 
-- Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup>349</sup>
-- Introduction of map Burning Kethotum. Entry level requirement of 1160.<sup>350</sup>
-- Added map Old Kethotum. Entry level requirement of 700.<sup>350</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Brilliance) for White Wizard.<sup>351</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of Eternity) for Mage.<sup>351</sup>
-- Addition of sets and weapons for White Wizard and Mage.<sup>351</sup>
-- Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for all characters except White Wizard and Mage. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for all characters except White Wizard and Mage.<sup>352</sup>
+- Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup><a id="cite349"></a>[[349]](#ref349)</sup>
+- Introduction of map Burning Kethotum. Entry level requirement of 1160.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
+- Added map Old Kethotum. Entry level requirement of 700.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Brilliance) for White Wizard.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of Eternity) for Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+- Addition of sets and weapons for White Wizard and Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+- Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for all characters except White Wizard and Mage. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for all characters except White Wizard and Mage.<sup><a id="cite352"></a>[[352]](#ref352)</sup>
 
 # **Season 17 Part 1-3 (09.11.2021 - 19.04.2022):**
 
-- Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup>353</sup>
-- Changes to map Nixies Lake and map Cubera Mine.<sup>353</sup>
-- Introduction of 4<sup>th</sup> Level Wings (Cloak of Radiance) for White Wizard.<sup>354</sup>
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Explosion) for Mage.<sup>354</sup>
-- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for White Wizard.<sup>354</sup>
-- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Mage.<sup>354</sup>
-- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for White Wizard. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for White Wizard.<sup>354</sup>
-- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Mage. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Mage.<sup>354</sup>
+- Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
+- Changes to map Nixies Lake and map Cubera Mine.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Cloak of Radiance) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Explosion) for Mage.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Mage.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for White Wizard. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Mage. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Mage.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
 
 # **Season 17 Part 2-1 (19.04.2022 - 10.05.2022):**
 
-- Introduction of map Kanturu Underground. Entry level requirement of 1190.<sup>355</sup>
-- Introduction of 5<sup>th</sup> Mastery Earrings: Allurement Earring (L) (level 850) and Allurement Earring (R) (level 900).<sup>356</sup>
-- Maximum level cap raised from 1400 to 1450 (Master Level 1050).<sup>357</sup>
+- Introduction of map Kanturu Underground. Entry level requirement of 1190.<sup><a id="cite355"></a>[[355]](#ref355)</sup>
+- Introduction of 5<sup>th</sup> Mastery Earrings: Allurement Earring (L) (level 850) and Allurement Earring (R) (level 900).<sup><a id="cite356"></a>[[356]](#ref356)</sup>
+- Maximum level cap raised from 1400 to 1450 (Master Level 1050).<sup><a id="cite357"></a>[[357]](#ref357)</sup>
 
 # **Season 17 Part 2-2 (10.05.2022 - 27.09.2022):**
 
-- 4<sup>th</sup> Level Wings combination update: In case of successful combination, one gets the wings according to his character class.<sup>358</sup>
-- Introduction of 4<sup>th</sup> Guardian Mount: Shining Tail (level 1100).<sup>359</sup>
-- Added Elite Zone in map Kanturu Underground and Elite monsters Underground Persona, Underground Twin Tail, Underground Dread Fear.<sup>359</sup>
-- Re-work of character Fairy Elf (FE).<sup>360</sup>
+- 4<sup>th</sup> Level Wings combination update: In case of successful combination, one gets the wings according to his character class.<sup><a id="cite358"></a>[[358]](#ref358)</sup>
+- Introduction of 4<sup>th</sup> Guardian Mount: Shining Tail (level 1100).<sup><a id="cite359"></a>[[359]](#ref359)</sup>
+- Added Elite Zone in map Kanturu Underground and Elite monsters Underground Persona, Underground Twin Tail, Underground Dread Fear.<sup><a id="cite359"></a>[[359]](#ref359)</sup>
+- Re-work of character Fairy Elf (FE).<sup><a id="cite360"></a>[[360]](#ref360)</sup>
 
 # **Season 18 Part 1-1 (27.09.2022 - 20.10.2022):**
 
-- Introduction of 14<sup>th</sup> character: Illusion Knight.<sup>361</sup>
+- Introduction of 14<sup>th</sup> character: Illusion Knight.<sup><a id="cite361"></a>[[361]](#ref361)</sup>
 
 # **Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
 
-- Introduction of map Ignis Vulcanus. Entry level requirement of 1220.<sup>363</sup>
-- Maximum level cap raised from 1450 to 1500 (Master Level 1100).<sup>362</sup>
-- Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for all characters except Illusion Knight. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for all characters except Illusion Knight.<sup>364</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Sacrifice) for Illusion Knight.<sup>365</sup>
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Illusion Knight.<sup>365</sup>
-- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Illusion Knight. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Illusion Knight.<sup>365</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Illusion Knight. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Illusion Knight. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Illusion Knight. Introduction of Blessed Archangel's Absolute Blade for Illusion Knight.<sup>365</sup>
+- Introduction of map Ignis Vulcanus. Entry level requirement of 1220.<sup><a id="cite363"></a>[[363]](#ref363)</sup>
+- Maximum level cap raised from 1450 to 1500 (Master Level 1100).<sup><a id="cite362"></a>[[362]](#ref362)</sup>
+- Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for all characters except Illusion Knight. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for all characters except Illusion Knight.<sup><a id="cite364"></a>[[364]](#ref364)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Sacrifice) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Illusion Knight. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Illusion Knight. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Illusion Knight. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Illusion Knight. Introduction of Blessed Archangel's Absolute Blade for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
 
 # **Season 18 Part 1-3 (08.11.2022 - 18.04.2023):**
 
-- Added Elite Zone in map Ignis Volcano and Elite monsters Magma Gladiator, Magma Hook, Magma Shaman.<sup>366</sup>
-- Introduction of 4<sup>th</sup> Level Wings (Cloak of Hatred) for Illusion Knight.<sup>367</sup>
-- Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Illusion Knight. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Illusion Knight. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Illusion Knight.<sup>367</sup>
-- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Illusion Knight. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Illusion Knight. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Illusion Knight. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Illusion Knight.<sup>367</sup>
-- Re-work of event Fortress of Imperial Guardian.<sup>368</sup>
-- Introduction of Artifact System.<sup>369</sup>
-- Introduction of Boss Battle Together event. Entry level requirement of 1000.<sup>370</sup>
+- Added Elite Zone in map Ignis Volcano and Elite monsters Magma Gladiator, Magma Hook, Magma Shaman.<sup><a id="cite366"></a>[[366]](#ref366)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Cloak of Hatred) for Illusion Knight.<sup><a id="cite367"></a>[[367]](#ref367)</sup>
+- Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Illusion Knight. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Illusion Knight. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Illusion Knight.<sup><a id="cite367"></a>[[367]](#ref367)</sup>
+- Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Illusion Knight. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Illusion Knight. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Illusion Knight. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Illusion Knight.<sup><a id="cite367"></a>[[367]](#ref367)</sup>
+- Re-work of event Fortress of Imperial Guardian.<sup><a id="cite368"></a>[[368]](#ref368)</sup>
+- Introduction of Artifact System.<sup><a id="cite369"></a>[[369]](#ref369)</sup>
+- Introduction of Boss Battle Together event. Entry level requirement of 1000.<sup><a id="cite370"></a>[[370]](#ref370)</sup>
 
 # **Season 18 Part 2-1 (18.04.2023 - 18.05.2023):**
 
-- Introduction of map Bloody Tarkan. Entry level requirement of 1250.<sup>372</sup>
-- Maximum level cap raised from 1500 to 1550 (Master Level 1150).<sup>373</sup>
-- Introduction of 6<sup>th</sup> Mastery Earrings: Unity Earring (L) (level 900) and Unity Earring (R) (level 950).<sup>371</sup>
-- Improvements of User Interface (UI) for Wings combination at NPC Chaos Goblin. Minor changes to items needed for Wings combination.<sup>376</sup>
-- Expansion of Muun System. Introduction of Muun Tempest.<sup>374</sup>
-- Introduction of Horn Mastery Crystal buff.<sup>375</sup>
+- Introduction of map Bloody Tarkan. Entry level requirement of 1250.<sup><a id="cite372"></a>[[372]](#ref372)</sup>
+- Maximum level cap raised from 1500 to 1550 (Master Level 1150).<sup><a id="cite373"></a>[[373]](#ref373)</sup>
+- Introduction of 6<sup>th</sup> Mastery Earrings: Unity Earring (L) (level 900) and Unity Earring (R) (level 950).<sup><a id="cite371"></a>[[371]](#ref371)</sup>
+- Improvements of User Interface (UI) for Wings combination at NPC Chaos Goblin. Minor changes to items needed for Wings combination.<sup><a id="cite376"></a>[[376]](#ref376)</sup>
+- Expansion of Muun System. Introduction of Muun Tempest.<sup><a id="cite374"></a>[[374]](#ref374)</sup>
+- Introduction of Horn Mastery Crystal buff.<sup><a id="cite375"></a>[[375]](#ref375)</sup>
 
 # **Season 18 Part 2-2 (18.05.2023 - 19.09.2023):**
 
-- Introduction of 5<sup>th</sup> Guardian Mount: Ur (level 1200).<sup>377</sup>
-- Re-work of character Dark Knight (DK), Magic Gladiator (MG), Rage Fighter (RF), Slayer.<sup>378</sup>
-- Added Elite Zone in map Bloody Tarkan and Elite monsters Bloody Wolf, Bloody Beam Knight, Bloody Tantalus.<sup>379</sup>
+- Introduction of 5<sup>th</sup> Guardian Mount: Ur (level 1200).<sup><a id="cite377"></a>[[377]](#ref377)</sup>
+- Re-work of character Dark Knight (DK), Magic Gladiator (MG), Rage Fighter (RF), Slayer.<sup><a id="cite378"></a>[[378]](#ref378)</sup>
+- Added Elite Zone in map Bloody Tarkan and Elite monsters Bloody Wolf, Bloody Beam Knight, Bloody Tantalus.<sup><a id="cite379"></a>[[379]](#ref379)</sup>
 
 # **Season 19 Part 1-1 (19.09.2023 - 12.10.2023):**
 
