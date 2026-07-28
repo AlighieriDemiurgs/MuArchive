@@ -676,147 +676,147 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **eX700 (17.11.2011 - 29.03.2012):**
 
-- Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup>180</sup>
-- Maximum level cap raised from 600 to 700 (Master Level 300).<sup>180, 211</sup>
-- Introduction of Pentagram System with four slots (Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity) and their five elements (Fire, Water, Earth, Wind, Darkness) for PvP and PvM.<sup>180</sup>
-- Added map Acheron. Entry level requirement of 300. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup>180</sup>
-- User Interface (UI) changes to the Login screen and Character selection screen (last updated on Season 1). Major User Interface (UI) changes in-game.<sup>180</sup>
+- Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
+- Maximum level cap raised from 600 to 700 (Master Level 300).<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite211"></a>[[211]](#ref211)</sup>
+- Introduction of Pentagram System with four slots (Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity) and their five elements (Fire, Water, Earth, Wind, Darkness) for PvP and PvM.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
+- Added map Acheron. Entry level requirement of 300. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
+- User Interface (UI) changes to the Login screen and Character selection screen (last updated on Season 1). Major User Interface (UI) changes in-game.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
 
 # **eX701 (29.03.2012 - 13.06.2012):**
 
-- Introduction of Mastery Socket Items (lvl 400) for 3<sup>rd</sup> class characters. Mastery Socket Weapons (lvl 400) added: Sonic Blade, Cyclone Sword, Blast Break, Magmus Peer, Horn of Steal, Angelic Bow, Devil Crossbow, Spite Staff, Asura, Thunderbolt. Ingredient drops added from monsters in LaCleon (Raklion).<sup>183</sup>
-- Addition of 2.5 Level Wings (Monster Wings): Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup>184</sup>
-- Changes to Arka War mini-game.<sup>182</sup>
-- Additional User Interface (UI) changes in-game.<sup>181</sup>
+- Introduction of Mastery Socket Items (lvl 400) for 3<sup>rd</sup> class characters. Mastery Socket Weapons (lvl 400) added: Sonic Blade, Cyclone Sword, Blast Break, Magmus Peer, Horn of Steal, Angelic Bow, Devil Crossbow, Spite Staff, Asura, Thunderbolt. Ingredient drops added from monsters in LaCleon (Raklion).<sup><a id="cite183"></a>[[183]](#ref183)</sup>
+- Addition of 2.5 Level Wings (Monster Wings): Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup><a id="cite184"></a>[[184]](#ref184)</sup>
+- Changes to Arka War mini-game.<sup><a id="cite182"></a>[[182]](#ref182)</sup>
+- Additional User Interface (UI) changes in-game.<sup><a id="cite181"></a>[[181]](#ref181)</sup>
 
 # **eX702 (13.06.2012 - 27.11.2012):**
 
-- Maximum level cap raised from 700 to 702 (Master Level 302).<sup>213, 214</sup>
-- New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup>186</sup>
-- New Mastery Socket Armor (lvl 400) added: Stormwing set, Dark Devil set, Magic Knight set, Hell Knight set, Succubus set, Ambition set, Light Lord set, Sticky set, Lazy Wind set.<sup>186</sup>
-- Additional User Interface (UI) changes in-game.<sup>185</sup>
+- Maximum level cap raised from 700 to 702 (Master Level 302).<sup><a id="cite213"></a>[[213]](#ref213), <a id="cite214"></a>[[214]](#ref214)</sup>
+- New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup><a id="cite186"></a>[[186]](#ref186)</sup>
+- New Mastery Socket Armor (lvl 400) added: Stormwing set, Dark Devil set, Magic Knight set, Hell Knight set, Succubus set, Ambition set, Light Lord set, Sticky set, Lazy Wind set.<sup><a id="cite186"></a>[[186]](#ref186)</sup>
+- Additional User Interface (UI) changes in-game.<sup><a id="cite185"></a>[[185]](#ref185)</sup>
 
 # **Season 8 Part 1 (27.11.2012 - 16.04.2013):**
 
-- Maximum level cap raised from 702 to 730 (Master Level 330).<sup>212</sup>
-- Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup>192</sup>
-- Introduction of Matching System for parties.<sup>195</sup>
-- Introduction of Pandora's Jewel System and Mining System.<sup>190</sup>
-- Introduction of Protectors of Acheron event.<sup>191</sup>
-- Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup>193</sup>
-- Introduction of Chaos Castle (CC) Survival of the Fittest.<sup>194</sup>
+- Maximum level cap raised from 702 to 730 (Master Level 330).<sup><a id="cite212"></a>[[212]](#ref212)</sup>
+- Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup><a id="cite192"></a>[[192]](#ref192)</sup>
+- Introduction of Matching System for parties.<sup><a id="cite195"></a>[[195]](#ref195)</sup>
+- Introduction of Pandora's Jewel System and Mining System.<sup><a id="cite190"></a>[[190]](#ref190)</sup>
+- Introduction of Protectors of Acheron event.<sup><a id="cite191"></a>[[191]](#ref191)</sup>
+- Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup><a id="cite193"></a>[[193]](#ref193)</sup>
+- Introduction of Chaos Castle (CC) Survival of the Fittest.<sup><a id="cite194"></a>[[194]](#ref194)</sup>
 
 **Additional update for Season 8 Part 1 (04.12.2012):**
-- Introduction of SNS (Social Networking Sites) system.<sup>197</sup>
+- Introduction of SNS (Social Networking Sites) system.<sup><a id="cite197"></a>[[197]](#ref197)</sup>
 
 # **Season 8 Part 2 (16.04.2013 - 30.07.2013):**
 
-- Introduction of MU Roomy game.<sup>199</sup>
-- Adjustments to Personal Store.<sup>198</sup>
-- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protection Ring).<sup>196, 200</sup>
-- User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup>201</sup>
+- Introduction of MU Roomy game.<sup><a id="cite199"></a>[[199]](#ref199)</sup>
+- Adjustments to Personal Store.<sup><a id="cite198"></a>[[198]](#ref198)</sup>
+- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protection Ring).<sup><a id="cite196"></a>[[196]](#ref196), <a id="cite200"></a>[[200]](#ref200)</sup>
+- User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup><a id="cite201"></a>[[201]](#ref201)</sup>
 
 # **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
 
-- Introduction of Muun System and Items, including Evolution Stone.<sup>203</sup>
+- Introduction of Muun System and Items, including Evolution Stone.<sup><a id="cite203"></a>[[203]](#ref203)</sup>
   - Specific Muun Item names are not announced by MU Korea (muonline.co.kr).
-- Illusion Temple rework.<sup>202</sup>
-- User Interface (UI) changes.<sup>204</sup>
+- Illusion Temple rework.<sup><a id="cite202"></a>[[202]](#ref202)</sup>
+- User Interface (UI) changes.<sup><a id="cite204"></a>[[204]](#ref204)</sup>
 
 **Additional update for Season 8 Part 3 (08.10.2013):**
-- Another Illusion Temple rework.<sup>205</sup>
+- Another Illusion Temple rework.<sup><a id="cite205"></a>[[205]](#ref205)</sup>
 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
-- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup>217</sup>
-- Expansion of Muun System. Introduction of Wizardry Stone.<sup>215</sup>
-- Introduction of Widescreen support.<sup>215</sup>
-- Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup>216</sup>
-- Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup>220</sup>
-- Changes to PK system.<sup>220</sup>
-- Introduction of Tormented Square event.<sup>218</sup>
-- Introduction of Battle Core realm-system.<sup>219</sup>
+- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup><a id="cite217"></a>[[217]](#ref217)</sup>
+- Expansion of Muun System. Introduction of Wizardry Stone.<sup><a id="cite215"></a>[[215]](#ref215)</sup>
+- Introduction of Widescreen support.<sup><a id="cite215"></a>[[215]](#ref215)</sup>
+- Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup><a id="cite216"></a>[[216]](#ref216)</sup>
+- Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup><a id="cite220"></a>[[220]](#ref220)</sup>
+- Changes to PK system.<sup><a id="cite220"></a>[[220]](#ref220)</sup>
+- Introduction of Tormented Square event.<sup><a id="cite218"></a>[[218]](#ref218)</sup>
+- Introduction of Battle Core realm-system.<sup><a id="cite219"></a>[[219]](#ref219)</sup>
 
 # **Season 9 Part 2 (03.04.2014 - 19.08.2014):**
 
-- Introduction of Evomon Evolves event.<sup>221</sup>
+- Introduction of Evomon Evolves event.<sup><a id="cite221"></a>[[221]](#ref221)</sup>
 
 **Additional update for Season 9 Part 2 (22.04.2014):**
-- Expansion of Master Skill Tree (rank 9) for Fist Master.<sup>226</sup>
-- Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup>227</sup>
-- Introduction of Gremory Case reward vault.<sup>223</sup>
-- Sold items to an NPC shop now can be bought back. Additional User Interface (UI) changes.<sup>224</sup>
-- Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup>222</sup>
-- Introduction of Chaos Castle (Battle) event winner rewards.<sup>225</sup>
+- Expansion of Master Skill Tree (rank 9) for Fist Master.<sup><a id="cite226"></a>[[226]](#ref226)</sup>
+- Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup><a id="cite227"></a>[[227]](#ref227)</sup>
+- Introduction of Gremory Case reward vault.<sup><a id="cite223"></a>[[223]](#ref223)</sup>
+- Sold items to an NPC shop now can be bought back. Additional User Interface (UI) changes.<sup><a id="cite224"></a>[[224]](#ref224)</sup>
+- Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup><a id="cite222"></a>[[222]](#ref222)</sup>
+- Introduction of Chaos Castle (Battle) event winner rewards.<sup><a id="cite225"></a>[[225]](#ref225)</sup>
 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
-- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup>231</sup>
-- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>nd</sup> Level Wings (Cloak of Transcendence).<sup>231</sup>
+- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231)</sup>
+- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>nd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Maximum level cap raised from 730 to 770 (Master Level 370).<sup>232</sup>
-- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup>229</sup>
-- Introduction of Summon Evomon and Evomon Summoning Scroll.<sup>230</sup>
-- Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup>228</sup>
+- Maximum level cap raised from 730 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232)</sup>
+- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229)</sup>
+- Introduction of Summon Evomon and Evomon Summoning Scroll.<sup><a id="cite230"></a>[[230]](#ref230)</sup>
+- Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup><a id="cite228"></a>[[228]](#ref228)</sup>
 
 **Additional update for Season X Part 1 (18.09.2014):**
-- Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup>233</sup>
+- Introduction of Master Skill Tree (rank 4) system for Grow Lancer.<sup><a id="cite233"></a>[[233]](#ref233)</sup>
 
 **Additional update for Season X Part 1 (27.11.2014):**
-- Introduction of new items for Grow Lancer: Alacran Shield, Vis Shield, Hirat set, Sate set, Anas Hirat set, Akhir Hirat set, Camill Sate set, Carthy Sate set.<sup>234</sup>
+- Introduction of new items for Grow Lancer: Alacran Shield, Vis Shield, Hirat set, Sate set, Anas Hirat set, Akhir Hirat set, Camill Sate set, Carthy Sate set.<sup><a id="cite234"></a>[[234]](#ref234)</sup>
 
 # **Season X Part 2 (16.12.2014 - 21.05.2015):**
 
-- Expansion of Master Skill Tree (rank 9) for Grow Lancer.<sup>236</sup>
-- Added area-zone Nars in map Acheron and boss Core Magriffy. Entry level requirement of 400.<sup>240</sup>
-- Introduction of map Event Square. Introduction of Mastery Boxes as rewards for events.<sup>237</sup>
-- Introduction of in-game currency Ruud, obtainable from Mastery Boxes. Introduction of NPC Priest James (Ruud Shop) in map Elveland and map Event Square.<sup>238</sup>
-- Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for all characters.<sup>239</sup>
-- Increased Solo and Party exp. Minor User Interface (UI) changes. Introduction of mass item combination in addition to existing single item combination system at Chaos Goblin. Introduction of play guide in-game for starters.<sup>235</sup>
+- Expansion of Master Skill Tree (rank 9) for Grow Lancer.<sup><a id="cite236"></a>[[236]](#ref236)</sup>
+- Added area-zone Nars in map Acheron and boss Core Magriffy. Entry level requirement of 400.<sup><a id="cite240"></a>[[240]](#ref240)</sup>
+- Introduction of map Event Square. Introduction of Mastery Boxes as rewards for events.<sup><a id="cite237"></a>[[237]](#ref237)</sup>
+- Introduction of in-game currency Ruud, obtainable from Mastery Boxes. Introduction of NPC Priest James (Ruud Shop) in map Elveland and map Event Square.<sup><a id="cite238"></a>[[238]](#ref238)</sup>
+- Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for all characters.<sup><a id="cite239"></a>[[239]](#ref239)</sup>
+- Increased Solo and Party exp. Minor User Interface (UI) changes. Introduction of mass item combination in addition to existing single item combination system at Chaos Goblin. Introduction of play guide in-game for starters.<sup><a id="cite235"></a>[[235]](#ref235)</sup>
 
 **Additional update for Season X Part 2 (05.02.2015):**
-- Introduction of 3 new Muun Items: Mutation, Muty, Pider.<sup>241</sup>
+- Introduction of 3 new Muun Items: Mutation, Muty, Pider.<sup><a id="cite241"></a>[[241]](#ref241)</sup>
 
 # **Season X Part 3 (21.05.2015 - 21.10.2015):**
 
-- Introduction of Skill Imprint system.<sup>242</sup>
-- Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup>243, 244</sup>
-- Overhaul to item drop locations and monsters accross most maps.<sup>245</sup>
+- Introduction of Skill Imprint system.<sup><a id="cite242"></a>[[242]](#ref242)</sup>
+- Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup><a id="cite243"></a>[[243]](#ref243), <a id="cite244"></a>[[244]](#ref244)</sup>
+- Overhaul to item drop locations and monsters accross most maps.<sup><a id="cite245"></a>[[245]](#ref2451)</sup>
 
 **Additional update for Season X Part 3 (04.06.2015):**
-- Acheron entry level requirement lowered to level 300.<sup>246</sup>
+- Acheron entry level requirement lowered to level 300.<sup><a id="cite246"></a>[[246]](#ref246)</sup>
 
 **Additional update for Season X Part 3 (11.06.2015):**
-- Maximum level cap raised from 770 to 800 (Master Level 400).<sup>247, 248</sup>
+- Maximum level cap raised from 770 to 800 (Master Level 400).<sup><a id="cite247"></a>[[247]](#ref247), <a id="cite248"></a>[[248]](#ref248)</sup>
 
 # **Season 11 Part 1-1 (21.10.2015 - 05.11.2015):**
 
-- Added map Ferea and bosses Lord Ferea and Ferea General. Entry level requirement of 400.<sup>249</sup>
-- Introduction of 2<sup>nd</sup> Mastery Sets: Darkangel (level 600) for all characters.<sup>250</sup>
-- Addition of new skills for Blade Master, Grand Master, High Elf and Dimension Summoner.<sup>251</sup>
-- Changes to Elemental System.<sup>252</sup>
+- Added map Ferea and bosses Lord Ferea and Ferea General. Entry level requirement of 400.<sup><a id="cite249"></a>[[249]](#ref249)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Sets: Darkangel (level 600) for all characters.<sup><a id="cite250"></a>[[250]](#ref250)</sup>
+- Addition of new skills for Blade Master, Grand Master, High Elf and Dimension Summoner.<sup><a id="cite251"></a>[[251]](#ref251)</sup>
+- Changes to Elemental System.<sup><a id="cite252"></a>[[252]](#ref252)</sup>
 
 # **Season 11 Part 1-2 (05.11.2015 - 17.05.2016):**
 
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup>253</sup>
-- Introduction of Blessed Divine Archangel Weapons and their upgrade system (Steel of Heaven, Archangel's Hammer) for all characters.<sup>254</sup>
-- Addition of new skills for Duel Master, Lord Emperor and Fist Master.<sup>255</sup>
-- Additional User Interface (UI) changes.<sup>256</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup><a id="cite253"></a>[[253]](#ref253)</sup>
+- Introduction of Blessed Divine Archangel Weapons and their upgrade system (Steel of Heaven, Archangel's Hammer) for all characters.<sup><a id="cite254"></a>[[254]](#ref254)</sup>
+- Addition of new skills for Duel Master, Lord Emperor and Fist Master.<sup><a id="cite255"></a>[[255]](#ref255)</sup>
+- Additional User Interface (UI) changes.<sup><a id="cite256"></a>[[256]](#ref256)</sup>
 
 # **Season 11 Part 2-1 (17.05.2016 - 09.06.2016):**
 
-- Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup>257</sup>
-- Introduction of Find the Bomb event.<sup>258</sup>
-- Introduction of new Pentagram items.<sup>259</sup>
-- Introduction of Hunting Log.<sup>260</sup>
+- Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup><a id="cite257"></a>[[257]](#ref257)</sup>
+- Introduction of Find the Bomb event.<sup><a id="cite258"></a>[[258]](#ref258)</sup>
+- Introduction of new Pentagram items.<sup><a id="cite259"></a>[[259]](#ref259)</sup>
+- Introduction of Hunting Log.<sup><a id="cite260"></a>[[260]](#ref260)</sup>
 
 # **Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
 
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer. Changes to map LaCleon (Raklion) item drop.<sup>261</sup>
-- Expansion of Seed Sphere system from Level 4 (Tetra) to Level 10. Changes to Seed Sphere Item Options and expansion of Bonus Socket Options.<sup>262</sup>
-- Sixth Seed Sphere (Earth) is added in addition to Fire, Water, Ice, Wind, Lightning.<sup>262</sup>
-- Changes to Socket System combinations.<sup>262</sup>
-- Improvements to Hunting Log.<sup>263</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer. Changes to map LaCleon (Raklion) item drop.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+- Expansion of Seed Sphere system from Level 4 (Tetra) to Level 10. Changes to Seed Sphere Item Options and expansion of Bonus Socket Options.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
+- Sixth Seed Sphere (Earth) is added in addition to Fire, Water, Ice, Wind, Lightning.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
+- Changes to Socket System combinations.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
+- Improvements to Hunting Log.<sup><a id="cite263"></a>[[263]](#ref263)</sup>
 
 # **Season 12 Part 1-1 (01.11.2016 - 17.11.2016):**
 
