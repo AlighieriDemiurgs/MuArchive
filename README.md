@@ -251,8 +251,9 @@
 
 **0.9? (20.06.2003):**
 
-- Added Tama-chan (Seal) event for Japanese MU only. Located in the river-ditch at the Southern bridge of Lorencia<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
+- Introduction of seal Tama-chan for the Japanese version of MU Online only. Located in the river-ditch at the Southern bridge of Lorencia.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
+  - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite28"></a>[[432]](#ref432)</sup>
   
 **0.95.? (06.08.2003):**
 
@@ -2090,3 +2091,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 430. <a id="ref430"></a>[^](#cite430) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64050?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
 431. <a id="ref431"></a>[^](#cite431) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64049?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+
+432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan>
