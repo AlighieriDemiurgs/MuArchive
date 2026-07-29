@@ -46,6 +46,7 @@
 - Introduction of Guilds.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
 - Added background music.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
+  - Interestingly MU Online **intro song** and many **map theme songs** were written/composed by **Jeong Jae-hwan (Bound Media)** and performed/recorded by the **Seoul Metropolitan Chorus**.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
 
 - Maximum item level increased to +9.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
@@ -253,7 +254,7 @@
 
 - Introduction of seal Tama-chan for the Japanese version of MU Online only. Located in the river-ditch at the Southern bridge of Lorencia.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
-  - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite28"></a>[[432]](#ref432)</sup>
+  - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite432"></a>[[432]](#ref432)</sup>
   
 **0.95.? (06.08.2003):**
 
@@ -2093,3 +2094,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 431. <a id="ref431"></a>[^](#cite431) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64049?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
 432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan>
+
+433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_>
