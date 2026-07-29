@@ -127,7 +127,8 @@
 **0.66 aka 0.66.0 (09.07.2002):**
 
 - Added map Arena and Battle Soccer stadium.<sup><a id="cite38"></a>[[38]](#ref38)</sup>
-
+  - Interestingly Battle Soccer was introduced to commemorate the 2002 FIFA World Cup, which took place in South Korea and Japan.<sup><a id="cite434"></a>[[434]](#ref434)</sup>
+  
 - Added macro function /1 /….<sup><a id="cite38"></a>[[38]](#ref38)</sup>
 
 - Added /request on and /request off.<sup><a id="cite38"></a>[[38]](#ref38)</sup>
@@ -2096,3 +2097,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan>
 
 433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_>
+
+434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
