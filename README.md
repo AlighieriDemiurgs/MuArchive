@@ -298,7 +298,7 @@
 
 - Introduction of Blood Castle (BC) 1-6.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26), <a id="cite37"></a>[[37]](#ref37)</sup>
 
-- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and ivine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26)</sup>
+- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26)</sup>
 
 **06.10.2003:**
 
@@ -878,7 +878,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 13 Part 2-2 (07.06.2018 - 16.10.2018):**
 
-- Addition of Archangel Absolute Claws and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
+- Addition of Divine Claw of Archangel and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
 - New rules and clasification of buffs.<sup><a id="cite291"></a>[[291]](#ref291)</sup>
 - Introduction of MU Lite.<sup><a id="cite292"></a>[[292]](#ref292)</sup>
 
@@ -894,7 +894,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
 
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Destiny) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Fate) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
 - Introduction of 3<sup>rd</sup> Mastery Sets and Weapons: Holyangel (level 800) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
 - Introduction of 4<sup>th</sup> Class Quest for Rune Mage (Majestic Rune Wizard).<sup><a id="cite297"></a>[[297]](#ref297)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup><a id="cite297"></a>[[297]](#ref297)</sup>
@@ -902,7 +902,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) for all characters except Rune Mage.<sup><a id="cite300"></a>[[300]](#ref300)</sup>
 - Introduction of 5<sup>th</sup> Mastery Sets: Frosty Blue Eye (level 1000) for all characters except Rune Mage. New options added to Mastery Sets.<sup><a id="cite300"></a>[[300]](#ref300)</sup>
 - Maximum level cap raised from 1050 to 1100 (Master Level 700).<sup><a id="cite301"></a>[[301]](#ref301)</sup>
-- Addition of Archangel's Absolute Lance and Blessed Archangel's Absolute Lance for Grow Lancer.<sup><a id="cite299"></a>[[299]](#ref299)</sup>
+- Addition of Divine Lance of Archangel and Blessed Divine Lance of Archangel for Grow Lancer.<sup><a id="cite299"></a>[[299]](#ref299)</sup>
 
 # **Season 14 Part 2-1 (21.05.2019 - 11.06.2019):**
 
@@ -1059,7 +1059,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 3<sup>rd</sup> Level Wings (Cloak of Sacrifice) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Illusion Knight. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Illusion Knight. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Illusion Knight. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Illusion Knight. Introduction of Blessed Archangel's Absolute Blade for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Illusion Knight. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Illusion Knight. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Illusion Knight. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Illusion Knight. Introduction of Blessed Divine Blade of Archangel for Illusion Knight.<sup><a id="cite365"></a>[[365]](#ref365)</sup>
 
 # **Season 18 Part 1-3 (08.11.2022 - 18.04.2023):**
 
@@ -1136,7 +1136,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Maximum level cap raised from 1650 to 1700 (Master Level 1300).<sup><a id="cite400"></a>[[400]](#ref400)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 - Introduction of 1<sup>st</sup> Mastery Sets: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Alchemist. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Alchemist. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Alchemist. Introduction of Blessed Archangel's Absolute Wand for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Alchemist. Introduction of Blessed Divine Wand of Archangel for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 
 # **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
 
@@ -1174,7 +1174,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Sanctuary Cloak) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
-- Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Crusader. Introduction of Blessed Archangel's Absolute Hammer for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapons: Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1000) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for Crusader. Introduction of Blessed Divine Hammer of Archangel for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Armor set: Sanctuary Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stat. Changes to Monster Soul Converter level brackets and requirements. Legendary Weapons/Armors set User Interface (UI) improvements. Changes to Fairy Elf (FE) buff stats.<sup><a id="cite419"></a>[[419]](#ref419)</sup>
 
