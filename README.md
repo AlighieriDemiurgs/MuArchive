@@ -648,7 +648,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 # **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup><a id="cite170"></a>[[170]](#ref170)</sup>
-- Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>nd</sup> Level Wings (Reigning Cloak).<sup><a id="cite170"></a>[[170]](#ref170)</sup>
+- Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>rd</sup> Level Wings (Reigning Cloak).<sup><a id="cite170"></a>[[170]](#ref170)</sup>
   - Little Warrior's Cloak (0 Level Wings) for Rage Fighter is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Added map Karutan 1 & 2. Entry level requirement of 160.<sup><a id="cite171"></a>[[171]](#ref171)</sup>
 - Addition of new daily quests.<sup><a id="cite172"></a>[[172]](#ref172)</sup>
@@ -755,7 +755,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231)</sup>
-- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>nd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
+- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Maximum level cap raised from 730 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232)</sup>
 - Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229)</sup>
@@ -885,6 +885,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 14 Part 1-1 (16.10.2018 - 29.11.2018):**
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
+- Introduction of Rune Mage items: El Haz Rune Mace, Frost Rune Mace, Light Lord Rune Mace, Divine Rune Mace of Archangel, Blessed Divine Rune Mace of Archangel, 1<sup>st</sup> Mastery Weapon:- Bloodangel Rune Mace (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel Rune Mace (level 600), El Haz Shield, Rune Padded set, Rune Sphinx set, Legendary Rune set, Kenaz set, Divine Rune set, Light Lord Rune set, 1<sup>st</sup> Mastery Set - Bloodangel Rune mage set (level 400), 2<sup>nd</sup> Mastery Set - Darkangel Rune Mage set (level 600), 3<sup>rd</sup> Level Wings (Wings of Disillusion).<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - New skills added for Rune Mage.<sup><a id="cite294"></a>[[294]](#ref294)</sup>
 - Introduction of simple Jewel stacking and unstacking in your own inventory. Previously the old system introduced during late Season 0 at NPC Lahap existed.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
 - Gold withdrawal and deposit limit in the bank is raised from 100kk to 1kkk.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
