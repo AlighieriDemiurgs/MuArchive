@@ -46,7 +46,7 @@
 - Introduction of Guilds.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
 - Added background music.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
-  - Interestingly MU Online **intro song** and many **map theme songs** were written/composed by **Jeong Jae-hwan (Bound Media)** and performed/recorded by the **Seoul Metropolitan Chorus**.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
+  - Interestingly, MU Online **intro song** and many **map theme songs** were written/composed by **Jeong Jae-hwan (Bound Media)** and performed/recorded by the **Seoul Metropolitan Chorus**.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
 
 - Maximum item level increased to +9.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
@@ -127,7 +127,7 @@
 **0.66 aka 0.66.0 (09.07.2002):**
 
 - Added map Arena and Battle Soccer stadium.<sup><a id="cite38"></a>[[38]](#ref38)</sup>
-  - Interestingly Battle Soccer was introduced to commemorate the 2002 FIFA World Cup, which took place in South Korea and Japan.<sup><a id="cite434"></a>[[434]](#ref434)</sup>
+  - Interestingly, Battle Soccer was introduced to commemorate the 2002 FIFA World Cup, which took place in South Korea and Japan.<sup><a id="cite434"></a>[[434]](#ref434)</sup>
   
 - Added macro function /1 /….<sup><a id="cite38"></a>[[38]](#ref38)</sup>
 
