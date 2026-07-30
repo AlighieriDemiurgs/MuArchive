@@ -810,7 +810,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup><a id="cite257"></a>[[257]](#ref257)</sup>
 - Introduction of Find the Bomb event.<sup><a id="cite258"></a>[[258]](#ref258)</sup>
-- Introduction of new Pentagram items.<sup><a id="cite259"></a>[[259]](#ref259)</sup>
+- Introduction of 4 new Pentagram items: Thoughtful Sage's Jewel, Runedil's Goldentune Harp, Lemuria's Orb, Norrwen's Bloodstring Lyra.<sup><a id="cite259"></a>[[259]](#ref259)</sup>
 - Introduction of Hunting Log.<sup><a id="cite260"></a>[[260]](#ref260)</sup>
 
 # **Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
