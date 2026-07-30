@@ -514,7 +514,7 @@
 
 - PC bang (Korean internet café) exclusive Chaos Castle (CC) event times added.<sup><a id="cite128"></a>[[128]](#ref128)</sup>
 
-**Additional update #8 for Season 1 (??.05.2006) - officialy named 'The Second Story':**
+**Additional update #8 for Season 1 - officialy named 'The Second Story' (??.05.2006):**
 
 - Introduction of Shield Gage (SD) bar, Complex Potions and SD Potion.<sup><a id="cite129"></a>[[129]](#ref129)</sup>
 - Added Infinity Arrow skill for Muse Elf (ME).<sup><a id="cite129"></a>[[129]](#ref129)</sup>
