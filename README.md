@@ -802,7 +802,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 11 Part 1-2 (05.11.2015 - 17.05.2016):**
 
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup><a id="cite253"></a>[[253]](#ref253)</sup>
-- Introduction of Blessed Divine Archangel Weapons and their upgrade system from Archangel Absolute Weapons (Steel of Heaven, Archangel's Hammer) for all characters.<sup><a id="cite254"></a>[[254]](#ref254)</sup>
+- Introduction of Blessed Divine Archangel Weapons for all characters.<sup><a id="cite254"></a>[[254]](#ref254)</sup>
+  - Blessed Divine Archangel Weapons can be crafted by upgrading Divine Archangel Weapons, using Archangel's Hammer.<sup><a id="cite254"></a>[[254]](#ref254)</sup>
 - Addition of new skills for Duel Master, Lord Emperor and Fist Master.<sup><a id="cite255"></a>[[255]](#ref255)</sup>
 - Additional User Interface (UI) changes.<sup><a id="cite256"></a>[[256]](#ref256)</sup>
 
