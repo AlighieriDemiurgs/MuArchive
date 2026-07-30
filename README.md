@@ -815,9 +815,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
 
-- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer. Changes to map LaCleon (Raklion) item drop.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+- Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+  - Rage Fighter's Socket Items (lvl 380): Pantera Claws, Tigris set.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+  - Rage Fighter's Mastery Socket Items (lvl 400): Devast Claws, Crimson Skull set.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+  - Grow Lancer's Socket Items (lvl 380): Rectuus Lance, Grace set.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+  - Grow Lancer's Mastery Socket Items (lvl 400): Russell Light Lance, Constant set.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
+- Changes to map LaCleon (Raklion) item drop.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
 - Expansion of Seed Sphere system from Level 4 (Tetra) to Level 10. Changes to Seed Sphere Item Options and expansion of Bonus Socket Options.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
-- Sixth Seed Sphere (Earth) is added in addition to Fire, Water, Ice, Wind, Lightning.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
+- Sixth Seed Sphere called 'Earth' is added in addition to Fire, Water, Ice, Wind, Lightning.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
 - Changes to Socket System combinations.<sup><a id="cite262"></a>[[262]](#ref262)</sup>
 - Improvements to Hunting Log.<sup><a id="cite263"></a>[[263]](#ref263)</sup>
 
