@@ -1108,15 +1108,15 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of map Tormenta Island. Entry level requirement of 1400.<sup><a id="cite381"></a>[[381]](#ref381)</sup>
 - Maximum level cap raised from 1550 to 1600 (Master Level 1200).<sup><a id="cite382"></a>[[382]](#ref382)</sup>
-- Introduction of 9<sup>th</sup> Mastery Weapons: Apocalypse (level 1400) for all characters. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for all characters.<sup><a id="cite383"></a>[[383]](#ref383)</sup>
+- Introduction of 9<sup>th</sup> Mastery Weapons - Apocalypse (level 1400) for all characters. Introduction of 10<sup>th</sup> Mastery Set - Ancient Lightning (level 1500) for all characters.<sup><a id="cite383"></a>[[383]](#ref383)</sup>
 
 # **Season 19 Part 1-3 (01.11.2023 - 30.04.2024):**
 
 - Introduction of 5<sup>th</sup> Class Quests for all characters.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
-- Introduction of 5<sup>th</sup> Level Wings (Wings of Destruction, Wings of Virtue, Wings of Fantasy, Wings of Punishment, Wings of Barrier, Wings of Inevitability, Wings of Jaan, Wings of Crimson, Wings of Eternity) and Capes (Cloak Spirit, Cloak of Oath, Cloak of Discipline, Cloak of Deterioration, Cloak of Resolution) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
+- Introduction of 5<sup>th</sup> Level Wings (Wings of Lightbringer, Wings of Kanade, Wings of Madoka, Wings of the Breaker, Wings of Curse, Wings of Justicar, Wings of Crepuscular, Wings of Crystal, Wings of Magicshot, Wings of Rebellion) and Capes (Cloak of Royalty, Cloak of Fury, Cloak of Rebelion, Cloak of Night) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
 - Added Elite Zone in map Tormenta Island and Elite monsters Storm Guard, Storm Reaper, Storm Fiend.<sup><a id="cite386"></a>[[386]](#ref386)</sup>
 - Introduction of Ability Cards-Enhancement System.<sup><a id="cite387"></a>[[387]](#ref387)</sup>
-- Introduction of Greater Spirit Stone. Changes to map entry level requirements.<sup><a id="cite388"></a>[[388]](#ref388)</sup>
+- Introduction of Top Grade Spirit Stone. Changes to map entry level requirements.<sup><a id="cite388"></a>[[388]](#ref388)</sup>
 
 # **Season 19 Part 2-1 (30.04.2024 - 14.05.2024):**
 
@@ -1137,7 +1137,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Changes to Skill Enhancement Trees.<sup><a id="cite397"></a>[[397]](#ref397)</sup>
 
 **Additional update for Season 19 Part 2-3 (08.08.2024):**
-- Introduction of 10<sup>th</sup> Mastery Weapons: Lightning (level 1500) for all characters.<sup><a id="cite398"></a>[[398]](#ref398)</sup>
+- Introduction of 10<sup>th</sup> Mastery Weapons - Lightning (level 1500) for all characters.<sup><a id="cite398"></a>[[398]](#ref398)</sup>
 
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
