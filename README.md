@@ -923,6 +923,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 15 Part 1-1 (24.09.2019 - 17.10.2019):**
 
 - Introduction of 10<sup>th</sup> character: Slayer.<sup><a id="cite309"></a>[[309]](#ref309)</sup>
+- Introduction of Slayer items: Flat Short Sword, Dakia Short Sword, Kukri Short Sword, Divine Short Sword of Archangel, Slayer Red Wing set, Slayer Ancient set, Slayer Demonic set, Night Wing set, 1<sup>st</sup> Mastery Set - Bloodangel Slayer set (level 400).<sup><a id="cite309"></a>[[309]](#ref309)</sup>
 
 # **Season 15 Part 1-2 (17.10.2019 - 05.11.2019):**
 
