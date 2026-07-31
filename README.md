@@ -1182,6 +1182,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
 
 - Introduction of 16<sup>th</sup> character: Crusader.<sup><a id="cite414"></a>[[414]](#ref414)</sup>
+- Introduction of Crusader items: Floor Hammer, Considered Hammer, Divine Hammer of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Hammer (level 400), Floor Shield, Considered Shield, Crusader Leather set, Crusader Brass set, Crusader Plate set, Solid set, 1<sup>st</sup> Mastery Set - Bloodangel Crusader set (level 400).<sup><a id="cite414"></a>[[414]](#ref414)</sup>
 - Changes to map Deep Dungeon 1-5 entry level requirements, changes to monster stats.<sup><a id="cite413"></a>[[413]](#ref413)</sup>
 
 # **Season 21 Part 1-2 (21.10.2025 - 11.11.2025):**
