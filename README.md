@@ -1159,8 +1159,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
 
 - Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup><a id="cite404"></a>[[404]](#ref404)</sup>
-- Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
-- Introduction of 1<sup>st</sup> Legendary Set: Sanctuary Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Introduction of 1<sup>st</sup> Legendary Weapon and Shield - Temple Guard (level 1500) for all characters except Alchemist.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Introduction of 1<sup>st</sup> Legendary Set - Sanctuary Temple Guard (level 1500) for all characters except Alchemist.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
 - Guild Matching User Interface (UI) and Combination User Interface (UI) improvements.<sup><a id="cite403"></a>[[403]](#ref403)</sup>
 
 # **Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
@@ -1189,9 +1189,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup><a id="cite417"></a>[[417]](#ref417)</sup>
 - Maximum level cap raised from 1700 to 1750 (Master Level 1350).<sup><a id="cite416"></a>[[416]](#ref416)</sup>
-- Introduction of 2<sup>nd</sup> Legendary Weapons and Shield: Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
-- Introduction of 2<sup>nd</sup> Legendary Armors set: Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Sanctuary Cloak) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+- Introduction of 1<sup>st</sup> Legendary Weapon and Shield - Temple Guard (level 1500) for Alchemist.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 1<sup>st</sup> Legendary Set - Sanctuary Temple Guard (level 1500) for Alchemist.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Weapon and Shield - Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 2<sup>nd</sup> Legendary Set - Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Cloak of Sanctuary) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapon - Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon: Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapon - Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapon - Lightning (level 1500) for Crusader. Introduction of Blessed Divine Hammer of Archangel for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set: Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set: Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set: Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set: Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Armor set: Sanctuary Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
