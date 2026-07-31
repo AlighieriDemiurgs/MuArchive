@@ -941,8 +941,10 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 15 Part 1-3 (05.11.2019 - 21.04.2020):**
 
-- Introduction of 4<sup>th</sup> Level Wings (Wings of Condemnation) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Wings of Conviction) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+  - Slayer's Socket Items (lvl 380): Paring Short Sword, Fidelity set.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
+  - Slayer's Mastery Socket Items (lvl 400): Novakura Short Sword, Trace set.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Slayer. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Changes to event entry level requirements and rewards.<sup><a id="cite316"></a>[[316]](#ref316)</sup>
