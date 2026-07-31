@@ -929,7 +929,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - New skills added for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Silence) for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Slayer. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Slayer. Introduction of Blessed Divine Short Sword of Archangel for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapon: Bloodangel (level 400) for Slayer. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Slayer. Introduction of Blessed Divine Short Sword of Archangel for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Slayer. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
 - Introduction of 4<sup>th</sup> Class Quest for Slayer (Slaughterer).<sup><a id="cite311"></a>[[311]](#ref311)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup><a id="cite311"></a>[[311]](#ref311)</sup>
