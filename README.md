@@ -716,7 +716,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of MU Roomy game.<sup><a id="cite199"></a>[[199]](#ref199)</sup>
 - Adjustments to Personal Store.<sup><a id="cite198"></a>[[198]](#ref198)</sup>
-- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protection Ring).<sup><a id="cite196"></a>[[196]](#ref196), <a id="cite200"></a>[[200]](#ref200)</sup>
+- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protector Protection Ring, Protection Ring).<sup><a id="cite200"></a>[[200]](#ref200), <a id="cite196"></a>[[196]](#ref196)</sup>
 - User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup><a id="cite201"></a>[[201]](#ref201)</sup>
 
 # **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
