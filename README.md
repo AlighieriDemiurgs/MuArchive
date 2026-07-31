@@ -956,7 +956,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup><a id="cite320"></a>[[320]](#ref320)</sup>
 - Maximum level cap raised from 1200 to 1250 (Master Level 850).<sup><a id="cite321"></a>[[321]](#ref321)</sup>
 - Introduction of 3<sup>rd</sup> Mastery Earrings: Earring of Glory (L) (level 750) and Earring of Glory (R) (level 800).<sup><a id="cite322"></a>[[322]](#ref322)</sup>
-- Introduction of four Excellent Socket Necklaces (level 850): Lapis Lazuli Necklace, Jasper Necklace, Battle Jasper Necklace, Battle Lapis Lazuli Necklace.<sup><a id="cite319"></a>[[319]](#ref319)</sup>
+- Introduction of 4 Excellent Socket Necklaces (level 850): Lapis Lazuli Necklace, Jasper Necklace, Battle Jasper Necklace, Battle Lapis Lazuli Necklace.<sup><a id="cite319"></a>[[319]](#ref319)</sup>
 - Minor User Interface (UI) improvements.<sup><a id="cite321"></a>[[321]](#ref321)</sup>
 
 # **Season 15 Part 2-2 (11.05.2020 - 15.09.2020):**
