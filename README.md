@@ -972,6 +972,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
 
 - Introduction of 11<sup>th</sup> character: Gun Crusher.<sup><a id="cite329"></a>[[329]](#ref329)</sup>
+- Introduction of Gun Crusher items: Entro Magic Gun, Frere Magic Gun, Divine Magic Gun of Archangel, Frere set, 1<sup>st</sup> Mastery Set - Bloodangel Slayer set (level 400).<sup><a id="cite329"></a>[[329]](#ref329)</sup>
 
 # **Season 16 Part 1-2 (06.10.2020 - 27.10.2020):**
 
