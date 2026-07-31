@@ -1159,8 +1159,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
 
 - Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup><a id="cite404"></a>[[404]](#ref404)</sup>
-- Introduction of 1<sup>st</sup> Legendary Weapons and Shield: Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
-- Introduction of 1<sup>st</sup> Legendary Armors set: Sanctuary Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Introduction of 1<sup>st</sup> Legendary Weapon and Shield: Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
+- Introduction of 1<sup>st</sup> Legendary Set: Sanctuary Temple Guard (level 1500) for all characters.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
 - Guild Matching User Interface (UI) and Combination User Interface (UI) improvements.<sup><a id="cite403"></a>[[403]](#ref403)</sup>
 
 # **Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
@@ -1170,13 +1170,13 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 20 Part 2-2 (13.05.2025 - 29.05.2025):**
 
 - Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup><a id="cite407"></a>[[407]](#ref407)</sup>
-- Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Cold (L) (level 1000) and Earring of Cold (R) (level 1050).<sup><a id="cite408"></a>[[408]](#ref408)</sup>
+- Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Frost (L) (level 1000) and Earring of Frost (R) (level 1050).<sup><a id="cite408"></a>[[408]](#ref408)</sup>
 - Various gameplay improvements. Introduction of Monster Soul Converter. Changes to Boss Battle Together event. Changes to exp necessary for levels. Increased exp gained from map Kardamahal Underground Temple monsters. Added Blessing of Eunice.<sup><a id="cite409"></a>[[409]](#ref409)</sup>
 
 # **Season 20 Part 2-3 (29.05.2025 - 30.09.2025):**
 
 - Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup><a id="cite410"></a>[[410]](#ref410)</sup>
-- Introduction of 7<sup>th</sup> Guardian Mount: Tauros (level 1400).<sup><a id="cite411"></a>[[411]](#ref411)</sup>
+- Introduction of 7<sup>th</sup> Guardian Mount: Taurus (level 1400).<sup><a id="cite411"></a>[[411]](#ref411)</sup>
 - Various gameplay improvements. Introduction of Experience Recovery Potion that recovers lost experience on death. Changes to event entry tickets. Introduction of 10 daily entrance limits to mini-game Maze of Dimensions.<sup><a id="cite412"></a>[[412]](#ref412)</sup>
 
 # **Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
