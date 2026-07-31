@@ -1061,6 +1061,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 18 Part 1-1 (27.09.2022 - 20.10.2022):**
 
 - Introduction of 14<sup>th</sup> character: Illusion Knight.<sup><a id="cite361"></a>[[361]](#ref361)</sup>
+- Introduction of Illusion Knight items: Silver Blade, Xeno Blade, Diine Blade of Archangel, Illusion Knight Scale set, Illusion Knight Plate set, Steel Plate set, Black Origin set, 1<sup>st</sup> Mastery Set - Bloodangel Illusion Knight set (level 400), 1<sup>st</sup> Level Wings (Iron Cloak), 2<sup>nd</sup> Level Wings (Black Cloak).<sup><a id="cite361"></a>[[361]](#ref361)</sup>
 
 # **Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
 
