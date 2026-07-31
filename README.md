@@ -979,6 +979,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Added map Temple of Arnil. Entry level requirement of 1100.<sup><a id="cite331"></a>[[331]](#ref331)</sup>
 - Maximum level cap raised from 1250 to 1300 (Master Level 900).<sup><a id="cite330"></a>[[330]](#ref330)</sup>
+- Introduction of 6<sup>th</sup> Mastery Weapons: Silver Heart (level 1100) for all characters except Gun Crusher.<sup><a id="cite435"></a>[[435]](#ref435)</sup>
+- Introduction of 7<sup>th</sup> Mastery Sets: Manticore (level 1200) for all characters except Gun Crusher.<sup><a id="cite435"></a>[[435]](#ref435)</sup>
 - Introduction of Talisman of Chaos Assembly (TCA) and Elemental Talisman of Chaos Assembly.<sup><a id="cite333"></a>[[333]](#ref333)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
@@ -2128,3 +2130,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_>
 
 434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+
+435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=10&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
