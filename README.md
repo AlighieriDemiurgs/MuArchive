@@ -1096,7 +1096,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season 18 Part 2-2 (18.05.2023 - 19.09.2023):**
 
-- Introduction of 5<sup>th</sup> Guardian Mount: Ur (level 1200).<sup><a id="cite377"></a>[[377]](#ref377)</sup>
+- Introduction of 5<sup>th</sup> Guardian Mount: Ullr (level 1200).<sup><a id="cite377"></a>[[377]](#ref377)</sup>
 - Re-work of character Dark Knight (DK), Magic Gladiator (MG), Rage Fighter (RF), Slayer.<sup><a id="cite378"></a>[[378]](#ref378)</sup>
 - Added Elite Zone in map Bloody Tarkan and Elite monsters Bloody Wolf, Bloody Beam Knight, Bloody Tantalus.<sup><a id="cite379"></a>[[379]](#ref379)</sup>
 
