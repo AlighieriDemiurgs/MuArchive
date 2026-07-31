@@ -1018,6 +1018,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
 
 - Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup><a id="cite347"></a>[[347]](#ref347)</sup>
+- Introduction of White Wizard items: Basic Magic Book, Element Magic Book, Attribute Magic Book, Shining Feather Magic Book, Glimmer set, Light Ray set, Flash set, Magic Flare set, 1<sup>st</sup> Mastery Set - Bloodangel White Wizard set (level 400), 1<sup>st</sup> Level Wings (Pure White Cloak), 2<sup>nd</sup> Level Wings (Cloak of Innocence).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
+- Introduction of Mage items: Royal Orb, Myotis Orb, Blue Moon Orb, Divine Orb of Archangel, Mage Pad set, Mage Sphinx set, Mage Legendary set, Noble Pixie (?) set, 1<sup>st</sup> Mastery Set - Bloodangel Mage set (level 400).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
 - Minor User Interface (UI) improvements.<sup><a id="cite348"></a>[[348]](#ref348)</sup>
 
 # **Season 17 Part 1-2 (19.10.2021 - 09.11.2021):**
