@@ -895,7 +895,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Fate) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
-- Introduction of 3<sup>rd</sup> Mastery Sets and Weapons: Holyangel (level 800) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
+- Introduction of 3<sup>rd</sup> Mastery Set and Weapon: Holyangel (level 800) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
 - Introduction of 4<sup>th</sup> Class Quest for Rune Mage (Majestic Rune Wizard).<sup><a id="cite297"></a>[[297]](#ref297)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Rune Mage.<sup><a id="cite297"></a>[[297]](#ref297)</sup>
 - Added map Cubera Mine. Entry level requirement of 850.<sup><a id="cite298"></a>[[298]](#ref298)</sup>
@@ -987,7 +987,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
   - Gun Crusher's Socket Items (lvl 380): Baiwen Magic Gun, Titan Gunner set.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
   - Gun Crusher's Mastery Socket Items (lvl 400): Cannon Magic Gun, Stormwing Gunner set.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of 1<sup>st</sup> Mastery Weapon: Bloodangel (level 400) for Gun Crusher. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Gun Crusher. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
-- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Gun Crusher. Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Gun Crusher. Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Accuracy) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - New skills added for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 
