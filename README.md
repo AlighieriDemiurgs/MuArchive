@@ -982,7 +982,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of Talisman of Chaos Assembly (TCA) and Elemental Talisman of Chaos Assembly.<sup><a id="cite333"></a>[[333]](#ref333)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Tree for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for Gun Crusher. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Gun Crusher. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+  - Gun Crusher's Socket Items (lvl 380): Baiwen Magic Gun, Titan Gunner set.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+  - Gun Crusher's Mastery Socket Items (lvl 400): Cannon Magic Gun, Stormwing Gunner set.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapon: Bloodangel (level 400) for Gun Crusher. Introduction of 2<sup>nd</sup> Mastery Weapon: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Weapon: Holyangel (level 800) Gun Crusher. Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set: Darkangel (level 600) for Gun Crusher. Introduction of 3<sup>rd</sup> Mastery Set: Holyangel (level 800) for Gun Crusher. Introduction of 4<sup>th</sup> Mastery Sets: Awakening Soul (level 900) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Accuracy) for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
 - New skills added for Gun Crusher.<sup><a id="cite332"></a>[[332]](#ref332)</sup>
