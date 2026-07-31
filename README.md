@@ -1029,7 +1029,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Added map Old Kethotum. Entry level requirement of 700.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Cloak of Brilliance) for White Wizard.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Eternity) for Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
-- Addition of sets and weapons for White Wizard and Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+- Addition of new items for White Wizard and Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+  - Additional items for White Wizard: Wise Magic Book, Legendary Magic Book, 1<sup>st</sup> Mastery Weapon - Bloodangel (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600), 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800), Bright (?) set, Dazzling (?) set, 2<sup>nd</sup> Mastery Set - Darkangel (level 600), 3<sup>rd</sup> Mastery Set - Holyangel (level 800).<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+  - Additional items for Mage: Spinel Orb, Almandin Orb, 1<sup>st</sup> Mastery Weapon - Bloodangel (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600), 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800), Blessed Divine Orb of Archangel, Finesse (?) set, Geist (?) set, 2<sup>nd</sup> Mastery Set - Darkangel (level 600), 3<sup>rd</sup> Mastery Set - Holyangel (level 800).<sup><a id="cite351"></a>[[351]](#ref351)</sup>
 - Introduction of 7<sup>th</sup> Mastery Weapon: Manticore (level 1200) for all characters except White Wizard and Mage. Introduction of 8<sup>th</sup> Mastery Set: Celestial Brilliant (level 1300) for all characters except White Wizard and Mage.<sup><a id="cite352"></a>[[352]](#ref352)</sup>
 
 # **Season 17 Part 1-3 (09.11.2021 - 19.04.2022):**
