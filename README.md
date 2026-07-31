@@ -1142,6 +1142,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
 
 - Introduction of 15<sup>th</sup> character: Alchemist.<sup><a id="cite399"></a>[[399]](#ref399)</sup>
+- Introduction of Alchemist items: Red Eye Wand, Benito Wand, Iolite Wand, Divine Wand of Archangel, Performance Elixir, Catalyst Elixir, Abyss Elixir, Atomic Elixir, Alchemist Spirit set, Alchemist Holy Spirit set, Alchemist Red Spirit set, Radiant Armor set, 1<sup>st</sup> Mastery Set - Bloodangel Alchemist set (level 400).<sup><a id="cite399"></a>[[399]](#ref399)</sup>
 
 # **Season 20 Part 1-2 (15.10.2024 - 05.11.2024):**
 
