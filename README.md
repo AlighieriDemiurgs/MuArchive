@@ -1018,7 +1018,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
 
 - Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup><a id="cite347"></a>[[347]](#ref347)</sup>
-- Introduction of White Wizard items: Basic Magic Book, Element Magic Book, Attribute Magic Book, Shining Feather Magic Book, Glimmer set, Light Ray set, Flash set, Magic Flare set, 1<sup>st</sup> Mastery Set - Bloodangel White Wizard set (level 400), 1<sup>st</sup> Level Wings (Pure White Cloak), 2<sup>nd</sup> Level Wings (Cloak of Innocence).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
+- Introduction of White Wizard items: Basic Magic Book, Element Magic Book, Attribute Magic Book, Shining Feather Magic Book, Glimmer set, Light Ray set, Flash set, Magic Flare set, 1<sup>st</sup> Mastery Set - Bloodangel White Wizard set (level 400), 1<sup>st</sup> Level Wings (Pure White Cloak), 2<sup>nd</sup> Level Wings (Cloak of Magic).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
 - Introduction of Mage items: Royal Orb, Myotis Orb, Blue Moon Orb, Divine Orb of Archangel, Mage Pad set, Mage Sphinx set, Mage Legendary set, Noble Pixie (?) set, 1<sup>st</sup> Mastery Set - Bloodangel Mage set (level 400).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
 - Minor User Interface (UI) improvements.<sup><a id="cite348"></a>[[348]](#ref348)</sup>
 
@@ -1027,7 +1027,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup><a id="cite349"></a>[[349]](#ref349)</sup>
 - Introduction of map Burning Kethotum. Entry level requirement of 1160.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
 - Added map Old Kethotum. Entry level requirement of 700.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Brilliance) for White Wizard.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Cloak of Innocence) for White Wizard.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Eternity) for Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
 - Addition of new items for White Wizard and Mage.<sup><a id="cite351"></a>[[351]](#ref351)</sup>
   - Additional items for White Wizard: Wise Magic Book, Legendary Magic Book, 1<sup>st</sup> Mastery Weapon - Bloodangel (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600), 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800), Bright (?) set, Dazzling (?) set, 2<sup>nd</sup> Mastery Set - Darkangel (level 600), 3<sup>rd</sup> Mastery Set - Holyangel (level 800).<sup><a id="cite351"></a>[[351]](#ref351)</sup>
@@ -1038,7 +1038,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
 - Changes to map Nixies Lake and map Cubera Mine.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
-- Introduction of 4<sup>th</sup> Level Wings (Cloak of Radiance) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
+- Introduction of 4<sup>th</sup> Level Wings (Cloak of Brilliance) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Explosion) for Mage.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
 - Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for White Wizard. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for White Wizard. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1100) for White Wizard.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
 - Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Mage. Introduction of 5<sup>th</sup> Mastery Weapons: Blue Eye (level 1000) for Mage. Introduction of 6<sup>th</sup> Mastery Weapon: Silver Heart (level 1100) for Mage.<sup><a id="cite354"></a>[[354]](#ref354)</sup>
