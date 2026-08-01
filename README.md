@@ -140,17 +140,19 @@
 
 - Bug fixes.<sup><a id="cite84"></a>[[84]](#ref84)</sup>
 
-**0.67 aka 0.67.0 (01.08.2002):**
-
-- Introduction of Chaos Machine.<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15)</sup>
-
-- Added Chaos Lightning Staff, Chaos Nature Bow, Chaos Dragon Axe.<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15)</sup>
-
-- Introduction of 1<sup>st</sup> Level Wings (Satan Wings, Angel Wings, Fairy Wings).<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15)</sup>
-
 **0.68 aka 0.68.0 (08.08.2002):**
 
-- Obtaining Jewel of Chaos becomes easier.<sup><a id="cite86"></a>[[86]](#ref86)</sup>
+- Introduction of Jewel of Chaos.<sup><a id="cite86"></a>[[86]](#ref86)</sup>
+  - Likely introduced in **version 0.67** on the main server. Test server 0.67 and 0.68 patches do not mention Jewel of Chaos at all. Main server 0.68 patch explains that Jewel of Chaos can be obtained as a drop from monsters.
+
+- Introduction of Chaos Machine.<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15), <a id="cite86"></a>[[86]](#ref86)</sup>
+  - Likely introduced in **version 0.67** on the main server just like on the test server. The 0.68 patch mentions a fix to a previous patch introducing Chaos Machine. We do not have version 0.67 main server news update, just from the test server.
+
+- Added Chaos Lightning Staff, Chaos Nature Bow, Chaos Dragon Axe.<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15), <a id="cite86"></a>[[86]](#ref86)</sup>
+  - Likely introduced in **version 0.67** on the main server just like on the test server. The 0.68 patch mentions a fix to a previous patch introducing Chaos Machine. We do not have version 0.67 main server news update, just from the test server.
+
+- Introduction of 1<sup>st</sup> Level Wings (Satan Wings, Angel Wings, Fairy Wings).<sup><a id="cite14"></a>[[14]](#ref14), <a id="cite15"></a>[[15]](#ref15), <a id="cite86"></a>[[86]](#ref86)</sup>
+  - Likely introduced in **version 0.67** on the main server just like on the test server. The 0.68 patch mentions a fix to a previous patch introducing Chaos Machine. We do not have version 0.67 main server news update, just from the test server.
 
 **0.68b aka 0.68.2 (09.08.2002):**
 
