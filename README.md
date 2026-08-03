@@ -46,6 +46,7 @@
 
 - Added background music.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
   - Interestingly, MU Online **intro song** and many **map theme songs** were written/composed by **Jeong Jae-hwan (Bound Media)** and performed/recorded by the **Seoul Metropolitan Chorus**.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
+  - Music integration initially relied on a supporting executable called MuPlayer.exe. Later, likely in some version between 0.99B+ and Season 1, the use of MuPlayer.exe was replaced by the wzAudio.dll library.
 
 - Maximum item level increased to +9.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
@@ -575,7 +576,7 @@
 - Introduction of Illusion Temple event.<sup><a id="cite141"></a>[[141]](#ref141)</sup>
 
 # **Season 3 (06.12.2007 - 26.02.2008):**
-Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
+Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3A' in their source code.
 
 - Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
 - Introduction of 6<sup>th</sup> character: Summoner.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
@@ -587,13 +588,13 @@ Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.
 - Major User Interface (UI) changes.<sup><a id="cite145"></a>[[145]](#ref145)</sup>
 
 # **Season 3.0+ (26.02.2008 - 26.08.2008):**
-Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology.
+Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3B' in their source code.
 
 - Expansion of Master Skill Tree (rank 3).<sup><a id="cite147"></a>[[147]](#ref147)</sup>
 - Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup><a id="cite147"></a>[[147]](#ref147)</sup>
 - Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup><a id="cite149"></a>[[149]](#ref149)</sup>
 - Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup><a id="cite146"></a>[[146]](#ref146)</sup>
-- Minor User Interface (UI) changes.<sup><a id="cite148"></a>[[148]](#ref148)</sup>
+- Introduction of user interface (UI) changes, referred to internally by Webzen as 'NewUI' in their source code.<sup><a id="cite148"></a>[[148]](#ref148)</sup>
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
 
