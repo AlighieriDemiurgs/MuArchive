@@ -215,7 +215,7 @@
 
 - Introduction of Devil Square (DS) 1-4.<sup><a id="cite17"></a>[[17]](#ref17), <a id="cite93"></a>[[93]](#ref93)</sup>
 
-- Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> December 2003 to 16<sup>th</sup> December 2003.<sup><a id="cite17"></a>[[17]](#ref17), <a id="cite93"></a>[[93]](#ref93)</sup>
+- Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> February 2003 to 16<sup>th</sup> February 2003.<sup><a id="cite17"></a>[[17]](#ref17), <a id="cite93"></a>[[93]](#ref93)</sup>
 
 **0.?? (14.02.2003):**
 
