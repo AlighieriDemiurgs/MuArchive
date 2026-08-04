@@ -45,7 +45,7 @@
 - Introduction of Guilds.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
 - Added background music.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
-  - Interestingly, MU Online **intro song** and many **map theme songs** were written/composed by **Jeong Jae-hwan (Bound Media)** and performed/recorded by the **Seoul Metropolitan Chorus**.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
+  - Interestingly, MU Online intro song and many map theme songs were written/composed by Jeong Jae-hwan (Bound Media) and performed/recorded by the Seoul Metropolitan Chorus.<sup><a id="cite433"></a>[[433]](#ref433)</sup>
   - Music integration initially relied on a supporting executable called MuPlayer.exe. Later, likely in some version between 0.99B+ and Season 1, the use of MuPlayer.exe was replaced by the wzAudio.dll library.
 
 - Maximum item level increased to +9.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
