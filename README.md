@@ -20,7 +20,7 @@
 - Introduction of 3<sup>rd</sup> character: Fairy Elf (FE) in addition to Dark Knight (DK) and Dark Wizard (DW).<sup><a id="cite5"></a>[[5]](#ref5)</sup>
 
 - Introduction of Fairy Elf (FE) items: Vine set, Silk set, Wind set, Spirit set, Short Bow, Crossbow, Bow, Golden Crossbow, Elven Bow, Arquebus, Battle Bow, Light Crossbow, Tiger Bow, Serpent Crossbow.<sup><a id="cite5"></a>[[5]](#ref5)</sup>
-  - Some sources mentioned that the sixth set mentioned by MU Korea (muonline.co.kr) is Guardian set. The issue with that is the fact that Guardian set was added on drop list on version 0.45. See below. The sixth bow is claimed to be Silver Bow. However, that one was added on drop list on version 0.45 as well.
+  - Some sources claim that the sixth set mentioned by MU Korea (muonline.co.kr) is Guardian set. The issue with that is the fact that Guardian set was added on drop list on version 0.45. See below. The sixth bow is claimed to be Silver Bow. However, that one was added on drop list on version 0.45 as well.
 
 - Added map Noria.<sup><a id="cite5"></a>[[5]](#ref5)</sup>
 
