@@ -417,11 +417,11 @@
 
 **0.99.? (21.09.2004):**
 
-- Introduction of Illusion of Kundun event and map Kalima 1~6.<sup><a id="cite71"></a>[[71]](#ref71), <a id="cite120"></a>[[120]](#ref120)</sup>
+- Introduction of Illusion of Kundun event and map Kalima 1~6.<sup><a id="cite71"></a>[[71]](#ref71), <a id="cite120"></a>[[120]](#ref120), <a id="cite443"></a>[[443]](#ref443), <a id="cite444"></a>[[444]](#ref444)</sup>
 
 **0.99G+ aka 0.99.33 (23.11.2004):**
 
-- Introduction of Guild Alliance (Union) system. General update of Guild system.<sup><a id="cite101"></a>[[101]](#ref101), <a id="cite119"></a>[[119]](#ref119)</sup>
+- Introduction of Guild Alliance (Union) system. General update of Guild system.<sup><a id="cite101"></a>[[101]](#ref101), <a id="cite119"></a>[[119]](#ref119), <a id="cite442"></a>[[442]](#ref442)</sup>
 
 **0.99.? (14.12.2004):**
 
@@ -431,15 +431,16 @@
 
 - Teleport to each Kalima floor added (/move Kalima 1~6).<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116)</sup>
 
-- Added Olive of Love.<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116)</sup>
+- Added Olive of Love and Potion of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> February 2005 to 15<sup>th</sup> February 2005.<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116), <a id="cite441"></a>[[441]](#ref441)</sup>
 
 **1.00s aka 1.00.19 (11.03.2005):**
 
 - Bug fixes.<sup><a id="cite104"></a>[[104]](#ref104)</sup>
 
-**1.0? (27.03.2005):**
+**1.0? (08.03.2005):**
 
-- First edition of Castle Siege held on live server. Previously developed in January on test server.<sup><a id="cite115"></a>[[115]](#ref115), <a id="cite117"></a>[[117]](#ref117), <a id="cite118"></a>[[118]](#ref118)</sup>
+- Introduction of Castle Siege.<sup><a id="cite440"></a>[[440]](#ref440)</sup>
+  - First edition of Castle Siege on live server was held on 27<sup>th</sup> March 2005.<sup><a id="cite115"></a>[[115]](#ref115), <a id="cite117"></a>[[117]](#ref117), <a id="cite118"></a>[[118]](#ref118)</sup>
 
 - Introduction of character-specific Castle Siege Skills: Crescent Moon Slash (DK), Mana Glaive (DW), Starfall (FE), Spiral Slash (MG), Mana Rays (MG), Fire Blast (DL).<sup><a id="cite118"></a>[[118]](#ref118)</sup>
 
@@ -453,29 +454,33 @@
 
 - Introduction of Lord's Mix Item Combination and NPC Senior in Valley of Loren.<sup><a id="cite114"></a>[[114]](#ref114)</sup>
 
+- Guild Alliance (Union) size limit reduced from 7 to 3 Guilds.<sup><a id="cite439"></a>[[439]](#ref439)</sup>
+
 **1.0? (24.05.2005):**
 
 - Introduction of Castle Deep event in Valley of Loren.<sup><a id="cite108"></a>[[108]](#ref108)</sup>
 
-**1.0? (13.06.2005):**
+**1.0? (??.06.2005):**
 
 - Added Devil Square (DS) 5-6.<sup><a id="cite109"></a>[[109]](#ref109)</sup>
 
-**1.0? (13.06.2005):**
+**1.0? (??.06.2005):**
 
-- Changes to Blood Castle (BC) event.<sup><a id="cite110"></a>[[110]](#ref110)</sup>
+- Changes to Blood Castle (BC) event.<sup><a id="cite110"></a>[[110]](#ref110), <a id="cite438"></a>[[438]](#ref438)</sup>
 
-**1.0? (16.06.2005):**
+**1.0? (28.06.2005):**
 
-- Introduction of Elf Soldier (Shadow Phantom Soldier). Buff available till level 100.<sup><a id="cite111"></a>[[111]](#ref111), <a id="cite127"></a>[[127]](#ref127)</sup>
+- Introduction of Elf Soldier (Shadow Phantom Soldier). Buff available till level 100.<sup><a id="cite437"></a>[[437]](#ref437), <a id="cite111"></a>[[111]](#ref111), <a id="cite127"></a>[[127]](#ref127)</sup>
 
-- Minor game adjustments for low level characters.<sup><a id="cite111"></a>[[111]](#ref111)</sup>
+- Minor game adjustments for low level characters.<sup><a id="cite437"></a>[[437]](#ref437), <a id="cite111"></a>[[111]](#ref111)</sup>
 
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
-- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121)</sup>
+- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121)</sup><sup<a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Aida.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
+  - For 7 days no entry level requirement was applied.<sup<a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Crywolf. Entry level requirement of 300.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
+  - For 7 days no entry level requirement was applied.<sup<a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Kalima 7. Entry level requirement of 380.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
 - Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup><a id="cite113"></a>[[113]](#ref113), <a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72)</sup>
 
@@ -2135,3 +2140,39 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
 435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=10&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+
+436. <a id="ref436"></a>[^](#cite436) https://company.webzen.com/en/pr/pressview?seq=326](https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806174219/https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291
+
+437. <a id="ref437"></a>[^](#cite437) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2275>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806175242/https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2275
+
+438. <a id="ref438"></a>[^](#cite438) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2272>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806175720/https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2272
+
+439. <a id="ref439"></a>[^](#cite439) https://company.webzen.com/ko/presscenter/press/pressview?page=540&seq=2259>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806180314/https://company.webzen.com/ko/presscenter/press/pressview?page=540&seq=2259
+
+440. <a id="ref440"></a>[^](#cite440) https://company.webzen.com/ko/presscenter/press/pressview?page=543&seq=2243>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806180549/https://company.webzen.com/ko/presscenter/press/pressview?page=543&seq=2243
+
+441. <a id="ref441"></a>[^](#cite441) https://company.webzen.com/ko/presscenter/press/pressview?page=545&seq=2236>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806181820/https://company.webzen.com/ko/presscenter/press/pressview?page=545&seq=2236
+
+442. <a id="ref442"></a>[^](#cite442) https://company.webzen.com/ko/presscenter/press/pressview?page=549&seq=2216>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182434/https://company.webzen.com/ko/presscenter/press/pressview?page=549&seq=2216
+
+443. <a id="ref443"></a>[^](#cite443) https://company.webzen.com/ko/presscenter/press/pressview?page=550&seq=2208>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182705/https://company.webzen.com/ko/presscenter/press/pressview?page=550&seq=2208
+
+444. <a id="ref444"></a>[^](#cite444) https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206>
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182828/https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206
