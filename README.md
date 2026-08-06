@@ -2133,7 +2133,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 431. <a id="ref431"></a>[^](#cite431) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64049?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
 
-432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan>
+432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan
 
 433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_>
 
@@ -2145,34 +2145,34 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806174219/https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291
 
-437. <a id="ref437"></a>[^](#cite437) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2275>
+437. <a id="ref437"></a>[^](#cite437) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2275
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806175242/https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2275
 
-438. <a id="ref438"></a>[^](#cite438) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2272>
+438. <a id="ref438"></a>[^](#cite438) https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2272
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806175720/https://company.webzen.com/ko/presscenter/press/pressview?page=537&seq=2272
 
-439. <a id="ref439"></a>[^](#cite439) https://company.webzen.com/ko/presscenter/press/pressview?page=540&seq=2259>
+439. <a id="ref439"></a>[^](#cite439) https://company.webzen.com/ko/presscenter/press/pressview?page=540&seq=2259
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806180314/https://company.webzen.com/ko/presscenter/press/pressview?page=540&seq=2259
 
-440. <a id="ref440"></a>[^](#cite440) https://company.webzen.com/ko/presscenter/press/pressview?page=543&seq=2243>
+440. <a id="ref440"></a>[^](#cite440) https://company.webzen.com/ko/presscenter/press/pressview?page=543&seq=2243
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806180549/https://company.webzen.com/ko/presscenter/press/pressview?page=543&seq=2243
 
-441. <a id="ref441"></a>[^](#cite441) https://company.webzen.com/ko/presscenter/press/pressview?page=545&seq=2236>
+441. <a id="ref441"></a>[^](#cite441) https://company.webzen.com/ko/presscenter/press/pressview?page=545&seq=2236
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806181820/https://company.webzen.com/ko/presscenter/press/pressview?page=545&seq=2236
 
-442. <a id="ref442"></a>[^](#cite442) https://company.webzen.com/ko/presscenter/press/pressview?page=549&seq=2216>
+442. <a id="ref442"></a>[^](#cite442) https://company.webzen.com/ko/presscenter/press/pressview?page=549&seq=2216
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182434/https://company.webzen.com/ko/presscenter/press/pressview?page=549&seq=2216
 
-443. <a id="ref443"></a>[^](#cite443) https://company.webzen.com/ko/presscenter/press/pressview?page=550&seq=2208>
+443. <a id="ref443"></a>[^](#cite443) https://company.webzen.com/ko/presscenter/press/pressview?page=550&seq=2208
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182705/https://company.webzen.com/ko/presscenter/press/pressview?page=550&seq=2208
 
-444. <a id="ref444"></a>[^](#cite444) https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206>
+444. <a id="ref444"></a>[^](#cite444) https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182828/https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206
