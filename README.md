@@ -417,7 +417,7 @@
 
 **0.99.? (21.09.2004):**
 
-- Introduction of Illusion of Kundun event and map Kalima 1~6.<sup><a id="cite71"></a>[[71]](#ref71), <a id="cite120"></a>[[120]](#ref120), <a id="cite443"></a>[[443]](#ref443), <a id="cite444"></a>[[444]](#ref444)</sup>
+- Introduction of Illusion of Kundun event and map Kalima 1-6.<sup><a id="cite71"></a>[[71]](#ref71), <a id="cite120"></a>[[120]](#ref120), <a id="cite443"></a>[[443]](#ref443), <a id="cite444"></a>[[444]](#ref444)</sup>
 
 **0.99G+ aka 0.99.33 (23.11.2004):**
 
